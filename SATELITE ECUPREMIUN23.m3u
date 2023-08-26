@@ -1,0 +1,953 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="ECUA| TELEAMAZONAS HD*" tvg-logo="http://iptvglobal.site:25461/images/2fa94c3ee9c77a41a3d398bf63e072bd.png" group-title="TV | ECUADOR ",ECUA| TELEAMAZONAS HD*
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/86531
+#EXTINF:-1 tvg-id="" tvg-name="ECUA| ECUADOR TV INTERNACIONAL HD*" tvg-logo="http://iptvglobal.site:25461/images/15e60f7d8af753d0c74184e29df5e842.png" group-title="TV | ECUADOR ",ECUA| ECUADOR TV INTERNACIONAL HD*
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/86538
+#EXTINF:-1 tvg-id="" tvg-name="ECUA| ECUAVISA INTERNACIONAL HD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Logo_Ecuavisa.svg/1200px-Logo_Ecuavisa.svg.png" group-title="TV | ECUADOR ",ECUA| ECUAVISA INTERNACIONAL HD*
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/86543
+#EXTINF:-1 tvg-id="" tvg-name="ECUA| DIRECTV SPORTS HD" tvg-logo="https://i.picasion.com/pic92/60662cbbebf6f1be40ca8ed7f890833c.gif" group-title="TV | DEPORTES ECUADOR",ECUA| DIRECTV SPORTS HD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/86547
+#EXTINF:-1 tvg-id="" tvg-name="ECUA| CANAL DE FUTBOL HD ( SOLO EVENTOS)" tvg-logo="" group-title="TV | DEPORTES ECUADOR",ECUA| CANAL DE FUTBOL HD ( SOLO EVENTOS)
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/86549
+#EXTINF:-1 tvg-id="" tvg-name="Ecuador - RTS SD" tvg-logo="http://iptvglobal.site:25461/images/4d358721c803edde72b9e29ef08ab996.png" group-title="TV | ECUADOR ",Ecuador - RTS SD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/87681
+#EXTINF:-1 tvg-id="" tvg-name="Ecuador - Gamavision 2mb" tvg-logo="http://51.81.47.69:8080/videosmiarea/logotransparente.png" group-title="TV | ECUADOR ",Ecuador - Gamavision 2mb
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/87682
+#EXTINF:-1 tvg-id="" tvg-name="Ecuador - Ecuavisa [Quito] 2mb" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Logo_Ecuavisa.svg/1200px-Logo_Ecuavisa.svg.png" group-title="TV | ECUADOR ",Ecuador - Ecuavisa [Quito] 2mb
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/87683
+#EXTINF:-1 tvg-id="" tvg-name="Ecuador - Canela TV 2mb" tvg-logo="http://51.81.47.69:8080/videosmiarea/logotransparente.png" group-title="TV | ECUADOR ",Ecuador - Canela TV 2mb
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/87687
+#EXTINF:-1 tvg-id="" tvg-name="Ecuador - Canal del Futbol 2mb" tvg-logo="http://51.81.47.69:8080/videosmiarea/logotransparente.png" group-title="TV | ECUADOR ",Ecuador - Canal del Futbol 2mb
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/87688
+#EXTINF:-1 tvg-id="" tvg-name="Ecuador - RTS 2mb" tvg-logo="http://iptvglobal.site:25461/images/4d358721c803edde72b9e29ef08ab996.png" group-title="TV | ECUADOR ",Ecuador - RTS 2mb
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/87689
+#EXTINF:-1 tvg-id="" tvg-name="Ecuador - TVC 2mb" tvg-logo="http://iptvglobal.site:25461/images/06dca510e40108c84e04a6869d1f9fc5.png" group-title="TV | ECUADOR ",Ecuador - TVC 2mb
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/87690
+#EXTINF:-1 tvg-id="" tvg-name="ECUA| ESPN 4 SUR HD" tvg-logo="http://iptvglobal.site:25461/images/653b93084b5991f352db71698acf708f.png" group-title="TV | DEPORTES ECUADOR",ECUA| ESPN 4 SUR HD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/119644
+#EXTINF:-1 tvg-id="" tvg-name="ECUA| FOX SPORST 2 HD" tvg-logo="http://iptvglobal.site:25461/images/cf7ac9458c61ba7c803e22e820315fee.png" group-title="TV | DEPORTES ECUADOR",ECUA| FOX SPORST 2 HD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/119645
+#EXTINF:-1 tvg-id="" tvg-name="ECUA| FOX SPORTS 3 HD" tvg-logo="https://i.picasion.com/pic92/750f7e24fe0d3482e6c5b32048f66d6b.gif" group-title="TV | DEPORTES ECUADOR",ECUA| FOX SPORTS 3 HD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/119646
+#EXTINF:-1 tvg-id="" tvg-name="ECUA| DIRECTV SPORTS PLUS HD" tvg-logo="http://iptvglobal.site:25461/images/0a20ee8d8693958ebdedf9497e5a4562.png" group-title="TV | DEPORTES ECUADOR",ECUA| DIRECTV SPORTS PLUS HD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/119647
+#EXTINF:-1 tvg-id="" tvg-name="ECUA| DIRECTV SPORTS 2 HD*" tvg-logo="http://iptvglobal.site:25461/images/90774583ba793531640321a5514beb55.png" group-title="TV | DEPORTES ECUADOR",ECUA| DIRECTV SPORTS 2 HD*
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/119648
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | CANAL UNO (fw)" tvg-logo="https://3.bp.blogspot.com/-FL1zUnUXJYY/W0plHsjff7I/AAAAAAAAGXE/NwHQA09f5QEoJxd4PQzsOdJ6yn0ymbanQCLcBGAs/s1600/uno%2Becuador.png" group-title="TV | ECUADOR ",ECUADOR | CANAL UNO (fw)
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/129466
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | TVC HD (P)" tvg-logo="http://iptvglobal.site:25461/images/62590e40a6e31d955df0b007fffafe82.jpg" group-title="TV | ECUADOR ",ECUADOR | TVC HD (P)
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/129467
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | RTS (fw)" tvg-logo="https://pbs.twimg.com/profile_images/1127978058504339461/lbChzuL4_400x400.png" group-title="TV | ECUADOR ",ECUADOR | RTS (fw)
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/129469
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | ECUAVISA" tvg-logo="http://iptvglobal.site:25461/images/0c89488beced7da069ba36b507f5f43d.png" group-title="TV | ECUADOR ",ECUADOR | ECUAVISA
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/129470
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | TELEAMAZONAS HD" tvg-logo="http://iptvglobal.site:25461/images/02722f624ad0129fa82d2552e69c3a49.png" group-title="TV | ECUADOR ",ECUADOR | TELEAMAZONAS HD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/129471
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | CANELA TV (P)" tvg-logo="https://pbs.twimg.com/profile_images/1047132789617889280/5z7LHnkv_400x400.jpg" group-title="TV | ECUADOR ",ECUADOR | CANELA TV (P)
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/129472
+#EXTINF:-1 tvg-id="" tvg-name="EC | ECUAVISA FHD (GYE)" tvg-logo="http://iptvglobal.site:25461/images/f72e82230f5736c303c6b5d46c54ccb6.png" group-title="TV | ECUADOR ",EC | ECUAVISA FHD (GYE)
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/129475
+#EXTINF:-1 tvg-id="" tvg-name="EC | TELEAMAZONAS FHD (GYE)" tvg-logo="http://iptvglobal.site:25461/images/36f5c189cbb40a09cc8e4f9bddf6a126.png" group-title="TV | ECUADOR ",EC | TELEAMAZONAS FHD (GYE)
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/129477
+#EXTINF:-1 tvg-id="" tvg-name="EC | GAMAVISION FHD" tvg-logo="http://iptvglobal.site:25461/images/001feab9a769d30e8e2381573975ccc9.png" group-title="TV | ECUADOR ",EC | GAMAVISION FHD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/129480
+#EXTINF:-1 tvg-id="" tvg-name="EC | TC TELEVISION HD" tvg-logo="http://playhispano.org:8080/images/ce055edff7dd9f5ef976ac3fb517afc3.png" group-title="TV | ECUADOR ",EC | TC TELEVISION HD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/129482
+#EXTINF:-1 tvg-id="" tvg-name="EC | ECUADOR TV" tvg-logo="http://playhispano.org:8080/images/5e5dad6990b008632e2ca194fa556005.png" group-title="TV | ECUADOR ",EC | ECUADOR TV
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/129483
+#EXTINF:-1 tvg-id="" tvg-name="EC | TVC" tvg-logo="http://iptvglobal.site:25461/images/ce0028e6df1581ec07c136f86f8b07d5.png" group-title="TV | ECUADOR ",EC | TVC
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/129484
+#EXTINF:-1 tvg-id="" tvg-name="EC | El Canal del Futbol SD*" tvg-logo="http://iptvglobal.site:25461/images/c637335bebf911578e18934c20810750.png" group-title="TV | DEPORTES ECUADOR",EC | El Canal del Futbol SD*
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/129488
+#EXTINF:-1 tvg-id="" tvg-name="EC | DTV SPORTS 1" tvg-logo="http://iptvglobal.site:25461/images/127824a2ea4c43ebd3702a89ea5761ef.png" group-title="TV | DEPORTES ECUADOR",EC | DTV SPORTS 1
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/129489
+#EXTINF:-1 tvg-id="" tvg-name="EC | ECUAVISA FHD (GYE)" tvg-logo="http://iptvglobal.site:25461/images/f72e82230f5736c303c6b5d46c54ccb6.png" group-title="TV | ECUADOR ",EC | ECUAVISA FHD (GYE)
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/129491
+#EXTINF:-1 tvg-id="" tvg-name="EC | TELEAMAZONAS FHD (GYE)" tvg-logo="http://iptvglobal.site:25461/images/36f5c189cbb40a09cc8e4f9bddf6a126.png" group-title="TV | ECUADOR ",EC | TELEAMAZONAS FHD (GYE)
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/129493
+#EXTINF:-1 tvg-id="" tvg-name="EC | PLANETA TV" tvg-logo="http://fasttvplay.com/fastapp/PLANETA.jpeg" group-title="TV | ECUADOR ",EC | PLANETA TV
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/129495
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR| GOL TV" tvg-logo="http://miarea.vip:8080/images/9d665ee347de60cae5e035f601866fa1.png" group-title="TV | DEPORTES ECUADOR",ECUADOR| GOL TV
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/140676
+#EXTINF:-1 tvg-id="" tvg-name="ECUA| GOLTV HD*" tvg-logo="http://playhispano.org:25461/images/d83efbc5a641efaf1e2c665df5664dfc.png" group-title="TV | DEPORTES ECUADOR",ECUA| GOLTV HD*
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/140677
+#EXTINF:-1 tvg-id="" tvg-name="EC: ECUAVISA QUITO" tvg-logo="http://iptvglobal.site:25461/images/6001fea1afd53890f444612a5731f397.png" group-title="TV | ECUADOR ",EC: ECUAVISA QUITO
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/142280
+#EXTINF:-1 tvg-id="" tvg-name="EC: TELEAMAZONAS HD" tvg-logo="http://iptvglobal.site:25461/images/2fc174c07a79fb52bd95ac898e932c7a.png" group-title="TV | ECUADOR ",EC: TELEAMAZONAS HD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/142287
+#EXTINF:-1 tvg-id="" tvg-name="SD_LAT: DIRECTV SPORTS PLUS | Ecuador" tvg-logo="https://i.picasion.com/pic92/e353f49bde35224b544146bb01e44e54.gif" group-title=" TV | LATINO (USA) (SD)",SD_LAT: DIRECTV SPORTS PLUS | Ecuador
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/131149
+#EXTINF:-1 tvg-id="" tvg-name="2 MB |  Ecuavisa LQ" tvg-logo="http://playhispano.org:8080/images/47d897ca58893ff4456ace1544ae4832.png" group-title="TV | LATINO PACK SD 3MB",2 MB |  
+avisa LQ
+#EXTINF:-1 tvg-id="" tvg-name="LIGA ECUADOR: GOL TV HD OP1" tvg-logo="http://iptvglobal.site:25461/images/00ce6b91c7c28032cfa229d406b4a7f8.png" group-title=" PPV | LIGAS DE FÚTBOL LATINOAMÉRICA",LIGA ECUADOR: GOL TV HD OP1
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/129712
+#EXTINF:-1 tvg-id="" tvg-name="ECU | ECDF SD" tvg-logo="http://playhispano.org:8080/images/161c2c6a03815c0c0531c11ea6c5b9af.png" group-title="TV | DEPORTES ECUADOR",ECU | ECDF SD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/222931
+#EXTINF:-1 tvg-id="" tvg-name="ECU | ECDF" tvg-logo="http://playhispano.org:8080/images/161c2c6a03815c0c0531c11ea6c5b9af.png" group-title="TV | DEPORTES ECUADOR",ECU | ECDF
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/222932
+#EXTINF:-1 tvg-id="" tvg-name="EC| El Canal del Futbol SD" tvg-logo="http://l3d.us:25461/images/5b53a9aaf5778c6259e3faecd5e46ef1.png" group-title="TV | DEPORTES ECUADOR",EC| El Canal del Futbol SD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/264131
+#EXTINF:-1 tvg-id="" tvg-name="EC| El Canal del Futbol HD" tvg-logo="http://l3d.us:25461/images/5b53a9aaf5778c6259e3faecd5e46ef1.png" group-title="TV | DEPORTES ECUADOR",EC| El Canal del Futbol HD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/264132
+#EXTINF:-1 tvg-id="" tvg-name="EC| El Canal del Futbol FHD" tvg-logo="http://l3d.us:25461/images/5b53a9aaf5778c6259e3faecd5e46ef1.png" group-title="TV | DEPORTES ECUADOR",EC| El Canal del Futbol FHD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/264133
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA| MOVISTAR LA LIGA FHD" tvg-logo="https://i.picasion.com/pic92/9e9f173f9818cb06cda373646924c965.gif" group-title=" TV | DEPORTES LATINOS (FHD)",ESPAÑA| MOVISTAR LA LIGA FHD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/70747
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES FHD | DEP_ESP" tvg-logo="https://i.picasion.com/pic92/a8988552c2f2400e3fb51f6a6e2d0fcb.gif" group-title=" TV | DEPORTES LATINOS (FHD)",MOVISTAR DEPORTES FHD | DEP_ESP
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/70748
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES SD | PE" tvg-logo="https://i.picasion.com/pic92/a8988552c2f2400e3fb51f6a6e2d0fcb.gif" group-title=" TV | DEPORTES LATINOS (FHD)",MOVISTAR DEPORTES SD | PE
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/70749
+#EXTINF:-1 tvg-id="" tvg-name="DTv | NBA-TV (OPC 2)" tvg-logo="https://i.picasion.com/pic91/941a908a5c045f0a914c3930fdda7e48.gif" group-title=" TV | DEPORTES LATINOS (FHD)",DTv | NBA-TV (OPC 2)
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/70773
+#EXTINF:-1 tvg-id="" tvg-name="Sur - Directv Sports 2 HD" tvg-logo="https://i.picasion.com/pic92/60662cbbebf6f1be40ca8ed7f890833c.gif" group-title=" TV | DEPORTES LATINOS (FHD)",Sur - Directv Sports 2 HD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/79657
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS" tvg-logo="https://caracoltv.brightspotcdn.com/dims4/default/4b9cad1/2147483647/strip/true/crop/1000x716+0+0/resize/1000x716!/format/webp/quality/90/?url=http%3A%2F%2Fcaracol-brightspot.s3.amazonaws.com%2F0f%2Fd6%2F71d0eb894151a228abcc5d13f591%2Fcopa-suramericana-conmebol-foto-twitter.jpg" group-title=" TV | DEPORTES LATINOS (FHD)",DIRECTV SPORTS
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/79659
+#EXTINF:-1 tvg-id="" tvg-name="LAT | DIRECTV SPORTS + (P)" tvg-logo="https://i.picasion.com/pic92/60662cbbebf6f1be40ca8ed7f890833c.gif" group-title=" TV | DEPORTES LATINOS (FHD)",LAT | DIRECTV SPORTS + (P)
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/79660
+#EXTINF:-1 tvg-id="" tvg-name="LAT | DIRECTV SPORTS 2 (P)" tvg-logo="https://i.picasion.com/pic92/60662cbbebf6f1be40ca8ed7f890833c.gif" group-title=" TV | DEPORTES LATINOS (FHD)",LAT | DIRECTV SPORTS 2 (P)
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/79661
+#EXTINF:-1 tvg-id="" tvg-name="Directv Sports 2 HD" tvg-logo="https://i.picasion.com/pic92/60662cbbebf6f1be40ca8ed7f890833c.gif" group-title=" TV | DEPORTES LATINOS (FHD)",Directv Sports 2 HD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/79665
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES| TUDN USA * HD" tvg-logo="https://i.picasion.com/pic92/f4d210f979677a34da7f2dca1aa67ca0.gif" group-title=" TV | DEPORTES LATINOS (FHD)",DEPORTES| TUDN USA * HD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/86242
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES| UNIVISION DEPORTES HD" tvg-logo="https://i.picasion.com/pic92/6f3c8f0406cd9de786429facf67f3ba2.gif" group-title=" TV | DEPORTES LATINOS (FHD)",DEPORTES| UNIVISION DEPORTES HD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/86244
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES| GOLTV EN ESPANOL  HD" tvg-logo="https://i.picasion.com/pic92/74ed7d9f4315365f4bef7023d7535314.gif" group-title=" TV | DEPORTES LATINOS (FHD)",DEPORTES| GOLTV EN ESPANOL  HD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/86245
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES| FOX SPORTS 1 HD MEXICO" tvg-logo="https://i.picasion.com/pic92/6b76912db928c5dcb12bde0ed5c42647.gif" group-title=" TV | DEPORTES LATINOS (FHD)",DEPORTES| FOX SPORTS 1 HD MEXICO
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/86248
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES| FOX SPORTS 2 HD MEXICO" tvg-logo="https://i.picasion.com/pic92/a4002824560f0758832bf017e306de3c.gif" group-title=" TV | DEPORTES LATINOS (FHD)",DEPORTES| FOX SPORTS 2 HD MEXICO
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/86249
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES| FOX SPORTS 3 HD MEXICO" tvg-logo="https://i.picasion.com/pic92/750f7e24fe0d3482e6c5b32048f66d6b.gif" group-title=" TV | DEPORTES LATINOS (FHD)",DEPORTES| FOX SPORTS 3 HD MEXICO
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/86250
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES| ESPN XTRA MEXICO HD" tvg-logo="https://i.picasion.com/pic92/2f4a274348c8a3d349dea14c2a8170a9.gif" group-title=" TV | DEPORTES LATINOS (FHD)",DEPORTES| ESPN XTRA MEXICO HD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/86253
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES| ESPN 1 HD MEXICO" tvg-logo="https://i.picasion.com/pic92/5dc351b9ee68f3b27d6da53c92bc2458.gif" group-title=" TV | DEPORTES LATINOS (FHD)",DEPORTES| ESPN 1 HD MEXICO
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/86254
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES| ESPN 2 HD MEXICO" tvg-logo="https://i.picasion.com/pic92/487f45a9b2d9452efff17de9e6c141b7.gif" group-title=" TV | DEPORTES LATINOS (FHD)",DEPORTES| ESPN 2 HD MEXICO
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/86255
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES| ESPN 3 HD MEXICO" tvg-logo="https://i.picasion.com/pic92/b363a44564fce565843db3971ab14157.gif" group-title=" TV | DEPORTES LATINOS (FHD)",DEPORTES| ESPN 3 HD MEXICO
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/86256
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES| TUDN  HD MEXICO" tvg-logo="https://i.picasion.com/pic92/f4d210f979677a34da7f2dca1aa67ca0.gif" group-title=" TV | DEPORTES LATINOS (FHD)",DEPORTES| TUDN  HD MEXICO
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/86260
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES| CLARO SPORTS HD MEXICO" tvg-logo="https://i.picasion.com/pic92/6f2c6e86536a9101ec707922eb71cb8c.gif" group-title=" TV | DEPORTES LATINOS (FHD)",DEPORTES| CLARO SPORTS HD MEXICO
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/86262
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES| TVC DEPORTES HD MEXICO" tvg-logo="https://i.picasion.com/pic92/07687f79d737ecf705d17a50ed376b12.gif" group-title=" TV | DEPORTES LATINOS (FHD)",DEPORTES| TVC DEPORTES HD MEXICO
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/86263
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES| ESPN 1 HD ARGENTINA" tvg-logo="https://i.picasion.com/pic92/5dc351b9ee68f3b27d6da53c92bc2458.gif" group-title=" TV | DEPORTES LATINOS (FHD)",DEPORTES| ESPN 1 HD ARGENTINA
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/86264
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES| ESPN 2 HD ARGENTINA" tvg-logo="https://i.picasion.com/pic92/487f45a9b2d9452efff17de9e6c141b7.gif" group-title=" TV | DEPORTES LATINOS (FHD)",DEPORTES| ESPN 2 HD ARGENTINA
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/86265
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES| ESPN 3 HD ARGENTINA" tvg-logo="https://i.picasion.com/pic92/b363a44564fce565843db3971ab14157.gif" group-title=" TV | DEPORTES LATINOS (FHD)",DEPORTES| ESPN 3 HD ARGENTINA
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/86266
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES| DIRECTV SPORTS  HD ECUADOR" tvg-logo="https://i.picasion.com/pic92/60662cbbebf6f1be40ca8ed7f890833c.gif" group-title=" TV | DEPORTES LATINOS (FHD)",DEPORTES| DIRECTV SPORTS  HD ECUADOR
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/86283
+#EXTINF:-1 tvg-id="" tvg-name="COL| DIRECTV SPORTS 1 HD*" tvg-logo="https://i.picasion.com/pic92/60662cbbebf6f1be40ca8ed7f890833c.gif" group-title="TV | DEPORTES COLOMBIA",COL| DIRECTV SPORTS 1 HD*
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/86349
+#EXTINF:-1 tvg-id="" tvg-name="COL| DIRECTV SPORTS 2 HD" tvg-logo="https://i.picasion.com/pic92/60662cbbebf6f1be40ca8ed7f890833c.gif" group-title="TV | DEPORTES COLOMBIA",COL| DIRECTV SPORTS 2 HD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/86350
+#EXTINF:-1 tvg-id="" tvg-name="COL| DIRECTV SPORTS +" tvg-logo="https://i.picasion.com/pic92/60662cbbebf6f1be40ca8ed7f890833c.gif" group-title="TV | DEPORTES COLOMBIA",COL| DIRECTV SPORTS +
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/86351
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS| CANAL + SPORTS HD" tvg-logo="https://i.picasion.com/pic92/0f9994f79c60f31489383407680c4e4a.gif" group-title=" TV | DEPORTES LATINOS (FHD)",SPORTS| CANAL + SPORTS HD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/86457
+#EXTINF:-1 tvg-id="" tvg-name="ECUA| DIRECTV SPORTS HD" tvg-logo="https://i.picasion.com/pic92/60662cbbebf6f1be40ca8ed7f890833c.gif" group-title=" TV | DEPORTES LATINOS (FHD)",ECUA| DIRECTV SPORTS HD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/86539
+#EXTINF:-1 tvg-id="" tvg-name="CHILE| DIRECTV SPORTS HD" tvg-logo="https://caracoltv.brightspotcdn.com/dims4/default/4b9cad1/2147483647/strip/true/crop/1000x716+0+0/resize/1000x716!/format/webp/quality/90/?url=http%3A%2F%2Fcaracol-brightspot.s3.amazonaws.com%2F0f%2Fd6%2F71d0eb894151a228abcc5d13f591%2Fcopa-suramericana-conmebol-foto-twitter.jpg" group-title=" TV | DEPORTES CHILE",CHILE| DIRECTV SPORTS HD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/86584
+#EXTINF:-1 tvg-id="" tvg-name="CHILE| DIRECTV SPORTS 2 HD" tvg-logo="https://i.picasion.com/pic92/60662cbbebf6f1be40ca8ed7f890833c.gif" group-title=" TV | DEPORTES CHILE",CHILE| DIRECTV SPORTS 2 HD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/86588
+#EXTINF:-1 tvg-id="" tvg-name="ARG| DIRECTV SPORTS FHD" tvg-logo="https://caracoltv.brightspotcdn.com/dims4/default/4b9cad1/2147483647/strip/true/crop/1000x716+0+0/resize/1000x716!/format/webp/quality/90/?url=http%3A%2F%2Fcaracol-brightspot.s3.amazonaws.com%2F0f%2Fd6%2F71d0eb894151a228abcc5d13f591%2Fcopa-suramericana-conmebol-foto-twitter.jpg" group-title=" TV | DEPORTES LATINOS (FHD)",ARG| DIRECTV SPORTS FHD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/86646
+#EXTINF:-1 tvg-id="" tvg-name="ARG| DIRECTV SPORTS PLUS FHD" tvg-logo="https://i.picasion.com/pic92/60662cbbebf6f1be40ca8ed7f890833c.gif" group-title=" TV | DEPORTES LATINOS (FHD)",ARG| DIRECTV SPORTS PLUS FHD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/86647
+#EXTINF:-1 tvg-id="" tvg-name="Ecuador - Directv Sports 2mb" tvg-logo="https://i.picasion.com/pic92/60662cbbebf6f1be40ca8ed7f890833c.gif" group-title=" TV | DEPORTES LATINOS (FHD)",Ecuador - Directv Sports 2mb
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/87686
+#EXTINF:-1 tvg-id="" tvg-name="LAT| UNIVISION DEPORTES HD P" tvg-logo="https://i.picasion.com/pic92/6f3c8f0406cd9de786429facf67f3ba2.gif" group-title=" TV | DEPORTES LATINOS (FHD)",LAT| UNIVISION DEPORTES HD P
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/87981
+#EXTINF:-1 tvg-id="" tvg-name="LAT| TUDN DEPORTES USA HD" tvg-logo="https://i.picasion.com/pic92/f4d210f979677a34da7f2dca1aa67ca0.gif" group-title=" TV | DEPORTES LATINOS (FHD)",LAT| TUDN DEPORTES USA HD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/87982
+#EXTINF:-1 tvg-id="" tvg-name="LAT| ESPN DEPORTES HD" tvg-logo="https://i.picasion.com/pic92/8dad70bcf14e7499cdbfc8806fc34210.gif" group-title=" TV | DEPORTES LATINOS (FHD)",LAT| ESPN DEPORTES HD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/87983
+#EXTINF:-1 tvg-id="" tvg-name="LAT| FOX DEPORTES HD**" tvg-logo="https://i.picasion.com/pic92/857d917df17bcc048051a9b416502455.gif" group-title=" TV | DEPORTES LATINOS (FHD)",LAT| FOX DEPORTES HD**
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/87985
+#EXTINF:-1 tvg-id="" tvg-name="LAT| GOLTV HD" tvg-logo="https://i.picasion.com/pic92/74ed7d9f4315365f4bef7023d7535314.gif" group-title=" TV | DEPORTES LATINOS (FHD)",LAT| GOLTV HD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/87987
+#EXTINF:-1 tvg-id="" tvg-name="LAT| GOLTV USA ENGLISH HD" tvg-logo="https://i.picasion.com/pic92/74ed7d9f4315365f4bef7023d7535314.gif" group-title=" TV | DEPORTES LATINOS (FHD)",LAT| GOLTV USA ENGLISH HD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/87988
+#EXTINF:-1 tvg-id="" tvg-name="LAT| TYC SPORTS HD" tvg-logo="https://i.picasion.com/pic92/7b7a215850e7fad2f99b462e9f5ad563.gif" group-title=" TV | DEPORTES LATINOS (FHD)",LAT| TYC SPORTS HD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/87989
+#EXTINF:-1 tvg-id="" tvg-name="LAT| ESPN 3 SUR HD" tvg-logo="https://i.picasion.com/pic92/9034b9916616291e104d2593598ced80.gif" group-title=" TV | DEPORTES LATINOS (FHD)",LAT| ESPN 3 SUR HD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/87990
+#EXTINF:-1 tvg-id="" tvg-name="LAT| ESPN 2 SUR HD" tvg-logo="https://i.picasion.com/pic92/487f45a9b2d9452efff17de9e6c141b7.gif" group-title=" TV | DEPORTES LATINOS (FHD)",LAT| ESPN 2 SUR HD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/87991
+#EXTINF:-1 tvg-id="" tvg-name="LAT| ESPN SUR HD" tvg-logo="https://i.picasion.com/pic92/07ebf88a36a9de3055cf7546db2684e5.gif" group-title=" TV | DEPORTES LATINOS (FHD)",LAT| ESPN SUR HD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/87992
+#EXTINF:-1 tvg-id="" tvg-name="LAT| FOX SPORTS 1 HD*" tvg-logo="https://i.picasion.com/pic92/6b76912db928c5dcb12bde0ed5c42647.gif" group-title=" TV | DEPORTES LATINOS (FHD)",LAT| FOX SPORTS 1 HD*
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/87993
+#EXTINF:-1 tvg-id="" tvg-name="LAT| FOX SPORTS 2 HD*" tvg-logo="https://i.picasion.com/pic92/a4002824560f0758832bf017e306de3c.gif" group-title=" TV | DEPORTES LATINOS (FHD)",LAT| FOX SPORTS 2 HD*
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/87994
+#EXTINF:-1 tvg-id="" tvg-name="LAT| FOX SPORTS 3 HD*" tvg-logo="https://i.picasion.com/pic92/750f7e24fe0d3482e6c5b32048f66d6b.gif" group-title=" TV | DEPORTES LATINOS (FHD)",LAT| FOX SPORTS 3 HD*
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/87995
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES LAT | TIGO SPORTS PLUS PARAGUAY" tvg-logo="https://i.picasion.com/pic92/eabe6890ee1d6de7f3b7e8e946577b59.gif" group-title=" TV | DEPORTES LATINOS (FHD)",DEPORTES LAT | TIGO SPORTS PLUS PARAGUAY
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/89995
+#EXTINF:-1 tvg-id="" tvg-name="SKY-SSTV:FOX SPORTS 1 HD" tvg-logo="https://i.picasion.com/pic92/6b76912db928c5dcb12bde0ed5c42647.gif" group-title=" TV | DEPORTES LATINOS (FHD)",SKY-SSTV:FOX SPORTS 1 HD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/90510
+#EXTINF:-1 tvg-id="" tvg-name="SKY-SSTV:FOX SPORTS 2 HD" tvg-logo="https://i.picasion.com/pic92/a4002824560f0758832bf017e306de3c.gif" group-title=" TV | DEPORTES LATINOS (FHD)",SKY-SSTV:FOX SPORTS 2 HD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/90511
+#EXTINF:-1 tvg-id="" tvg-name="SKY-SSTV:FOX SPORTS 3" tvg-logo="https://i.picasion.com/pic92/750f7e24fe0d3482e6c5b32048f66d6b.gif" group-title=" TV | DEPORTES LATINOS (FHD)",SKY-SSTV:FOX SPORTS 3
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/90512
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2 HD AR" tvg-logo="https://i.picasion.com/pic92/a4002824560f0758832bf017e306de3c.gif" group-title=" TV | DEPORTES LATINOS (FHD)",FOX SPORTS 2 HD AR
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/90513
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 1 HD AR" tvg-logo="https://i.picasion.com/pic92/6b76912db928c5dcb12bde0ed5c42647.gif" group-title=" TV | DEPORTES LATINOS (FHD)",FOX SPORTS 1 HD AR
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/90514
+#EXTINF:-1 tvg-id="fox1hd.mx" tvg-name="DEPORTES LAT | FOX SPORTS 1 HD MX (E)" tvg-logo="https://i.picasion.com/pic92/6b76912db928c5dcb12bde0ed5c42647.gif" group-title=" TV | DEPORTES LATINOS (FHD)",DEPORTES LAT | FOX SPORTS 1 HD MX (E)
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/90515
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES LAT | FOX SPORTS 3 FHD CO (A)" tvg-logo="https://i.picasion.com/pic92/a4002824560f0758832bf017e306de3c.gif" group-title=" TV | DEPORTES LATINOS (FHD)",DEPORTES LAT | FOX SPORTS 3 FHD CO (A)
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/90516
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES LAT | FOX SPORTS 2 HD CO (A)" tvg-logo="https://i.picasion.com/pic92/a4002824560f0758832bf017e306de3c.gif" group-title=" TV | DEPORTES LATINOS (FHD)",DEPORTES LAT | FOX SPORTS 2 HD CO (A)
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/90517
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES LAT | FOX SPORTS 1 HD CO (A)" tvg-logo="https://i.picasion.com/pic92/6b76912db928c5dcb12bde0ed5c42647.gif" group-title=" TV | DEPORTES LATINOS (FHD)",DEPORTES LAT | FOX SPORTS 1 HD CO (A)
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/90518
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES LAT | FOX SPORTS 3 FHD AR (E)" tvg-logo="https://i.picasion.com/pic92/750f7e24fe0d3482e6c5b32048f66d6b.gif" group-title=" TV | DEPORTES LATINOS (FHD)",DEPORTES LAT | FOX SPORTS 3 FHD AR (E)
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/90519
+#EXTINF:-1 tvg-id="beinsportespanol.us" tvg-name="Bein Sports ES" tvg-logo="https://caracoltv.brightspotcdn.com/dims4/default/4b9cad1/2147483647/strip/true/crop/1000x716+0+0/resize/1000x716!/format/webp/quality/90/?url=http%3A%2F%2Fcaracol-brightspot.s3.amazonaws.com%2F0f%2Fd6%2F71d0eb894151a228abcc5d13f591%2Fcopa-suramericana-conmebol-foto-twitter.jpg" group-title=" TV | DEPORTES LATINOS (FHD)",Bein Sports ES
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/90528
+#EXTINF:-1 tvg-id="" tvg-name="USA| NBC SPORTS WASHINGTON PLUS HD" tvg-logo="https://i.picasion.com/pic92/c881ebbc98d1481388f30cf54c74d0eb.gif" group-title=" TV | DEPORTES LATINOS (FHD)",USA| NBC SPORTS WASHINGTON PLUS HD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/91706
+#EXTINF:-1 tvg-id="" tvg-name="HQ | Claro Sports" tvg-logo="https://i.picasion.com/pic92/6f2c6e86536a9101ec707922eb71cb8c.gif" group-title=" TV | DEPORTES LATINOS (FHD)",HQ | Claro Sports
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/97913
+#EXTINF:-1 tvg-id="" tvg-name="Sur - Directv Sports HD (Col)" tvg-logo="https://i.picasion.com/pic92/60662cbbebf6f1be40ca8ed7f890833c.gif" group-title=" TV | DEPORTES LATINOS (FHD)",Sur - Directv Sports HD (Col)
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/105197
+#EXTINF:-1 tvg-id="" tvg-name="Directv Sports HD (Col)" tvg-logo="https://caracoltv.brightspotcdn.com/dims4/default/4b9cad1/2147483647/strip/true/crop/1000x716+0+0/resize/1000x716!/format/webp/quality/90/?url=http%3A%2F%2Fcaracol-brightspot.s3.amazonaws.com%2F0f%2Fd6%2F71d0eb894151a228abcc5d13f591%2Fcopa-suramericana-conmebol-foto-twitter.jpg" group-title=" TV | DEPORTES LATINOS (FHD)",Directv Sports HD (Col)
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/105198
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES FHD | DEP_ESP" tvg-logo="https://i.picasion.com/pic92/a8988552c2f2400e3fb51f6a6e2d0fcb.gif" group-title=" TV | DEPORTES LATINOS (FHD)",MOVISTAR DEPORTES FHD | DEP_ESP
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/105203
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES SD | PE" tvg-logo="https://i.picasion.com/pic92/a8988552c2f2400e3fb51f6a6e2d0fcb.gif" group-title=" TV | DEPORTES LATINOS (FHD)",MOVISTAR DEPORTES SD | PE
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/105204
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LA LIGA | DEP_ESP" tvg-logo="https://i.picasion.com/pic92/9e9f173f9818cb06cda373646924c965.gif" group-title=" TV | DEPORTES LATINOS (FHD)",MOVISTAR LA LIGA | DEP_ESP
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/105206
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LIGA DE CAMPEONES HD | DEP_ESP" tvg-logo="https://i.picasion.com/pic92/eca6e881b070a58d6e88b09bf765de3a.gif" group-title=" TV | DEPORTES LATINOS (FHD)",MOVISTAR LIGA DE CAMPEONES HD | DEP_ESP
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/105210
+#EXTINF:-1 tvg-id="" tvg-name="|ES| Movistar Golf 4K+" tvg-logo="https://i.picasion.com/pic92/2cd7eeec2f29bc787fa7b41eeec0c27f.gif" group-title=" TV | DEPORTES LATINOS (FHD)",|ES| Movistar Golf 4K+
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/105222
+#EXTINF:-1 tvg-id="" tvg-name="Tennis Channel 1" tvg-logo="https://i.picasion.com/pic92/97fc8537a376035b923d9c54c826e158.gif" group-title=" TV | DEPORTES LATINOS (FHD)",Tennis Channel 1
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/105863
+#EXTINF:-1 tvg-id="" tvg-name="DEP | Bein Sports XTRA Ñ" tvg-logo="https://caracoltv.brightspotcdn.com/dims4/default/4b9cad1/2147483647/strip/true/crop/1000x716+0+0/resize/1000x716!/format/webp/quality/90/?url=http%3A%2F%2Fcaracol-brightspot.s3.amazonaws.com%2F0f%2Fd6%2F71d0eb894151a228abcc5d13f591%2Fcopa-suramericana-conmebol-foto-twitter.jpg" group-title=" TV | DEPORTES LATINOS (FHD)",DEP | Bein Sports XTRA Ñ
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/120491
+#EXTINF:-1 tvg-id="" tvg-name="ESP| EUROSPORTS 1 HD" tvg-logo="https://i.picasion.com/pic92/da7c6370ff64dcf1973e7e662cfbffb9.gif" group-title=" TV | DEPORTES LATINOS (FHD)",ESP| EUROSPORTS 1 HD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/122827
+#EXTINF:-1 tvg-id="" tvg-name="ESPN DEPORTES" tvg-logo="https://i.picasion.com/pic92/8dad70bcf14e7499cdbfc8806fc34210.gif" group-title=" TV | DEPORTES LATINOS (FHD)",ESPN DEPORTES
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/128611
+#EXTINF:-1 tvg-id="" tvg-name="ESPN LATAM" tvg-logo="http://iptvglobal.site:25461/images/69fb1421bb078714f64df2e315b158bc.jpg" group-title=" TV | DEPORTES LATINOS (FHD)",ESPN LATAM
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/128612
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 LATAM" tvg-logo="http://iptvglobal.site:25461/images/b5c360145f54e5f3da03169753c4a828.png" group-title=" TV | DEPORTES LATINOS (FHD)",ESPN 2 LATAM
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/128613
+#EXTINF:-1 tvg-id="" tvg-name="ESPN MX" tvg-logo="https://i.picasion.com/pic92/67aef181f834c35ce4b33eea81f7acac.gif" group-title=" TV | DEPORTES LATINOS (FHD)",ESPN MX
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/128614
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 MX" tvg-logo="http://playhispano.org:8080/images/ad2e5e3540c7ff4ab25b69b96b522348.png" group-title=" TV | DEPORTES LATINOS (FHD)",ESPN 2 MX
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/128615
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 LATAM" tvg-logo="http://iptvglobal.site:25461/images/ee35857d779312b93b02042079224ce1.png" group-title=" TV | DEPORTES LATINOS (FHD)",ESPN 3 LATAM
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/128616
+#EXTINF:-1 tvg-id="" tvg-name="ESPN U" tvg-logo="http://iptvglobal.site:25461/images/c8e3ff1d80934518c2a4fac29b3b426d.png" group-title=" TV | DEPORTES LATINOS (FHD)",ESPN U
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/128617
+#EXTINF:-1 tvg-id="" tvg-name="ESPN NEWS" tvg-logo="http://iptvglobal.site:25461/images/dd7d61a838487819a7373f27f60edb2c.jpg" group-title=" TV | DEPORTES LATINOS (FHD)",ESPN NEWS
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/128618
+#EXTINF:-1 tvg-id="" tvg-name="ESPN SUR" tvg-logo="http://iptvglobal.site:25461/images/3a60836f4120ffaa1201d3853c983f19.jpg" group-title=" TV | DEPORTES LATINOS (FHD)",ESPN SUR
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/128621
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 ARGENTINA" tvg-logo="http://playhispano.org:8080/images/248181cd8afce9754f44b814ac2918a7.png" group-title=" TV | DEPORTES LATINOS (FHD)",ESPN 2 ARGENTINA
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/128622
+#EXTINF:-1 tvg-id="" tvg-name="ESPN3 SUR" tvg-logo="http://iptvglobal.site:25461/images/39d093f4c9c1aad88fe8f43687d653c4.png" group-title=" TV | DEPORTES LATINOS (FHD)",ESPN3 SUR
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/128623
+#EXTINF:-1 tvg-id="" tvg-name="ESPN SUR ANDINA" tvg-logo="http://playhispano.org:8080/images/4b91b95e2dde6009b81b5066503793b3.png" group-title=" TV | DEPORTES LATINOS (FHD)",ESPN SUR ANDINA
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/128624
+#EXTINF:-1 tvg-id="" tvg-name="ESPN2 COLOMBIA" tvg-logo="http://iptvglobal.site:25461/images/b5c360145f54e5f3da03169753c4a828.png" group-title=" TV | DEPORTES LATINOS (FHD)",ESPN2 COLOMBIA
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/128625
+#EXTINF:-1 tvg-id="" tvg-name="ESPN2 ANDINA" tvg-logo="http://iptvglobal.site:25461/images/b5c360145f54e5f3da03169753c4a828.png" group-title=" TV | DEPORTES LATINOS (FHD)",ESPN2 ANDINA
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/128626
+#EXTINF:-1 tvg-id="" tvg-name="ESPN2 PERU" tvg-logo="http://iptvglobal.site:25461/images/b5c360145f54e5f3da03169753c4a828.png" group-title=" TV | DEPORTES LATINOS (FHD)",ESPN2 PERU
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/128627
+#EXTINF:-1 tvg-id="" tvg-name="espn caribbean" tvg-logo="http://iptvglobal.site:25461/images/0af8eb4fd76c68fa43d29ed7568de1c2.jpg" group-title=" TV | DEPORTES LATINOS (FHD)",espn caribbean
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/128631
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES LAT | FOX SPORTS PREMIUM HD (T)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Fox_Sports_Premium_Argentina_2019.png" group-title=" TV | DEPORTES LATINOS (FHD)",DEPORTES LAT | FOX SPORTS PREMIUM HD (T)
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/144612
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES LAT | FOX SPORTS PREMIUM MX" tvg-logo="http://playhispano.org:25461/images/4f8890c2fd53da87443d1f6f5e8857b7.png" group-title=" TV | DEPORTES LATINOS (FHD)",DEPORTES LAT | FOX SPORTS PREMIUM MX
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/144613
+#EXTINF:-1 tvg-id="" tvg-name="PPV - FUBO SPORTS NETWORK  5 HD (LATINO AUDIO)" tvg-logo="http://iptvglobal.site:25461/images/c90259ab31b2c7a4d23e64cd2d89129c.png" group-title=" TV | DEPORTES LATINOS (FHD)",PPV - FUBO SPORTS NETWORK  5 HD (LATINO AUDIO)
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/155751
+#EXTINF:-1 tvg-id="" tvg-name="DEP HD: DIRECTV SPORTS +" tvg-logo="http://playhispano.org:25461/images/253aeb11209365250931de0d9623519a.png" group-title=" TV | DEPORTES LATINOS (FHD)",DEP HD: DIRECTV SPORTS +
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/156536
+#EXTINF:-1 tvg-id="" tvg-name="DEP HD: DIRECTV SPORTS 1 (CHI)" tvg-logo="http://playhispano.org:25461/images/04d77cdfb3bba6a0bb84a30814d93ec7.png" group-title=" TV | DEPORTES CHILE",DEP HD: DIRECTV SPORTS 1 (CHI)
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/156537
+#EXTINF:-1 tvg-id="" tvg-name="DEP HD: ESPN 1 (COL)" tvg-logo="https://i.picasion.com/pic92/27f3d339278ad07c9b1b8e0762e42872.gif" group-title=" TV | DEPORTES LATINOS (FHD)",DEP HD: ESPN 1 (COL)
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/156539
+#EXTINF:-1 tvg-id="" tvg-name="DEP HD: ESPN 1 SUR (CHI)" tvg-logo="https://i.picasion.com/pic92/27f3d339278ad07c9b1b8e0762e42872.gif" group-title=" TV | DEPORTES CHILE",DEP HD: ESPN 1 SUR (CHI)
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/156541
+#EXTINF:-1 tvg-id="" tvg-name="DEP HD: ESPN 2 (CHI)" tvg-logo="https://i.picasion.com/pic92/3750cad8f0813bc6b7398748a61dbd9e.gif" group-title=" TV | DEPORTES CHILE",DEP HD: ESPN 2 (CHI)
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/156543
+#EXTINF:-1 tvg-id="" tvg-name="DEP HD: ESPN 2 (MEX)" tvg-logo="https://i.picasion.com/pic92/3750cad8f0813bc6b7398748a61dbd9e.gif" group-title=" TV | DEPORTES LATINOS (FHD)",DEP HD: ESPN 2 (MEX)
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/156545
+#EXTINF:-1 tvg-id="" tvg-name="DEP HD: ESPN 3 (MEX)" tvg-logo="https://i.picasion.com/pic92/7f02798f1f997e22ba9a0698877c7a89.gif" group-title=" TV | DEPORTES LATINOS (FHD)",DEP HD: ESPN 3 (MEX)
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/156548
+#EXTINF:-1 tvg-id="" tvg-name="DEP HD: ESPN 4 (ARG)" tvg-logo="https://i.picasion.com/pic92/95984ae782b96b3120df7041c77ac852.gif" group-title=" TV | DEPORTES LATINOS (FHD)",DEP HD: ESPN 4 (ARG)
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/156549
+#EXTINF:-1 tvg-id="" tvg-name="DEP HD: EUROSPORT 2 (OPC 2)" tvg-logo="https://i.picasion.com/pic92/ef1ae63b67f94b833a9cbe231962fc27.gif" group-title=" TV | DEPORTES LATINOS (FHD)",DEP HD: EUROSPORT 2 (OPC 2)
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/156553
+#EXTINF:-1 tvg-id="" tvg-name="DEP HD: EUROSPORTS 1 (OPC 1)" tvg-logo="https://i.picasion.com/pic92/ef1ae63b67f94b833a9cbe231962fc27.gif" group-title=" TV | DEPORTES LATINOS (FHD)",DEP HD: EUROSPORTS 1 (OPC 1)
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/156554
+#EXTINF:-1 tvg-id="" tvg-name="DEP HD: FOX SPORTS 1 (ARG)" tvg-logo="https://i.picasion.com/pic92/023a1b2d0abdfac13aa04c2ef994106e.gif" group-title=" TV | DEPORTES LATINOS (FHD)",DEP HD: FOX SPORTS 1 (ARG)
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/156557
+#EXTINF:-1 tvg-id="" tvg-name="DEP HD: FOX SPORTS 1 (CHI)" tvg-logo="https://i.picasion.com/pic92/023a1b2d0abdfac13aa04c2ef994106e.gif" group-title=" TV | DEPORTES CHILE",DEP HD: FOX SPORTS 1 (CHI)
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/156558
+#EXTINF:-1 tvg-id="" tvg-name="DEP HD: FOX SPORTS 2 (CHI)" tvg-logo="https://i.picasion.com/pic92/c0b0b740cefe0705324f5e60c5272d7c.gif" group-title=" TV | DEPORTES CHILE",DEP HD: FOX SPORTS 2 (CHI)
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/156562
+#EXTINF:-1 tvg-id="" tvg-name="DEP HD: FOX SPORTS 3 (CHI)" tvg-logo="https://i.picasion.com/pic92/a8fca8e4445f1d888be06dc9c2307e9b.gif" group-title=" TV | DEPORTES CHILE",DEP HD: FOX SPORTS 3 (CHI)
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/156566
+#EXTINF:-1 tvg-id="" tvg-name="DEP HD: FOX SPORTS PREMIUM MEXICO" tvg-logo="https://i.picasion.com/pic92/19ba923e6eadd0b1518ae926a6393eb3.gif" group-title=" TV | DEPORTES LATINOS (FHD)",DEP HD: FOX SPORTS PREMIUM MEXICO
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/156569
+#EXTINF:-1 tvg-id="" tvg-name="DEP HD: MOVISTAR LA LIGA (OPC 2)" tvg-logo="https://i.picasion.com/pic92/8d0918f640fdfec1dd4301790d4bf7cc.gif" group-title=" TV | DEPORTES LATINOS (FHD)",DEP HD: MOVISTAR LA LIGA (OPC 2)
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/156575
+#EXTINF:-1 tvg-id="" tvg-name="DEP SD: BEIN SPORTS Ñ (OPC 2)" tvg-logo="https://i.picasion.com/pic92/0e984eae6af0e4da9aaa26ba63041e67.gif" group-title=" TV | DEPORTES LATINOS (FHD)",DEP SD: BEIN SPORTS Ñ (OPC 2)
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/156590
+#EXTINF:-1 tvg-id="" tvg-name="DEP SD: DIRECTV SPORTS + (CHI)" tvg-logo="http://iptvglobal.site:25461/images/91cacfb51207c50085151231f4035d41.png" group-title=" TV | DEPORTES CHILE",DEP SD: DIRECTV SPORTS + (CHI)
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/156592
+#EXTINF:-1 tvg-id="" tvg-name="DEP SD: DIRECTV SPORTS 2 (CHI)" tvg-logo="https://caracoltv.brightspotcdn.com/dims4/default/4b9cad1/2147483647/strip/true/crop/1000x716+0+0/resize/1000x716!/format/webp/quality/90/?url=http%3A%2F%2Fcaracol-brightspot.s3.amazonaws.com%2F0f%2Fd6%2F71d0eb894151a228abcc5d13f591%2Fcopa-suramericana-conmebol-foto-twitter.jpg" group-title=" TV | DEPORTES CHILE",DEP SD: DIRECTV SPORTS 2 (CHI)
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/156594
+#EXTINF:-1 tvg-id="" tvg-name="DEP SD: ESPN 2 (ARG)" tvg-logo="https://i.picasion.com/pic92/3750cad8f0813bc6b7398748a61dbd9e.gif" group-title=" TV | DEPORTES LATINOS (FHD)",DEP SD: ESPN 2 (ARG)
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/156598
+#EXTINF:-1 tvg-id="" tvg-name="DEP SD: ESPN 2 (COL)" tvg-logo="https://i.picasion.com/pic92/3750cad8f0813bc6b7398748a61dbd9e.gif" group-title=" TV | DEPORTES LATINOS (FHD)",DEP SD: ESPN 2 (COL)
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/156599
+#EXTINF:-1 tvg-id="" tvg-name="DEP SD: ESPN 1 (MEX)" tvg-logo="https://i.picasion.com/pic92/3750cad8f0813bc6b7398748a61dbd9e.gif" group-title=" TV | DEPORTES LATINOS (FHD)",DEP SD: ESPN 1 (MEX)
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/156600
+#EXTINF:-1 tvg-id="" tvg-name="DEP SD: ESPN 3 (ARG)" tvg-logo="https://i.picasion.com/pic92/7f02798f1f997e22ba9a0698877c7a89.gif" group-title=" TV | DEPORTES LATINOS (FHD)",DEP SD: ESPN 3 (ARG)
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/156601
+#EXTINF:-1 tvg-id="" tvg-name="DEP SD: ESPN 3 (COL)" tvg-logo="https://i.picasion.com/pic92/7f02798f1f997e22ba9a0698877c7a89.gif" group-title=" TV | DEPORTES LATINOS (FHD)",DEP SD: ESPN 3 (COL)
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/156602
+#EXTINF:-1 tvg-id="" tvg-name="DEP SD: FOX SPORTS 2 (COL)" tvg-logo="https://i.picasion.com/pic92/023a1b2d0abdfac13aa04c2ef994106e.gif" group-title="TV | DEPORTES COLOMBIA",DEP SD: FOX SPORTS 2 (COL)
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/156608
+#EXTINF:-1 tvg-id="" tvg-name="DEP SD: FOX SPORTS 1 (MEX)" tvg-logo="https://i.picasion.com/pic92/023a1b2d0abdfac13aa04c2ef994106e.gif" group-title=" TV | DEPORTES LATINOS (FHD)",DEP SD: FOX SPORTS 1 (MEX)
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/156609
+#EXTINF:-1 tvg-id="" tvg-name="DEP SD: FOX SPORTS 2 (MEX)" tvg-logo="https://i.picasion.com/pic92/c0b0b740cefe0705324f5e60c5272d7c.gif" group-title=" TV | DEPORTES LATINOS (FHD)",DEP SD: FOX SPORTS 2 (MEX)
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/156611
+#EXTINF:-1 tvg-id="" tvg-name="DEP SD: FOX SPORTS 3 (ARG)" tvg-logo="https://i.picasion.com/pic92/a8fca8e4445f1d888be06dc9c2307e9b.gif" group-title=" TV | DEPORTES LATINOS (FHD)",DEP SD: FOX SPORTS 3 (ARG)
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/156612
+#EXTINF:-1 tvg-id="" tvg-name="DEP SD: FOX SPORTS 3 (COL)" tvg-logo="https://i.picasion.com/pic92/a8fca8e4445f1d888be06dc9c2307e9b.gif" group-title="TV | DEPORTES COLOMBIA",DEP SD: FOX SPORTS 3 (COL)
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/156613
+#EXTINF:-1 tvg-id="" tvg-name="DEP SD: FOX SPORTS 3 (MEX)" tvg-logo="https://i.picasion.com/pic92/a8fca8e4445f1d888be06dc9c2307e9b.gif" group-title=" TV | DEPORTES LATINOS (FHD)",DEP SD: FOX SPORTS 3 (MEX)
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/156614
+#EXTINF:-1 tvg-id="" tvg-name="DEP SD: MOVISTAR LA LIGA DE CAMPEONES (OPC 1)" tvg-logo="https://i.picasion.com/pic92/8d0918f640fdfec1dd4301790d4bf7cc.gif" group-title=" TV | DEPORTES LATINOS (FHD)",DEP SD: MOVISTAR LA LIGA DE CAMPEONES (OPC 1)
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/156617
+#EXTINF:-1 tvg-id="" tvg-name="DEP SD: MOVISTAR LA LIGA DE CAMPEONES" tvg-logo="https://i.picasion.com/pic92/8d0918f640fdfec1dd4301790d4bf7cc.gif" group-title=" TV | DEPORTES LATINOS (FHD)",DEP SD: MOVISTAR LA LIGA DE CAMPEONES
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/156618
+#EXTINF:-1 tvg-id="" tvg-name="DEP SD: MOVISTAR TOROS" tvg-logo="http://iptvglobal.site:25461/images/526d0beaefe36336043e170448d78619.png" group-title=" TV | DEPORTES LATINOS (FHD)",DEP SD: MOVISTAR TOROS
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/156619
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Deportes 2" tvg-logo="https://i.picasion.com/pic92/7871ef3a0267ebe80b42997f85d66980.gif" group-title=" TV | DEPORTES LATINOS (FHD)",Movistar Deportes 2
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/156621
+#EXTINF:-1 tvg-id="" tvg-name="AR | ESPN Premium HD" tvg-logo="http://iptvglobal.site:25461/images/d44809ea3b4bbc66655b7234382fa3dd.jpeg" group-title=" TV | DEPORTES LATINOS (FHD)",AR | ESPN Premium HD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/170278
+#EXTINF:-1 tvg-id="" tvg-name="MX | Claro Sport HD" tvg-logo="http://www.skytvpluzz.xyz:8000/images/c4d99572028403ec2d0a39c5224f9a49.png" group-title=" TV | DEPORTES LATINOS (FHD)",MX | Claro Sport HD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/192392
+#EXTINF:-1 tvg-id="" tvg-name="DEP | Claro Sports FHD" tvg-logo="" group-title=" TV | DEPORTES LATINOS (FHD)",DEP | Claro Sports FHD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/192394
+#EXTINF:-1 tvg-id="" tvg-name="Espn +" tvg-logo="http://playhispano.org:25461/images/241d51305848b0b90f4ed798271478db.png" group-title=" TV | DEPORTES LATINOS (FHD)",Espn +
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/196188
+#EXTINF:-1 tvg-id="" tvg-name="Espn +" tvg-logo="http://playhispano.org:25461/images/241d51305848b0b90f4ed798271478db.png" group-title=" TV | DEPORTES LATINOS (FHD)",Espn +
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/196189
+#EXTINF:-1 tvg-id="" tvg-name="Espn 1" tvg-logo="http://playhispano.org:8080/images/99c070d44f863c5a0acedf089d7df91d.png" group-title="PPV | PARAMOUNT + PREMIER LEAGUE",Espn 1
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/196190
+#EXTINF:-1 tvg-id="" tvg-name="Espn 1" tvg-logo="http://playhispano.org:8080/images/99c070d44f863c5a0acedf089d7df91d.png" group-title=" TV | DEPORTES LATINOS (FHD)",Espn 1
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/196191
+#EXTINF:-1 tvg-id="" tvg-name="Espn 2" tvg-logo="http://playhispano.org:8080/images/7ad62d66ea2496bcb51c19962ecd715e.png" group-title=" TV | DEPORTES LATINOS (FHD)",Espn 2
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/196192
+#EXTINF:-1 tvg-id="" tvg-name="Espn 2" tvg-logo="http://playhispano.org:8080/images/7ad62d66ea2496bcb51c19962ecd715e.png" group-title="PPV | PARAMOUNT + PREMIER LEAGUE",Espn 2
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/196193
+#EXTINF:-1 tvg-id="" tvg-name="Espn 3" tvg-logo="http://playhispano.org:8080/images/2c121ba05f4002d50c8a89fe0fb5e59b.png" group-title=" TV | DEPORTES LATINOS (FHD)",Espn 3
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/196194
+#EXTINF:-1 tvg-id="" tvg-name="Espn 3" tvg-logo="http://playhispano.org:8080/images/2c121ba05f4002d50c8a89fe0fb5e59b.png" group-title="PPV | PARAMOUNT + PREMIER LEAGUE",Espn 3
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/196195
+#EXTINF:-1 tvg-id="" tvg-name="Espn Deportes" tvg-logo="http://playhispano.org:25461/images/d5152b85d3095d7ffe90d1d317076d26.png" group-title=" TV | DEPORTES LATINOS (FHD)",Espn Deportes
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/196197
+#EXTINF:-1 tvg-id="" tvg-name="GOL TV ⚽" tvg-logo="https://pbs.twimg.com/profile_images/879438340776497152/y_KDzsKf_400x400.jpg" group-title="TV | DEPORTES ECUADOR",GOL TV ⚽
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/245476
+#EXTINF:-1 tvg-id="" tvg-name="GOL TV FHD ⚽" tvg-logo="https://pbs.twimg.com/profile_images/879438340776497152/y_KDzsKf_400x400.jpg" group-title="TV | DEPORTES ECUADOR",GOL TV FHD ⚽
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/245477
+#EXTINF:-1 tvg-id="" tvg-name="GOL TV HD ⚽" tvg-logo="https://pbs.twimg.com/profile_images/879438340776497152/y_KDzsKf_400x400.jpg" group-title="TV | DEPORTES ECUADOR",GOL TV HD ⚽
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/245478
+#EXTINF:-1 tvg-id="" tvg-name="EL CANAL DEL FUTBOL HD" tvg-logo="http://playhispano.org:8080/images/2a934981e1536ab22ac87b5a2d56df61.jpg" group-title="TV | DEPORTES ECUADOR",EL CANAL DEL FUTBOL HD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/245479
+#EXTINF:-1 tvg-id="" tvg-name="EL CANAL DEL FUTBOL" tvg-logo="http://playhispano.org:8080/images/2a934981e1536ab22ac87b5a2d56df61.jpg" group-title="TV | DEPORTES ECUADOR",EL CANAL DEL FUTBOL
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/245480
+#EXTINF:-1 tvg-id="" tvg-name="IZMX | Disney jr" tvg-logo="http://iptvglobal.site:25461/images/307ff8770ea486ca1c7da260f53483d3.jpeg" group-title="TV | MEXICO (FHD,HD,SD)",IZMX | Disney jr
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/163300
+#EXTINF:-1 tvg-id="" tvg-name="IZMX | AXN" tvg-logo="http://iptvglobal.site:25461/images/625fa0bfdb706073072b1d52884d47c6.jpeg" group-title="TV | MEXICO (FHD,HD,SD)",IZMX | AXN
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/163301
+#EXTINF:-1 tvg-id="cartoonnetwork.mx" tvg-name="IZMX | Cartoon Network" tvg-logo="http://iptvglobal.site:25461/images/46e25e123679ab1c022b431dc86ee0a2.jpeg" group-title="TV | MEXICO (FHD,HD,SD)",IZMX | Cartoon Network
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/163302
+#EXTINF:-1 tvg-id="" tvg-name="IZMX | Bandamax" tvg-logo="http://iptvglobal.site:25461/images/967e1375546a25085abedd96e2601bec.jpeg" group-title="TV | MEXICO (FHD,HD,SD)",IZMX | Bandamax
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/163303
+#EXTINF:-1 tvg-id="" tvg-name="IZMX | A&E" tvg-logo="http://iptvglobal.site:25461/images/15be96c681f86d5e22721a05dda30a5f.jpeg" group-title="TV | MEXICO (FHD,HD,SD)",IZMX | A&E
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/163304
+#EXTINF:-1 tvg-id="azteca13.mx" tvg-name="IZMX | Azteca 1" tvg-logo="http://iptvglobal.site:25461/images/1f3a7d3e6aa3a9392ae3ac1e35787968.jpeg" group-title="TV | MEXICO (FHD,HD,SD)",IZMX | Azteca 1
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/163306
+#EXTINF:-1 tvg-id="lasestrellas.mx" tvg-name="IZMX | Las Estrellas" tvg-logo="http://iptvglobal.site:25461/images/91f680dd21bd41ceb846ec125512a215.jpeg" group-title="TV | MEXICO (FHD,HD,SD)",IZMX | Las Estrellas
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/163307
+#EXTINF:-1 tvg-id="azteca7.mx" tvg-name="IZMX | Azteca 7" tvg-logo="http://iptvglobal.site:25461/images/e47965de2852d6b7c244d1fb621a12e2.jpeg" group-title="TV | MEXICO (FHD,HD,SD)",IZMX | Azteca 7
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/163308
+#EXTINF:-1 tvg-id="telehit.mx" tvg-name="IZMX | Telehit" tvg-logo="http://iptvglobal.site:25461/images/5825f3b2cd0eedb0fc8ff03f93d58143.jpeg" group-title="TV | MEXICO (FHD,HD,SD)",IZMX | Telehit
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/163310
+#EXTINF:-1 tvg-id="" tvg-name="IZMX | A3 Series" tvg-logo="http://iptvglobal.site:25461/images/ec61aa8f930a5078f5c83c5c6e3ca4e7.jpeg" group-title="TV | MEXICO (FHD,HD,SD)",IZMX | A3 Series
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/163311
+#EXTINF:-1 tvg-id="hbopo.mx" tvg-name="IZMX | HBO Pop" tvg-logo="http://iptvglobal.site:25461/images/ad7c604a311bc79f9110eaa409f12719.jpeg" group-title="TV | MEXICO (FHD,HD,SD)",IZMX | HBO Pop
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/163312
+#EXTINF:-1 tvg-id="foxsports3.mx" tvg-name="IZMX | Fox Sports 3" tvg-logo="http://iptvglobal.site:25461/images/464bcb4597a95683a700913a7ff774d0.jpeg" group-title="TV | MEXICO (FHD,HD,SD)",IZMX | Fox Sports 3
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/163313
+#EXTINF:-1 tvg-id="disneychannel.mx" tvg-name="IZMX | Disney channel" tvg-logo="http://iptvglobal.site:25461/images/cfdb2433ab278eaedffceb756f465475.jpeg" group-title="TV | MEXICO (FHD,HD,SD)",IZMX | Disney channel
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/163314
+#EXTINF:-1 tvg-id="nickelodeon.mx" tvg-name="IZMX | Nick" tvg-logo="http://iptvglobal.site:25461/images/752426dbe1a539250d564270c20a27f2.jpeg" group-title="TV | MEXICO (FHD,HD,SD)",IZMX | Nick
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/163315
+#EXTINF:-1 tvg-id="investigationdiscovery.mx" tvg-name="IZMX | Investigacion Discovery" tvg-logo="http://iptvglobal.site:25461/images/b718adec73e04ce3ec720dd11a06a308.jpeg" group-title="TV | MEXICO (FHD,HD,SD)",IZMX | Investigacion Discovery
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/163316
+#EXTINF:-1 tvg-id="animalplanet.mx" tvg-name="IZMX | Animal planet" tvg-logo="http://iptvglobal.site:25461/images/5a91b94bd57ea4b80e2cf856319271a6.jpeg" group-title="TV | MEXICO (FHD,HD,SD)",IZMX | Animal planet
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/163317
+#EXTINF:-1 tvg-id="discoverychannel.mx" tvg-name="IZMX | Discovery Channel" tvg-logo="http://iptvglobal.site:25461/images/54818b05d116eadc7f67517a3a6e4b33.jpeg" group-title="TV | MEXICO (FHD,HD,SD)",IZMX | Discovery Channel
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/163318
+#EXTINF:-1 tvg-id="distritocomedia.mx" tvg-name="IZMX | Distrito Comedia" tvg-logo="http://iptvglobal.site:25461/images/de7e38f53f254c2a4fb5689b9866fc88.jpeg" group-title="TV | MEXICO (FHD,HD,SD)",IZMX | Distrito Comedia
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/163320
+#EXTINF:-1 tvg-id="goldenedge.mx" tvg-name="IZMX | Golden EDGE" tvg-logo="http://iptvglobal.site:25461/images/d0ff88cf64fc4523df72698439c00309.jpeg" group-title="TV | MEXICO (FHD,HD,SD)",IZMX | Golden EDGE
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/163321
+#EXTINF:-1 tvg-id="golden.mx" tvg-name="IZMX | Golden" tvg-logo="http://iptvglobal.site:25461/images/c773fdef3889bdadbe809f1e8aaeea46.jpeg" group-title="TV | MEXICO (FHD,HD,SD)",IZMX | Golden
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/163322
+#EXTINF:-1 tvg-id="foodnetwork.mx" tvg-name="IZMX | Food Network" tvg-logo="http://iptvglobal.site:25461/images/cc9284597026dcc021735c0970ca0c93.jpeg" group-title="TV | MEXICO (FHD,HD,SD)",IZMX | Food Network
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/163323
+#EXTINF:-1 tvg-id="espnplushd.mx" tvg-name="IZMX | ESPN +" tvg-logo="http://iptvglobal.site:25461/images/810503b3663c6d72840c2e565922ffc3.jpeg" group-title="TV | MEXICO (FHD,HD,SD)",IZMX | ESPN +
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/163324
+#EXTINF:-1 tvg-id="tntseries.mx" tvg-name="IZMX | TNT Series" tvg-logo="http://iptvglobal.site:25461/images/893f5107c5381d9cd0e0226491f06fe0.jpeg" group-title="TV | MEXICO (FHD,HD,SD)",IZMX | TNT Series
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/163325
+#EXTINF:-1 tvg-id="unicable.mx" tvg-name="IZMX | Unicable" tvg-logo="http://iptvglobal.site:25461/images/db3da351cfce6679c614cd493712e65d.jpeg" group-title="TV | MEXICO (FHD,HD,SD)",IZMX | Unicable
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/163326
+#EXTINF:-1 tvg-id="hbomundi.mx" tvg-name="IZMX | HBO Mundi" tvg-logo="http://iptvglobal.site:25461/images/d1634feb364379b13f95c2c0a464a980.jpeg" group-title="TV | MEXICO (FHD,HD,SD)",IZMX | HBO Mundi
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/163327
+#EXTINF:-1 tvg-id="hbosignaturehd.co" tvg-name="IZMX | HBO Signature" tvg-logo="http://iptvglobal.site:25461/images/b9fea3bcb3d1d57ebe9179ab32fee00c.jpeg" group-title="TV | MEXICO (FHD,HD,SD)",IZMX | HBO Signature
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/163328
+#EXTINF:-1 tvg-id="5nacional.mx" tvg-name="IZMX | Canal 5" tvg-logo="http://iptvglobal.site:25461/images/dd6e2be114cacf68a885cf7da745480e.jpeg" group-title="TV | MEXICO (FHD,HD,SD)",IZMX | Canal 5
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/163329
+#EXTINF:-1 tvg-id="history2.mx" tvg-name="IZMX | History 2" tvg-logo="http://iptvglobal.site:25461/images/ca2bf3f6b7e18a508253e9521510a4b5.jpeg" group-title="TV | MEXICO (FHD,HD,SD)",IZMX | History 2
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/163330
+#EXTINF:-1 tvg-id="hbo2.mx" tvg-name="IZMX | HBO 2" tvg-logo="http://iptvglobal.site:25461/images/a7f9c898c812805f26c4ea1e490201da.jpeg" group-title="TV | MEXICO (FHD,HD,SD)",IZMX | HBO 2
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/163331
+#EXTINF:-1 tvg-id="telehit.mx" tvg-name="IZMX | Telehit Musica" tvg-logo="http://iptvglobal.site:25461/images/5825f3b2cd0eedb0fc8ff03f93d58143.jpeg" group-title="TV | MEXICO (FHD,HD,SD)",IZMX | Telehit Musica
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/163332
+#EXTINF:-1 tvg-id="" tvg-name="IZMX | 24h" tvg-logo="" group-title="TV | MEXICO (FHD,HD,SD)",IZMX | 24h
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/163333
+#EXTINF:-1 tvg-id="espn3.mx" tvg-name="IZMX | ESPN 3" tvg-logo="http://iptvglobal.site:25461/images/3e99c57a516c085d9c222e40aebc7129.jpeg" group-title="TV | MEXICO (FHD,HD,SD)",IZMX | ESPN 3
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/163334
+#EXTINF:-1 tvg-id="aztecanoticias.mx" tvg-name="IZMX | A+" tvg-logo="http://iptvglobal.site:25461/images/d9c4e161a13e7804bff5aa64193ba2f1.jpeg" group-title="TV | MEXICO (FHD,HD,SD)",IZMX | A+
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/163335
+#EXTINF:-1 tvg-id="" tvg-name="IZMX | Univision" tvg-logo="" group-title="TV | MEXICO (FHD,HD,SD)",IZMX | Univision
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/163336
+#EXTINF:-1 tvg-id="" tvg-name="IZMX | Htv" tvg-logo="http://iptvglobal.site:25461/images/b7be8e32859d845f7b7043c47f43ae8b.jpeg" group-title="TV | MEXICO (FHD,HD,SD)",IZMX | Htv
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/163337
+#EXTINF:-1 tvg-id="telenovelas.mx" tvg-name="IZMX | Tlnovelas" tvg-logo="http://iptvglobal.site:25461/images/173f6557c6a62af1f4e3715369c89120.jpeg" group-title="TV | MEXICO (FHD,HD,SD)",IZMX | Tlnovelas
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/163338
+#EXTINF:-1 tvg-id="multimedios.mx" tvg-name="IZMX | Canal 6 Mty" tvg-logo="http://iptvglobal.site:25461/images/a92ac2562ea23fd8a336bf085e46d468.jpeg" group-title="TV | MEXICO (FHD,HD,SD)",IZMX | Canal 6 Mty
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/163339
+#EXTINF:-1 tvg-id="cinelatino.mx" tvg-name="IZMX | Cine Latino" tvg-logo="http://iptvglobal.site:25461/images/87ec58be18edd7d92a2564cb41bddcd6.jpeg" group-title="TV | MEXICO (FHD,HD,SD)",IZMX | Cine Latino
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/163340
+#EXTINF:-1 tvg-id="" tvg-name="IZMX | MTV 00´S" tvg-logo="http://iptvglobal.site:25461/images/dd6d0623eb74afb1fa90f7ed84655c3c.jpeg" group-title="TV | MEXICO (FHD,HD,SD)",IZMX | MTV 00´S
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/163341
+#EXTINF:-1 tvg-id="bitme.mx" tvg-name="IZMX | bitME" tvg-logo="http://iptvglobal.site:25461/images/625d12d6a2dc707359306eebe02e5533.jpeg" group-title="TV | MEXICO (FHD,HD,SD)",IZMX | bitME
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/163343
+#EXTINF:-1 tvg-id="canaladn40.mx" tvg-name="IZMX | ADN 40" tvg-logo="http://iptvglobal.site:25461/images/a3afd164386a5340a36516b569d09ad1.jpeg" group-title="TV | MEXICO (FHD,HD,SD)",IZMX | ADN 40
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/163346
+#EXTINF:-1 tvg-id="antena3.mx" tvg-name="IZMX | Antena 3" tvg-logo="http://iptvglobal.site:25461/images/280b9565d182d71334cfddbc8b2a11b8.jpeg" group-title="TV | MEXICO (FHD,HD,SD)",IZMX | Antena 3
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/163347
+#EXTINF:-1 tvg-id="cnn.mx" tvg-name="IZMX | CNN ES" tvg-logo="http://iptvglobal.site:25461/images/ff7a4157153a8077212c8757fd39b8bd.jpeg" group-title="TV | MEXICO (FHD,HD,SD)",IZMX | CNN ES
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/163348
+#EXTINF:-1 tvg-id="canalonce.mx" tvg-name="IZMX | Canal Once" tvg-logo="http://iptvglobal.site:25461/images/e2eff6c2dafd909df8508f891b385d88.jpeg" group-title="TV | MEXICO (FHD,HD,SD)",IZMX | Canal Once
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/163349
+#EXTINF:-1 tvg-id="babytv.mx" tvg-name="IZMX | Baby Tv" tvg-logo="http://iptvglobal.site:25461/images/6848d756da66e55b42f79c0728e351ad.jpeg" group-title="TV | MEXICO (FHD,HD,SD)",IZMX | Baby Tv
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/163350
+#EXTINF:-1 tvg-id="nick2.mx" tvg-name="IZMX | NickMusic" tvg-logo="http://iptvglobal.site:25461/images/675d5bc11f79b4761671d9eae34ff788.jpeg" group-title="TV | MEXICO (FHD,HD,SD)",IZMX | NickMusic
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/163351
+#EXTINF:-1 tvg-id="dwdeutschplus.mx" tvg-name="IZMX | DW" tvg-logo="http://iptvglobal.site:25461/images/1f2121f36f817bd18540e5fa7de06f59.jpeg" group-title="TV | MEXICO (FHD,HD,SD)",IZMX | DW
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/163352
+#EXTINF:-1 tvg-id="vh1.mx" tvg-name="IZMX | MTV 80s" tvg-logo="http://iptvglobal.site:25461/images/dad8ee483cc9a336cde702e9aa0b0954.jpeg" group-title="TV | MEXICO (FHD,HD,SD)",IZMX | MTV 80s
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/163354
+#EXTINF:-1 tvg-id="depelicula.mx" tvg-name="IZMX | De Pelicula" tvg-logo="https://i.picasion.com/pic92/a9d7877b938c57016e1b804d14f0c607.gif" group-title="TV | MEXICO (FHD,HD,SD)",IZMX | De Pelicula
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/163356
+#EXTINF:-1 tvg-id="mileniotelevision.mx" tvg-name="IZMX | Milenio" tvg-logo="http://iptvglobal.site:25461/images/e607c58e7a4792d79aad4754e23a1c8f.jpeg" group-title="TV | MEXICO (FHD,HD,SD)",IZMX | Milenio
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/163359
+#EXTINF:-1 tvg-id="ingeniotv.mx" tvg-name="IZMX | Ingenio Tv" tvg-logo="http://iptvglobal.site:25461/images/2f30cb34d5272e253208fe1819c2c0a0.jpeg" group-title="TV | MEXICO (FHD,HD,SD)",IZMX | Ingenio Tv
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/163360
+#EXTINF:-1 tvg-id="eentertainment.mx" tvg-name="IZMX | E!" tvg-logo="http://iptvglobal.site:25461/images/3a3ea00cfc35332cedf6e5e9a32e94da.jpeg" group-title="TV | MEXICO (FHD,HD,SD)",IZMX | E!
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/163364
+#EXTINF:-1 tvg-id="maschictv.mx" tvg-name="IZMX | Mas Chic" tvg-logo="http://iptvglobal.site:25461/images/a6febcb01f8ea49ea3e12684f8e7c46d.jpeg" group-title="TV | MEXICO (FHD,HD,SD)",IZMX | Mas Chic
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/163365
+#EXTINF:-1 tvg-id="" tvg-name="IZMX | Red Católica Mundial | EWTN" tvg-logo="http://iptvglobal.site:25461/images/40dbd2460c336f980951da0f456e729f.jpeg" group-title="TV | MEXICO (FHD,HD,SD)",IZMX | Red Católica Mundial | EWTN
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/163366
+#EXTINF:-1 tvg-id="azcinema.mx" tvg-name="IZMX | AZ Cinema" tvg-logo="http://iptvglobal.site:25461/images/fdff3932528d5fd5df3b1bc32b40732f.jpeg" group-title="TV | MEXICO (FHD,HD,SD)",IZMX | AZ Cinema
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/163368
+#EXTINF:-1 tvg-id="azcorazon.mx" tvg-name="IZMX | AZ Corazon" tvg-logo="http://iptvglobal.site:25461/images/d132c49bf22dca4a5ab9a502ecab8ab1.jpeg" group-title="TV | MEXICO (FHD,HD,SD)",IZMX | AZ Corazon
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/163369
+#EXTINF:-1 tvg-id="aztecamundo.mx" tvg-name="IZMX | AZ Mundo" tvg-logo="http://iptvglobal.site:25461/images/2f2f3b8eefef51c971ffe6d4b99ed3ef.jpeg" group-title="TV | MEXICO (FHD,HD,SD)",IZMX | AZ Mundo
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/163370
+#EXTINF:-1 tvg-id="goldenplus.mx" tvg-name="IZMX | Golden Plus" tvg-logo="http://iptvglobal.site:25461/images/3b4dbfea601995d813105956e222de86.jpeg" group-title="TV | MEXICO (FHD,HD,SD)",IZMX | Golden Plus
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/163371
+#EXTINF:-1 tvg-id="" tvg-name="IZMX | Dreamworks" tvg-logo="http://iptvglobal.site:25461/images/8812662dcf3e5db0247c0f85909363fc.jpeg" group-title="TV | MEXICO (FHD,HD,SD)",IZMX | Dreamworks
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/163373
+#EXTINF:-1 tvg-id="" tvg-name="IZMX | Sony Movies" tvg-logo="http://iptvglobal.site:25461/images/636b368ad1668cc9d05ce380c8b27fc0.jpeg" group-title="TV | MEXICO (FHD,HD,SD)",IZMX | Sony Movies
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/163374
+#EXTINF:-1 tvg-id="" tvg-name="IZMX | Fox Sports Premium" tvg-logo="http://iptvglobal.site:25461/images/933e301a1b25760b896a5eadfbcde902.jpeg" group-title="TV | MEXICO (FHD,HD,SD)",IZMX | Fox Sports Premium
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/163375
+#EXTINF:-1 tvg-id="" tvg-name="IZMX | Multimedios Plus" tvg-logo="http://iptvglobal.site:25461/images/1679091c5a880faf6fb5e6087eb1b2dc.jpeg" group-title="TV | MEXICO (FHD,HD,SD)",IZMX | Multimedios Plus
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/163376
+#EXTINF:-1 tvg-id="goldenpremier2.mx" tvg-name="IZMX | Golden Premier 2" tvg-logo="http://iptvglobal.site:25461/images/6b253591eec3914c984f7d010df84250.jpeg" group-title="TV | MEXICO (FHD,HD,SD)",IZMX | Golden Premier 2
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/163377
+#EXTINF:-1 tvg-id="" tvg-name="IZMX | Universal Premiere" tvg-logo="http://iptvglobal.site:25461/images/c7de56c7ea6fc47e690a9831436c2cae.jpeg" group-title="TV | MEXICO (FHD,HD,SD)",IZMX | Universal Premiere
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/163378
+#EXTINF:-1 tvg-id="" tvg-name="IZMX | Universal Reality" tvg-logo="http://iptvglobal.site:25461/images/5db664dfbc57710a06e67b86a55d4b09.jpeg" group-title="TV | MEXICO (FHD,HD,SD)",IZMX | Universal Reality
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/163379
+#EXTINF:-1 tvg-id="" tvg-name="IZMX | Universal Comedy" tvg-logo="http://iptvglobal.site:25461/images/279a4949a3a5886bb681a3c85403cde4.jpeg" group-title="TV | MEXICO (FHD,HD,SD)",IZMX | Universal Comedy
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/163382
+#EXTINF:-1 tvg-id="" tvg-name="I | Baby First" tvg-logo="http://playhispano.org:8080/images/5138fde312b2f53073c5d228d7125531.png" group-title=" TV | INFANTILES (ESP)",I | Baby First
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/264345
+#EXTINF:-1 tvg-id="" tvg-name="I | Baby First HQ" tvg-logo="http://playhispano.org:8080/images/5138fde312b2f53073c5d228d7125531.png" group-title=" TV | INFANTILES (ESP)",I | Baby First HQ
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/264346
+#EXTINF:-1 tvg-id="" tvg-name="I | Baby First FHD" tvg-logo="http://playhispano.org:8080/images/5138fde312b2f53073c5d228d7125531.png" group-title=" TV | INFANTILES (ESP)",I | Baby First FHD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/264347
+#EXTINF:-1 tvg-id="" tvg-name="I | Cartoonito | Boomerang" tvg-logo="http://playhispano.org:8080/images/5b590162db1778db891f31d29904ecd2.png" group-title=" TV | INFANTILES (ESP)",I | Cartoonito | Boomerang
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/264350
+#EXTINF:-1 tvg-id="" tvg-name="I | Cartoonito | Boomerang HD" tvg-logo="http://playhispano.org:8080/images/5b590162db1778db891f31d29904ecd2.png" group-title=" TV | INFANTILES (ESP)",I | Cartoonito | Boomerang HD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/264351
+#EXTINF:-1 tvg-id="" tvg-name="I | Cartoonito Boomerang FHD" tvg-logo="http://playhispano.org:8080/images/5b590162db1778db891f31d29904ecd2.png" group-title=" TV | INFANTILES (ESP)",I | Cartoonito Boomerang FHD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/264352
+#EXTINF:-1 tvg-id="" tvg-name="I | Cartoon Network" tvg-logo="http://playhispano.org:8080/images/99c015b002d784cffbddbac9bd8fd537.png" group-title=" TV | INFANTILES (ESP)",I | Cartoon Network
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/264353
+#EXTINF:-1 tvg-id="" tvg-name="I | Cartoon Network HD" tvg-logo="http://playhispano.org:8080/images/99c015b002d784cffbddbac9bd8fd537.png" group-title=" TV | INFANTILES (ESP)",I | Cartoon Network HD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/264354
+#EXTINF:-1 tvg-id="" tvg-name="I | Discovery Kids" tvg-logo="http://playhispano.org:8080/images/53bf7058ae1da62ffd1bbe979482ca4e.png" group-title=" TV | INFANTILES (ESP)",I | Discovery Kids
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/264355
+#EXTINF:-1 tvg-id="" tvg-name="I | Discovery Kids HD" tvg-logo="http://playhispano.org:8080/images/53bf7058ae1da62ffd1bbe979482ca4e.png" group-title=" TV | INFANTILES (ESP)",I | Discovery Kids HD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/264356
+#EXTINF:-1 tvg-id="" tvg-name="I | Discovery Kids FHD" tvg-logo="http://playhispano.org:8080/images/53bf7058ae1da62ffd1bbe979482ca4e.png" group-title=" TV | INFANTILES (ESP)",I | Discovery Kids FHD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/264357
+#EXTINF:-1 tvg-id="" tvg-name="I | Disney Channel" tvg-logo="http://playhispano.org:8080/images/6c2966337b7924374f579474cbee804c.png" group-title=" TV | INFANTILES (ESP)",I | Disney Channel
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/264358
+#EXTINF:-1 tvg-id="" tvg-name="I | Disney Channel HD" tvg-logo="http://playhispano.org:8080/images/6c2966337b7924374f579474cbee804c.png" group-title=" TV | INFANTILES (ESP)",I | Disney Channel HD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/264359
+#EXTINF:-1 tvg-id="" tvg-name="I | Disney Channel FHD" tvg-logo="http://playhispano.org:8080/images/6c2966337b7924374f579474cbee804c.png" group-title=" TV | INFANTILES (ESP)",I | Disney Channel FHD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/264360
+#EXTINF:-1 tvg-id="" tvg-name="I | Disney Jr" tvg-logo="http://playhispano.org:8080/images/7ee19a1c004c589243abd9ee56085c82.png" group-title=" TV | INFANTILES (ESP)",I | Disney Jr
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/264361
+#EXTINF:-1 tvg-id="" tvg-name="I | Disney Jr HD" tvg-logo="http://playhispano.org:8080/images/7ee19a1c004c589243abd9ee56085c82.png" group-title=" TV | INFANTILES (ESP)",I | Disney Jr HD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/264362
+#EXTINF:-1 tvg-id="" tvg-name="I | Nick Jr" tvg-logo="http://playhispano.org:8080/images/8339c42ebf372969c62256d68a7cf480.png" group-title=" TV | INFANTILES (ESP)",I | Nick Jr
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/264363
+#EXTINF:-1 tvg-id="" tvg-name="I | Nick Jr HQ" tvg-logo="http://playhispano.org:8080/images/8339c42ebf372969c62256d68a7cf480.png" group-title=" TV | INFANTILES (ESP)",I | Nick Jr HQ
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/264364
+#EXTINF:-1 tvg-id="" tvg-name="I | Nick Jr FHD" tvg-logo="http://playhispano.org:8080/images/8339c42ebf372969c62256d68a7cf480.png" group-title=" TV | INFANTILES (ESP)",I | Nick Jr FHD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/264365
+#EXTINF:-1 tvg-id="" tvg-name="I | Nickelodeon" tvg-logo="http://playhispano.org:8080/images/6dade72732c8c1080f94fb0a9d6f7432.png" group-title=" TV | INFANTILES (ESP)",I | Nickelodeon
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/264366
+#EXTINF:-1 tvg-id="" tvg-name="I | Nickelodeon HD" tvg-logo="http://playhispano.org:8080/images/6dade72732c8c1080f94fb0a9d6f7432.png" group-title=" TV | INFANTILES (ESP)",I | Nickelodeon HD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/264367
+#EXTINF:-1 tvg-id="" tvg-name="I | Nickelodeon FHD" tvg-logo="http://playhispano.org:8080/images/6dade72732c8c1080f94fb0a9d6f7432.png" group-title=" TV | INFANTILES (ESP)",I | Nickelodeon FHD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/264368
+#EXTINF:-1 tvg-id="" tvg-name="I | Nicktoons" tvg-logo="http://playhispano.org:8080/images/800284f83b19bff465c6c045dbc440a9.png" group-title=" TV | INFANTILES (ESP)",I | Nicktoons
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/264369
+#EXTINF:-1 tvg-id="" tvg-name="I | Nicktoons HQ" tvg-logo="http://playhispano.org:8080/images/800284f83b19bff465c6c045dbc440a9.png" group-title=" TV | INFANTILES (ESP)",I | Nicktoons HQ
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/264370
+#EXTINF:-1 tvg-id="" tvg-name="I | Once Niños" tvg-logo="http://playhispano.org:8080/images/a2b0174b2cbf927b13692e52315a0c10.png" group-title=" TV | INFANTILES (ESP)",I | Once Niños
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/264371
+#EXTINF:-1 tvg-id="" tvg-name="I | TeenNick" tvg-logo="http://playhispano.org:8080/images/b49fac26a8c7d62a53f80f35cd7ca507.png" group-title=" TV | INFANTILES (ESP)",I | TeenNick
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/264372
+#EXTINF:-1 tvg-id="" tvg-name="I | TeenNick FHD" tvg-logo="http://playhispano.org:8080/images/b49fac26a8c7d62a53f80f35cd7ca507.png" group-title=" TV | INFANTILES (ESP)",I | TeenNick FHD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/264373
+#EXTINF:-1 tvg-id="" tvg-name="I | Tooncast" tvg-logo="http://playhispano.org:8080/images/ce296919a3490e950d18ff4fdd4d8c6f.png" group-title=" TV | INFANTILES (ESP)",I | Tooncast
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/264374
+#EXTINF:-1 tvg-id="" tvg-name="I | Tooncast HQ" tvg-logo="http://playhispano.org:8080/images/ce296919a3490e950d18ff4fdd4d8c6f.png" group-title=" TV | INFANTILES (ESP)",I | Tooncast HQ
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/264375
+#EXTINF:-1 tvg-id="" tvg-name="I | Universal Kids" tvg-logo="http://playhispano.org:8080/images/85c8dff838f08f235df72768a2ce1560.png" group-title=" TV | INFANTILES (ESP)",I | Universal Kids
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/264376
+#EXTINF:-1 tvg-id="" tvg-name="I | Universal Kids FHD" tvg-logo="http://playhispano.org:8080/images/85c8dff838f08f235df72768a2ce1560.png" group-title=" TV | INFANTILES (ESP)",I | Universal Kids FHD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/264377
+#EXTINF:-1 tvg-id="" tvg-name="I | RETRO KIDS" tvg-logo="" group-title=" TV | INFANTILES (ESP)",I | RETRO KIDS
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/264378
+#EXTINF:-1 tvg-id="" tvg-name="C | Animal Planet" tvg-logo="http://playhispano.org:8080/images/40fb74fa1bfe9cf5dbded355d21c87e9.png" group-title=" TV | DOCUMENTAR | ENTRETENIMIENTO",C | Animal Planet
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/264379
+#EXTINF:-1 tvg-id="" tvg-name="C | Animal Planet HD" tvg-logo="http://playhispano.org:8080/images/40fb74fa1bfe9cf5dbded355d21c87e9.png" group-title=" TV | DOCUMENTAR | ENTRETENIMIENTO",C | Animal Planet HD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/264380
+#EXTINF:-1 tvg-id="" tvg-name="C | Animal Planet FHD" tvg-logo="http://playhispano.org:8080/images/40fb74fa1bfe9cf5dbded355d21c87e9.png" group-title=" TV | DOCUMENTAR | ENTRETENIMIENTO",C | Animal Planet FHD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/264381
+#EXTINF:-1 tvg-id="" tvg-name="C | Discovery Channel" tvg-logo="http://playhispano.org:8080/images/abb27723e4a1fd1b52c5db26cbc526d2.png" group-title=" TV | DOCUMENTAR | ENTRETENIMIENTO",C | Discovery Channel
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/264382
+#EXTINF:-1 tvg-id="" tvg-name="C | Discovery Channel CO" tvg-logo="http://playhispano.org:8080/images/6107ded0e5cbf7ae943ebb2b59b65321.png" group-title=" TV | DOCUMENTAR | ENTRETENIMIENTO",C | Discovery Channel CO
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/264385
+#EXTINF:-1 tvg-id="" tvg-name="C | Discovery Channel CO FHD" tvg-logo="http://playhispano.org:8080/images/6107ded0e5cbf7ae943ebb2b59b65321.png" group-title=" TV | DOCUMENTAR | ENTRETENIMIENTO",C | Discovery Channel CO FHD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/264386
+#EXTINF:-1 tvg-id="" tvg-name="C | Discovery Channel CL HD" tvg-logo="http://playhispano.org:8080/images/abb27723e4a1fd1b52c5db26cbc526d2.png" group-title=" TV | DOCUMENTAR | ENTRETENIMIENTO",C | Discovery Channel CL HD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/264387
+#EXTINF:-1 tvg-id="" tvg-name="C | Discovery Familia" tvg-logo="http://playhispano.org:8080/images/f0c164e35ec92b74b3cc800f4de8696b.png" group-title=" TV | DOCUMENTAR | ENTRETENIMIENTO",C | Discovery Familia
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/264390
+#EXTINF:-1 tvg-id="" tvg-name="C | Discovery Familia HD" tvg-logo="http://playhispano.org:8080/images/f0c164e35ec92b74b3cc800f4de8696b.png" group-title=" TV | DOCUMENTAR | ENTRETENIMIENTO",C | Discovery Familia HD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/264391
+#EXTINF:-1 tvg-id="" tvg-name="C | Discovery H&H" tvg-logo="http://playhispano.org:8080/images/ed574bf8e48b7c6ae9baecc8731a4691.png" group-title=" TV | DOCUMENTAR | ENTRETENIMIENTO",C | Discovery H&H
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/264392
+#EXTINF:-1 tvg-id="" tvg-name="C | Discovery H&H HD" tvg-logo="http://playhispano.org:8080/images/ed574bf8e48b7c6ae9baecc8731a4691.png" group-title=" TV | DOCUMENTAR | ENTRETENIMIENTO",C | Discovery H&H HD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/264393
+#EXTINF:-1 tvg-id="" tvg-name="C | Discovery H&H FHD" tvg-logo="http://playhispano.org:8080/images/ed574bf8e48b7c6ae9baecc8731a4691.png" group-title=" TV | DOCUMENTAR | ENTRETENIMIENTO",C | Discovery H&H FHD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/264394
+#EXTINF:-1 tvg-id="" tvg-name="C | Discovery Investigation" tvg-logo="http://playhispano.org:8080/images/c38e72ce12b77bdd7d284bfc500c8d8d.png" group-title=" TV | DOCUMENTAR | ENTRETENIMIENTO",C | Discovery Investigation
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/264395
+#EXTINF:-1 tvg-id="" tvg-name="C | Discovery Investigation HD" tvg-logo="http://playhispano.org:8080/images/c38e72ce12b77bdd7d284bfc500c8d8d.png" group-title=" TV | DOCUMENTAR | ENTRETENIMIENTO",C | Discovery Investigation HD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/264396
+#EXTINF:-1 tvg-id="" tvg-name="C | Discovery Investigation FHD" tvg-logo="http://playhispano.org:8080/images/c38e72ce12b77bdd7d284bfc500c8d8d.png" group-title=" TV | DOCUMENTAR | ENTRETENIMIENTO",C | Discovery Investigation FHD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/264397
+#EXTINF:-1 tvg-id="" tvg-name="C | Discovery SCI" tvg-logo="http://playhispano.org:8080/images/20f17e98ee584fba1b119641d3286322.png" group-title=" TV | DOCUMENTAR | ENTRETENIMIENTO",C | Discovery SCI
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/264398
+#EXTINF:-1 tvg-id="" tvg-name="C | Discovery SCI HQ" tvg-logo="http://playhispano.org:8080/images/20f17e98ee584fba1b119641d3286322.png" group-title=" TV | DOCUMENTAR | ENTRETENIMIENTO",C | Discovery SCI HQ
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/264399
+#EXTINF:-1 tvg-id="" tvg-name="C | Discovery Theater" tvg-logo="http://playhispano.org:8080/images/efdcf94d48215f199243834f9ddad807.png" group-title=" TV | DOCUMENTAR | ENTRETENIMIENTO",C | Discovery Theater
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/264400
+#EXTINF:-1 tvg-id="" tvg-name="C | Discovery Theater HD" tvg-logo="http://playhispano.org:8080/images/efdcf94d48215f199243834f9ddad807.png" group-title=" TV | DOCUMENTAR | ENTRETENIMIENTO",C | Discovery Theater HD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/264401
+#EXTINF:-1 tvg-id="" tvg-name="C | Discovery Theater FHD" tvg-logo="http://playhispano.org:8080/images/efdcf94d48215f199243834f9ddad807.png" group-title=" TV | DOCUMENTAR | ENTRETENIMIENTO",C | Discovery Theater FHD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/264402
+#EXTINF:-1 tvg-id="" tvg-name="C | Discovery Turbo" tvg-logo="http://playhispano.org:8080/images/9ae5a9682cb001071ecc2b70b2774537.png" group-title=" TV | DOCUMENTAR | ENTRETENIMIENTO",C | Discovery Turbo
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/264403
+#EXTINF:-1 tvg-id="" tvg-name="C | Discovery Turbo HD" tvg-logo="http://playhispano.org:8080/images/9ae5a9682cb001071ecc2b70b2774537.png" group-title=" TV | DOCUMENTAR | ENTRETENIMIENTO",C | Discovery Turbo HD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/264404
+#EXTINF:-1 tvg-id="" tvg-name="C | Discovery Turbo FHD" tvg-logo="http://playhispano.org:8080/images/9ae5a9682cb001071ecc2b70b2774537.png" group-title=" TV | DOCUMENTAR | ENTRETENIMIENTO",C | Discovery Turbo FHD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/264405
+#EXTINF:-1 tvg-id="" tvg-name="C | Discovery World" tvg-logo="http://playhispano.org:8080/images/fd3c85555e3270561739800920c9373c.png" group-title=" TV | DOCUMENTAR | ENTRETENIMIENTO",C | Discovery World
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/264406
+#EXTINF:-1 tvg-id="" tvg-name="C | Discovery World HD" tvg-logo="http://playhispano.org:8080/images/fd3c85555e3270561739800920c9373c.png" group-title=" TV | DOCUMENTAR | ENTRETENIMIENTO",C | Discovery World HD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/264407
+#EXTINF:-1 tvg-id="" tvg-name="C | Discovery World FHD" tvg-logo="http://playhispano.org:8080/images/fd3c85555e3270561739800920c9373c.png" group-title=" TV | DOCUMENTAR | ENTRETENIMIENTO",C | Discovery World FHD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/264408
+#EXTINF:-1 tvg-id="" tvg-name="C | El Gourmet" tvg-logo="http://playhispano.org:8080/images/1e29bdb774b6b16338644ef20c820e10.png" group-title=" TV | DOCUMENTAR | ENTRETENIMIENTO",C | El Gourmet
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/264409
+#EXTINF:-1 tvg-id="" tvg-name="C | El Gourmet FHD" tvg-logo="http://playhispano.org:8080/images/1e29bdb774b6b16338644ef20c820e10.png" group-title=" TV | DOCUMENTAR | ENTRETENIMIENTO",C | El Gourmet FHD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/264411
+#EXTINF:-1 tvg-id="" tvg-name="C | Food Network" tvg-logo="http://playhispano.org:8080/images/71dad6cecacbfaa6d53d4836ec3d90b3.png" group-title=" TV | DOCUMENTAR | ENTRETENIMIENTO",C | Food Network
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/264412
+#EXTINF:-1 tvg-id="" tvg-name="C | Food Network HQ" tvg-logo="http://playhispano.org:8080/images/71dad6cecacbfaa6d53d4836ec3d90b3.png" group-title=" TV | DOCUMENTAR | ENTRETENIMIENTO",C | Food Network HQ
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/264413
+#EXTINF:-1 tvg-id="" tvg-name="C | Food Network FHD" tvg-logo="http://playhispano.org:8080/images/71dad6cecacbfaa6d53d4836ec3d90b3.png" group-title=" TV | DOCUMENTAR | ENTRETENIMIENTO",C | Food Network FHD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/264414
+#EXTINF:-1 tvg-id="" tvg-name="C | H2" tvg-logo="http://playhispano.org:8080/images/0a724d02b43c028acfe9403fbd070931.png" group-title=" TV | DOCUMENTAR | ENTRETENIMIENTO",C | H2
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/264415
+#EXTINF:-1 tvg-id="" tvg-name="C | H2 HD" tvg-logo="http://playhispano.org:8080/images/0a724d02b43c028acfe9403fbd070931.png" group-title=" TV | DOCUMENTAR | ENTRETENIMIENTO",C | H2 HD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/264416
+#EXTINF:-1 tvg-id="" tvg-name="C | H2 FHD" tvg-logo="http://playhispano.org:8080/images/0a724d02b43c028acfe9403fbd070931.png" group-title=" TV | DOCUMENTAR | ENTRETENIMIENTO",C | H2 FHD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/264417
+#EXTINF:-1 tvg-id="" tvg-name="C | HGTV" tvg-logo="http://playhispano.org:8080/images/0d3968c5a4445be45bf04f1e3bda7b23.png" group-title=" TV | DOCUMENTAR | ENTRETENIMIENTO",C | HGTV
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/264418
+#EXTINF:-1 tvg-id="" tvg-name="C | HGTV HD" tvg-logo="http://playhispano.org:8080/images/0d3968c5a4445be45bf04f1e3bda7b23.png" group-title=" TV | DOCUMENTAR | ENTRETENIMIENTO",C | HGTV HD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/264419
+#EXTINF:-1 tvg-id="" tvg-name="C | History" tvg-logo="http://playhispano.org:8080/images/3509b0bad7444ee5668625f36a428861.png" group-title=" TV | DOCUMENTAR | ENTRETENIMIENTO",C | History
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/264420
+#EXTINF:-1 tvg-id="" tvg-name="C | History HD" tvg-logo="http://playhispano.org:8080/images/3509b0bad7444ee5668625f36a428861.png" group-title=" TV | DOCUMENTAR | ENTRETENIMIENTO",C | History HD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/264421
+#EXTINF:-1 tvg-id="" tvg-name="C | History FHD" tvg-logo="http://playhispano.org:8080/images/3509b0bad7444ee5668625f36a428861.png" group-title=" TV | DOCUMENTAR | ENTRETENIMIENTO",C | History FHD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/264422
+#EXTINF:-1 tvg-id="" tvg-name="C | Love Nature" tvg-logo="http://playhispano.org:8080/images/e815f0f5c238df2eead243745cfbf347.png" group-title=" TV | DOCUMENTAR | ENTRETENIMIENTO",C | Love Nature
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/264425
+#EXTINF:-1 tvg-id="" tvg-name="C | Sundance TV" tvg-logo="http://playhispano.org:8080/images/2b06ad8c77d15cb061d4ebf80566c894.png" group-title=" TV | DOCUMENTAR | ENTRETENIMIENTO",C | Sundance TV
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/264430
+#EXTINF:-1 tvg-id="" tvg-name="C | TLC" tvg-logo="http://playhispano.org:8080/images/1e2cf89cffcaa9570c0e6d683c1b7e73.png" group-title=" TV | DOCUMENTAR | ENTRETENIMIENTO",C | TLC
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/264431
+#EXTINF:-1 tvg-id="" tvg-name="C | TLC HD" tvg-logo="http://playhispano.org:8080/images/1e2cf89cffcaa9570c0e6d683c1b7e73.png" group-title=" TV | DOCUMENTAR | ENTRETENIMIENTO",C | TLC HD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/264432
+#EXTINF:-1 tvg-id="" tvg-name="C | TLC FHD" tvg-logo="http://playhispano.org:8080/images/1e2cf89cffcaa9570c0e6d683c1b7e73.png" group-title=" TV | DOCUMENTAR | ENTRETENIMIENTO",C | TLC FHD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/264433
+#EXTINF:-1 tvg-id="" tvg-name="C | TV Unam" tvg-logo="http://playhispano.org:8080/images/736fe98d1ece26cb6a6451d70692cd8d.png" group-title=" TV | DOCUMENTAR | ENTRETENIMIENTO",C | TV Unam
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/264434
+#EXTINF:-1 tvg-id="" tvg-name="C | Wobi" tvg-logo="http://playhispano.org:8080/images/e2ec906a340acdc0edabaec182fcdf33.png" group-title=" TV | DOCUMENTAR | ENTRETENIMIENTO",C | Wobi
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/264435
+#EXTINF:-1 tvg-id="" tvg-name="C | Wobi HD" tvg-logo="http://playhispano.org:8080/images/e2ec906a340acdc0edabaec182fcdf33.png" group-title=" TV | DOCUMENTAR | ENTRETENIMIENTO",C | Wobi HD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/264436
+#EXTINF:-1 tvg-id="" tvg-name="C | Wobi FHD" tvg-logo="http://playhispano.org:8080/images/e2ec906a340acdc0edabaec182fcdf33.png" group-title=" TV | DOCUMENTAR | ENTRETENIMIENTO",C | Wobi FHD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/264437
+#EXTINF:-1 tvg-id="" tvg-name="C | History 2 HD" tvg-logo="http://playhispano.org:8080/images/0a724d02b43c028acfe9403fbd070931.png" group-title=" TV | DOCUMENTAR | ENTRETENIMIENTO",C | History 2 HD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/264438
+#EXTINF:-1 tvg-id="" tvg-name="C |  CONCERT CHANNEL" tvg-logo="http://playhispano.org:8080/images/1804929557eeec152610c06d40a871a2.png" group-title=" TV | DOCUMENTAR | ENTRETENIMIENTO",C |  CONCERT CHANNEL
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/264439
+#EXTINF:-1 tvg-id="" tvg-name="C | DISCOVERY CIVILIZATION" tvg-logo="http://playhispano.org:8080/images/d5a13fd4609ce90ff033929fbd7e7f32.png" group-title=" TV | DOCUMENTAR | ENTRETENIMIENTO",C | DISCOVERY CIVILIZATION
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/264440
+#EXTINF:-1 tvg-id="hbolatino.us" tvg-name="PREM (FHD): HBO XTREME" tvg-logo="http://playhispano.org:8080/images/8b7cc644479fb106d0afef0492bf19a3.png" group-title=" TV | CINE LATINO  (HD)",PREM (FHD): HBO XTREME
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/130347
+#EXTINF:-1 tvg-id="discoveryturbo.co" tvg-name="DISCOVERY_TURBO_HD" tvg-logo="http://playhispano.org:8080/images/9ddbef6c32d9fa8ffcb07a961f943c36.png" group-title=" TV | CLARO COLOMBIA (FHD)",DISCOVERY_TURBO_HD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/159791
+#EXTINF:-1 tvg-id="comedycentral.co" tvg-name="COMEDY_CENTRAL_HD" tvg-logo="https://www.foromedios.com/uploads/monthly_2018_12/small.279164273_Sinttulo-2.png.973c12b8dcf916ec1caca304df1efeb0.png" group-title=" TV | CLARO COLOMBIA (FHD)",COMEDY_CENTRAL_HD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/159792
+#EXTINF:-1 tvg-id="discoverykids.co" tvg-name="DISCOVERY_KIDS_HD" tvg-logo="http://playhispano.org:8080/images/fa168eb9320626bb64b975dea612a6d5.png" group-title=" TV | CLARO COLOMBIA (FHD)",DISCOVERY_KIDS_HD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/159794
+#EXTINF:-1 tvg-id="caracolhd.co" tvg-name="CARACOL_HD" tvg-logo="https://www.foromedios.com/uploads/gallery/category_2/gallery_1163_2_2085.png" group-title=" TV | CLARO COLOMBIA (FHD)",CARACOL_HD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/159795
+#EXTINF:-1 tvg-id="clarosportscolombia.co" tvg-name="CLARO_SPORTS_COL_HD" tvg-logo="http://playhispano.org:8080/images/0a336f76b75ff60a16eb4307f9530421.png" group-title=" TV | CLARO COLOMBIA (FHD)",CLARO_SPORTS_COL_HD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/159796
+#EXTINF:-1 tvg-id="alientovision.co" tvg-name="DIA_TV_HD" tvg-logo="https://cdn.mitvstatic.com/channels/f14f3c9d-5d6b-4c4a-b684-38e4701119a2_m.jpg" group-title=" TV | CLARO COLOMBIA (FHD)",DIA_TV_HD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/159797
+#EXTINF:-1 tvg-id="canalcapital.co" tvg-name="CANALCAPITAL_HD" tvg-logo="https://conexioncapital.co/wp-content/uploads/2020/05/pre-capital.jpg" group-title=" TV | CLARO COLOMBIA (FHD)",CANALCAPITAL_HD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/159798
+#EXTINF:-1 tvg-id="cinecanal.co" tvg-name="CINECANAL_HD" tvg-logo="https://cdn.mitvstatic.com/channels/co_cinecanal-sd-hd-1_m.png" group-title=" TV | CLARO COLOMBIA (FHD)",CINECANAL_HD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/159799
+#EXTINF:-1 tvg-id="canal1.co" tvg-name="CANAL_UNO_HD" tvg-logo="https://cdn.mitvstatic.com/channels/co_cinecanal-sd-hd-1_m.png" group-title=" TV | CLARO COLOMBIA (FHD)",CANAL_UNO_HD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/159800
+#EXTINF:-1 tvg-id="discoverychannel.co" tvg-name="DISCOVERY_CHANNEL_HD" tvg-logo="http://playhispano.org:8080/images/641cb8a57d5d2d6a6291146eb2adf015.png" group-title=" TV | CLARO COLOMBIA (FHD)",DISCOVERY_CHANNEL_HD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/159801
+#EXTINF:-1 tvg-id="discoveryhomeandhealth.co" tvg-name="DISCOVERY_HOME_HEALTH_HD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTEdM1bq9sNAvhDaausDeM1dqa8SkwekdL_loPNHgxEYVM6XTQg7nj50JzsvNHzGQuudD3DmDaF8hSVqw1EPlligMBL87r7j_I1n18i8qksVw3NS9bWCd5AkoaaQ6rnHFlvjRiOXWbywE-tpV9-w3mGUpcmCfdS9OgvYoQ9XQ8aTcDqlxOZCZBKpqNHQ/s1920/Captura%20de%20Tela%20(1167).png" group-title=" TV | CLARO COLOMBIA (FHD)",DISCOVERY_HOME_HEALTH_HD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/159802
+#EXTINF:-1 tvg-id="discoveryhomeandhealth.co" tvg-name="DISCOVERY_THEATER_HD" tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery-hd-theater_m.png" group-title=" TV | CLARO COLOMBIA (FHD)",DISCOVERY_THEATER_HD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/159806
+#EXTINF:-1 tvg-id="winsportsplus.co" tvg-name="WINPREMIUM" tvg-logo="https://i.ytimg.com/vi/UPHlOHPztpk/maxresdefault.jpg" group-title=" TV | CLARO COLOMBIA (FHD)",WINPREMIUM
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/159808
+#EXTINF:-1 tvg-id="azcorazon.mx" tvg-name="AZCORAZON_HD" tvg-logo="http://playhispano.org:8080/images/d0c67b8f5643352a1b37aa792caa74a6.png" group-title=" TV | CLARO COLOMBIA (FHD)",AZCORAZON_HD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/159809
+#EXTINF:-1 tvg-id="winsports.co" tvg-name="WINSPORTS_HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/WinSports2022.png/640px-WinSports2022.png" group-title=" TV | CLARO COLOMBIA (FHD)",WINSPORTS_HD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/159810
+#EXTINF:-1 tvg-id="animalplanet.co" tvg-name="ANIMAL_PLANET_HD" tvg-logo="https://www.kindpng.com/picc/m/107-1076403_animal-planet-png-animal-planet-logo-2019-transparent.png" group-title=" TV | CLARO COLOMBIA (FHD)",ANIMAL_PLANET_HD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/159811
+#EXTINF:-1 tvg-id="axn.co" tvg-name="AXN_HD" tvg-logo="http://playhispano.org:8080/images/25a3383dbab74d30b0367e0d8a9dd80b.png" group-title=" TV | CLARO COLOMBIA (FHD)",AXN_HD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/159812
+#EXTINF:-1 tvg-id="discoveryscience.co" tvg-name="DISCOVERY_WORLD_HD" tvg-logo="https://www.nicepng.com/png/detail/134-1342363_discovery-channel-logo-discovery-world.png" group-title=" TV | CLARO COLOMBIA (FHD)",DISCOVERY_WORLD_HD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/159813
+#EXTINF:-1 tvg-id="hbofamily.co" tvg-name="BLOOMBERG_HD" tvg-logo="https://thumbs.dreamstime.com/b/bloomberg-logo-icon-printed-paper-placed-white-backgro-kiev-ukraine-october-background-reflection-79842594.jpg" group-title=" TV | CLARO COLOMBIA (FHD)",BLOOMBERG_HD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/159814
+#EXTINF:-1 tvg-id="amc.co" tvg-name="AMC_HD" tvg-logo="http://playhispano.org:8080/images/83cec9b9b32401cda7e171a26251d911.png" group-title=" TV | CLARO COLOMBIA (FHD)",AMC_HD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/159815
+#EXTINF:-1 tvg-id="disneychannel.co" tvg-name="DISNEY_HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/1/12/Disney_channel_uk_hd.png" group-title=" TV | CLARO COLOMBIA (FHD)",DISNEY_HD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/159816
+#EXTINF:-1 tvg-id="clarosportscolombia.co" tvg-name="CLARO_SPORTS_LATAM_HD" tvg-logo="http://playhispano.org:8080/images/0a336f76b75ff60a16eb4307f9530421.png" group-title=" TV | CLARO COLOMBIA (FHD)",CLARO_SPORTS_LATAM_HD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/159818
+#EXTINF:-1 tvg-id="espn3.co" tvg-name="ESPN_3_HD" tvg-logo="http://playhispano.org:8080/images/e2313d860eb0ae42ff7e77e1e3c857fe.jpg" group-title=" TV | CLARO COLOMBIA (FHD)",ESPN_3_HD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/159819
+#EXTINF:-1 tvg-id="foxsports3conosur.co" tvg-name="Fox Sports 3" tvg-logo="https://cdn.mitvstatic.com/channels/mx_fox-sports-3_m.png" group-title=" TV | CLARO COLOMBIA (FHD)",Fox Sports 3
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/159820
+#EXTINF:-1 tvg-id="hboplus.co" tvg-name="HBO_PLUS_HD_MX" tvg-logo="http://playhispano.org:8080/images/550344611b59782813b48ff838ae2d66.png" group-title=" TV | CLARO COLOMBIA (FHD)",HBO_PLUS_HD_MX
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/159821
+#EXTINF:-1 tvg-id="espnplus.co" tvg-name="ESPN_PLUS_HD" tvg-logo="http://playhispano.org:8080/images/c89eefe1d0f36a99c80b338ec6239813.jpg" group-title=" TV | CLARO COLOMBIA (FHD)",ESPN_PLUS_HD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/159822
+#EXTINF:-1 tvg-id="foxsports2conosur.co" tvg-name="FOX SPORTS 2" tvg-logo="http://playhispano.org:8080/images/cf6c26ecc2f60aa8c5636d3c32a08a08.png" group-title=" TV | CLARO COLOMBIA (FHD)",FOX SPORTS 2
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/159823
+#EXTINF:-1 tvg-id="universalchannel.co" tvg-name="UNIVERSAL_CHANNEL_HD" tvg-logo="https://www.totalmedios.com/img/noticias/2010/08/Noticia9287__838x390.jpg" group-title=" TV | CLARO COLOMBIA (FHD)",UNIVERSAL_CHANNEL_HD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/159824
+#EXTINF:-1 tvg-id="hbosignaturehd.co" tvg-name="HBO_SIGNATURE_HD" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_05/large.1813311820_HBOSignature.png.b249d53ce9aea7ba6e6918e62263084f.png" group-title=" TV | CLARO COLOMBIA (FHD)",HBO_SIGNATURE_HD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/159825
+#EXTINF:-1 tvg-id="goldenpremier.co" tvg-name="Golden  Premier" tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png" group-title=" TV | CLARO COLOMBIA (FHD)",Golden  Premier
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/159827
+#EXTINF:-1 tvg-id="nickelodeon.co" tvg-name="NICK_2_HD" tvg-logo="http://playhispano.org:8080/images/f4af4d7227f9ab4941e594ab2aa46e93.png" group-title=" TV | CLARO COLOMBIA (FHD)",NICK_2_HD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/159828
+#EXTINF:-1 tvg-id="espn2.co" tvg-name="ESPN 2 COL" tvg-logo="http://playhispano.org:8080/images/6bd4a9a722f9cd1125fd44f60b24223c.png" group-title=" TV | CLARO COLOMBIA (FHD)",ESPN 2 COL
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/159829
+#EXTINF:-1 tvg-id="aande.co" tvg-name="E_HD" tvg-logo="http://playhispano.org:8080/images/f859f550469370fada039f12af61d291.jpg" group-title=" TV | CLARO COLOMBIA (FHD)",E_HD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/159830
+#EXTINF:-1 tvg-id="hboxtreme.co" tvg-name="HBO_XTREME_HD_MX" tvg-logo="http://playhispano.org:8080/images/900dd963f8e44644f41124ad808e641a.png" group-title=" TV | CLARO COLOMBIA (FHD)",HBO_XTREME_HD_MX
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/159831
+#EXTINF:-1 tvg-id="tnt.co" tvg-name="TNT_HD" tvg-logo="http://playhispano.org:8080/images/98a863231e845ced8f2f5775d72a0fec.png" group-title=" TV | CLARO COLOMBIA (FHD)",TNT_HD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/159832
+#EXTINF:-1 tvg-id="foxsportsconosur.co" tvg-name="FOX SPORTS PREMIUM" tvg-logo="http://playhispano.org:8080/images/fc93a9e96acdffe8ed1b1f293e286cf8.jpg" group-title=" TV | CLARO COLOMBIA (FHD)",FOX SPORTS PREMIUM
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/159833
+#EXTINF:-1 tvg-id="trutv.co" tvg-name="TRU_TV_HD" tvg-logo="https://cdn6.aptoide.com/imgs/e/8/7/e87ded4659a59808d596016a323f40cf_icon.jpg" group-title=" TV | CLARO COLOMBIA (FHD)",TRU_TV_HD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/159834
+#EXTINF:-1 tvg-id="history.co" tvg-name="HISTORY_CHANNEL_HD" tvg-logo="http://playhispano.org:8080/images/628cb4ac1efc80e24fedc22fa5fbe30d.png" group-title=" TV | CLARO COLOMBIA (FHD)",HISTORY_CHANNEL_HD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/159835
+#EXTINF:-1 tvg-id="hbopop.co" tvg-name="HBO_POP_HD_MX" tvg-logo="http://playhispano.org:8080/images/a2716bfb54cf2bf28a66f98d2076b9a0.png" group-title=" TV | CLARO COLOMBIA (FHD)",HBO_POP_HD_MX
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/159836
+#EXTINF:-1 tvg-id="hbo.co" tvg-name="HBO_HD_MX" tvg-logo="http://playhispano.org:8080/images/68f1435d1d8918770e24c87672be9f2b.png" group-title=" TV | CLARO COLOMBIA (FHD)",HBO_HD_MX
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/159837
+#EXTINF:-1 tvg-id="tnt.co" tvg-name="TNT_SERIES_HD" tvg-logo="http://playhispano.org:8080/images/643152e87d782b123bf109f454158ce5.png" group-title=" TV | CLARO COLOMBIA (FHD)",TNT_SERIES_HD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/159838
+#EXTINF:-1 tvg-id="espn.co" tvg-name="ESPN_HD" tvg-logo="https://w7.pngwing.com/pngs/318/371/png-transparent-espn-television-espn-extra-high-definition-video-lam-radio-hd-television-text-logo.png" group-title=" TV | CLARO COLOMBIA (FHD)",ESPN_HD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/159839
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 1 SUR" tvg-logo="http://playhispano.org:8080/images/8836907e01881c26a6aacbf5e29d2d4d.png" group-title=" TV | CLARO COLOMBIA (FHD)",FOX SPORTS 1 SUR
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/159840
+#EXTINF:-1 tvg-id="hbomundi.co" tvg-name="HBO_MUNDI_HD_MX" tvg-logo="http://playhispano.org:8080/images/17c1ba90eab6a393295635eeb2ccc60b.jpg" group-title=" TV | CLARO COLOMBIA (FHD)",HBO_MUNDI_HD_MX
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/159842
+#EXTINF:-1 tvg-id="hbo.co" tvg-name="HBO_HD" tvg-logo="http://playhispano.org:8080/images/3b52f61906d34c41d6107d61ad033021.png" group-title=" TV | CLARO COLOMBIA (FHD)",HBO_HD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/159843
+#EXTINF:-1 tvg-id="discoveryscience.co" tvg-name="DISCOVERY_CIVILIZATION" tvg-logo="https://aquitemfofoca.com.br/wp-content/uploads/2019/10/images-2-1.jpg" group-title=" TV | CLARO COLOMBIA (FHD)",DISCOVERY_CIVILIZATION
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/159844
+#EXTINF:-1 tvg-id="discoveryscience.co" tvg-name="DISCOVERY_SCIENCE" tvg-logo="https://corporate.discovery.com/wp-content/uploads/2014/02/science_channel_redux_logo_detail.jpg" group-title=" TV | CLARO COLOMBIA (FHD)",DISCOVERY_SCIENCE
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/159845
+#EXTINF:-1 tvg-id="tcm.co" tvg-name="tcm" tvg-logo="http://playhispano.org:8080/images/481ee88402266fde60880abc1b4f7a48.png" group-title=" TV | CLARO COLOMBIA (FHD)",tcm
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/159846
+#EXTINF:-1 tvg-id="disneyjunior.co" tvg-name="DISNEY_JR" tvg-logo="http://playhispano.org:8080/images/919c8b643b7133116b02fc0d9bb7df3f.jpg" group-title=" TV | CLARO COLOMBIA (FHD)",DISNEY_JR
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/159847
+#EXTINF:-1 tvg-id="boomerang.co" tvg-name="BOOMERANG_HD" tvg-logo="http://playhispano.org:8080/images/9982e28e4a985c1b36afff05510d93db.png" group-title=" TV | CLARO COLOMBIA (FHD)",BOOMERANG_HD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/159851
+#EXTINF:-1 tvg-id="cinemaplus.do" tvg-name="CINELATINO" tvg-logo="http://playhispano.org:8080/images/efe4152deee2adabfaa5933a5db1ca15.png" group-title=" TV | CLARO COLOMBIA (FHD)",CINELATINO
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/159854
+#EXTINF:-1 tvg-id="telecaribe.co" tvg-name="TELECARIBE_HD" tvg-logo="https://static.wixstatic.com/media/61a456_b830c605b75d4775b82e4ebd6e64ee32~mv2.jpg/v1/crop/x_0,y_148,w_2251,h_1955/fill/w_296,h_264,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/IMAGEN%20PERFIL%20REDES%20SOCIALES%20TELECARIBE%2002.jpg" group-title=" TV | CLARO COLOMBIA (FHD)",TELECARIBE_HD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/159855
+#EXTINF:-1 tvg-id="rcnnovelas.co" tvg-name="TLNOVELAS" tvg-logo="http://playhispano.org:8080/images/832fd504528051bea12236eaad5d121c.jpg" group-title=" TV | CLARO COLOMBIA (FHD)",TLNOVELAS
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/159856
+#EXTINF:-1 tvg-id="" tvg-name="RADIOLA" tvg-logo="http://playhispano.org:8080/images/6ea4e5cb6cb7cf20c6d0ec454983ea16.jpg" group-title=" TV | CLARO COLOMBIA (FHD)",RADIOLA
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/159858
+#EXTINF:-1 tvg-id="cinemax.co" tvg-name="CINEMAX" tvg-logo="http://playhispano.org:8080/images/679e98f520b82c5c62e09cf364ca75b6.jpg" group-title=" TV | CLARO COLOMBIA (FHD)",CINEMAX
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/159859
+#EXTINF:-1 tvg-id="telecafe.co" tvg-name="TELECAFE_HD" tvg-logo="http://playhispano.org:8080/images/00374b726099d7870f168a18a3b68476.png" group-title=" TV | CLARO COLOMBIA (FHD)",TELECAFE_HD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/159860
+#EXTINF:-1 tvg-id="telepacifico.co" tvg-name="TELEPACIFICO_HD" tvg-logo="http://playhispano.org:8080/images/96d6f2e7e1f705ab5e59c84a6dc009b2.png" group-title=" TV | CLARO COLOMBIA (FHD)",TELEPACIFICO_HD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/159861
+#EXTINF:-1 tvg-id="" tvg-name="MULTIPREMIER" tvg-logo="https://multipremier.com/wp-content/uploads/2020/10/cropped-mp.png" group-title=" TV | CLARO COLOMBIA (FHD)",MULTIPREMIER
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/159863
+#EXTINF:-1 tvg-id="" tvg-name="CERTV" tvg-logo="https://gobernanzasdigital.com/wp-content/uploads/2020/09/CERTV_logo.jpg" group-title=" TV | CLARO COLOMBIA (FHD)",CERTV
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/159864
+#EXTINF:-1 tvg-id="eltiempo.co" tvg-name="TIEMPO_TV" tvg-logo="http://playhispano.org:8080/images/90eacd95587a62936d897190f375952f.png" group-title=" TV | CLARO COLOMBIA (FHD)",TIEMPO_TV
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/159870
+#EXTINF:-1 tvg-id="pasiones.co" tvg-name="PASIONES_HD" tvg-logo="https://cdn.mitvstatic.com/channels/ar_pasiones_m.png" group-title=" TV | CLARO COLOMBIA (FHD)",PASIONES_HD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/159872
+#EXTINF:-1 tvg-id="foxsports3conosur.co" tvg-name="FOX SPORTS 3 TP MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1280px-Fox_sports_3_logo.svg.png" group-title=" TV | CLARO COLOMBIA (FHD)",FOX SPORTS 3 TP MX
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/159873
+#EXTINF:-1 tvg-id="foxsports2conosur.co" tvg-name="FOX_SPORTS2_HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Fox_sports_2.png" group-title=" TV | CLARO COLOMBIA (FHD)",FOX_SPORTS2_HD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/159874
+#EXTINF:-1 tvg-id="cinemax.co" tvg-name="HBO POP _HD" tvg-logo="http://playhispano.org:8080/images/3a6c0b7d034fb0c08ebdedae9c5cc6a3.png" group-title=" TV | CLARO COLOMBIA (FHD)",HBO POP _HD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/159875
+#EXTINF:-1 tvg-id="cinemax.co" tvg-name="CINEMAX_HD" tvg-logo="http://playhispano.org:8080/images/e6b16a3ef88036cd838874155bd08eca.png" group-title=" TV | CLARO COLOMBIA (FHD)",CINEMAX_HD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/159876
+#EXTINF:-1 tvg-id="cinemax.co" tvg-name="HBO XTRIME _HD" tvg-logo="http://playhispano.org:8080/images/4f93bf3bce46443a7b1905d501f164ba.png" group-title=" TV | CLARO COLOMBIA (FHD)",HBO XTRIME _HD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/159877
+#EXTINF:-1 tvg-id="foxsportsconosur.co" tvg-name="FOX_SPORTS_HD" tvg-logo="http://playhispano.org:8080/images/5385bc7561abcaea5ba38b1abf7dab36.png" group-title=" TV | CLARO COLOMBIA (FHD)",FOX_SPORTS_HD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/159878
+#EXTINF:-1 tvg-id="paramountchannel.co" tvg-name="PARAMOUNT_HD" tvg-logo="http://playhispano.org:8080/images/481882e13863aecd1d7cf1b18a3a95a8.png" group-title=" TV | CLARO COLOMBIA (FHD)",PARAMOUNT_HD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/159879
+#EXTINF:-1 tvg-id="nickelodeon.co" tvg-name="NICKELODEON_HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Nick_HD.png" group-title=" TV | CLARO COLOMBIA (FHD)",NICKELODEON_HD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/159880
+#EXTINF:-1 tvg-id="studiouniversal.co" tvg-name="STUDIO_UNIVERSAL_HD" tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/gallery_1201_7_9711.png" group-title=" TV | CLARO COLOMBIA (FHD)",STUDIO_UNIVERSAL_HD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/159882
+#EXTINF:-1 tvg-id="sony.co" tvg-name="SONY_HD" tvg-logo="http://playhispano.org:8080/images/4ba890f22c1f54a3e4248c78ca0e2b36.png" group-title=" TV | CLARO COLOMBIA (FHD)",SONY_HD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/159883
+#EXTINF:-1 tvg-id="universalchannel.co" tvg-name="UNIVERSAL_REALITY_HD" tvg-logo="https://forounivers.com/uploads/monthly_2021_11/large.1900466692_UniversalReality.png.4589a40c388f30c4a4529ab027716a02.png" group-title=" TV | CLARO COLOMBIA (FHD)",UNIVERSAL_REALITY_HD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/159885
+#EXTINF:-1 tvg-id="universalchannel.co" tvg-name="UNIVERSAL_COMEDY_HD" tvg-logo="https://forounivers.com/uploads/monthly_2021_10/large.UNIVERSAL_COMEDY.png.533fc9f53f261cd502372e7eb4c23d09.png" group-title=" TV | CLARO COLOMBIA (FHD)",UNIVERSAL_COMEDY_HD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/159886
+#EXTINF:-1 tvg-id="mtv.co" tvg-name="MTV_HD" tvg-logo="http://playhispano.org:8080/images/2f3b0588dabe6c7f6550c015c22ca2f6.png" group-title=" TV | CLARO COLOMBIA (FHD)",MTV_HD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/159888
+#EXTINF:-1 tvg-id="universalchannel.co" tvg-name="UNIVERSAL_PREMIER_HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Universal_Premiere_2021.png" group-title=" TV | CLARO COLOMBIA (FHD)",UNIVERSAL_PREMIER_HD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/159889
+#EXTINF:-1 tvg-id="rcnhd.co" tvg-name="RCN_HD" tvg-logo="https://imagenes.canalrcn.com/CanalRCN/imagen-compartir-canal.jpg" group-title=" TV | CLARO COLOMBIA (FHD)",RCN_HD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/159890
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL_PREMIER_HD_MX" tvg-logo="https://forounivers.com/uploads/monthly_2021_11/large.604426719_UniversalPremiere.png.12f05e2df4549f210ad2f2219770e237.png" group-title=" TV | CLARO COLOMBIA (FHD)",UNIVERSAL_PREMIER_HD_MX
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/159891
+#EXTINF:-1 tvg-id="universalchannel.co" tvg-name="UNIVERSAL_CRIME_HD" tvg-logo="https://www.foromedios.com/uploads/monthly_2022_03/small.139088045_UniversalCrime-Oscuro.png.b98d5401ede096af7197e12256a6ec37.png" group-title=" TV | CLARO COLOMBIA (FHD)",UNIVERSAL_CRIME_HD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/159892
+#EXTINF:-1 tvg-id="goldenpremier.co" tvg-name="GOLDEN_HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Golden_hd.png" group-title=" TV | CLARO COLOMBIA (FHD)",GOLDEN_HD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/159893
+#EXTINF:-1 tvg-id="mtvlivehd.co" tvg-name="MTV_LIVE_HD" tvg-logo="http://playhispano.org:8080/images/0fa26698cbb66924c36b80febe0d6d0a.png" group-title=" TV | CLARO COLOMBIA (FHD)",MTV_LIVE_HD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/159894
+#EXTINF:-1 tvg-id="universalchannel.co" tvg-name="UNIVERSAL_CRIME_HD_MX" tvg-logo="https://www.foromedios.com/uploads/monthly_2022_03/large.139088045_UniversalCrime-Oscuro.png.96c4b094012fd66c70e7837081865a12.png" group-title=" TV | CLARO COLOMBIA (FHD)",UNIVERSAL_CRIME_HD_MX
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/159896
+#EXTINF:-1 tvg-id="universalchannel.co" tvg-name="UNIVERSAL_CINEMA_HD" tvg-logo="https://www.directv.com.co/content/dam/public-sites/channels/572.png" group-title=" TV | CLARO COLOMBIA (FHD)",UNIVERSAL_CINEMA_HD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/159898
+#EXTINF:-1 tvg-id="warnerchannel.co" tvg-name="WARNER_HD" tvg-logo="http://playhispano.org:8080/images/5463b1b707dd77f95c6c79065a47e6e7.png" group-title=" TV | CLARO COLOMBIA (FHD)",WARNER_HD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/159899
+#EXTINF:-1 tvg-id="tlc.co" tvg-name="TLC_HD" tvg-logo="http://playhispano.org:8080/images/8812f1918b543fbc72439c08d5f825f6.png" group-title=" TV | CLARO COLOMBIA (FHD)",TLC_HD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/159900
+#EXTINF:-1 tvg-id="tooncast.co" tvg-name="TOONCAST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Tooncast.png" group-title=" TV | CLARO COLOMBIA (FHD)",TOONCAST
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/159902
+#EXTINF:-1 tvg-id="rcnnovelas.co" tvg-name="RCN_TELENOVELAS" tvg-logo="https://www.foromedios.com/uploads/monthly_2018_09/meme.png.5b9ce8a51c04ecadd910c55234f0c52b.png" group-title=" TV | CLARO COLOMBIA (FHD)",RCN_TELENOVELAS
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/159903
+#EXTINF:-1 tvg-id="tcm.co" tvg-name="TCM" tvg-logo="http://playhispano.org:8080/images/d8c0c94d013015f50668e71bb52bbe42.jpg" group-title=" TV | CLARO COLOMBIA (FHD)",TCM
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/159907
+#EXTINF:-1 tvg-id="tbs.co" tvg-name="TBS_HD" tvg-logo="https://www.nicepng.com/png/full/177-1773667_tbs-logo.png" group-title=" TV | CLARO COLOMBIA (FHD)",TBS_HD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/159912
+#EXTINF:-1 tvg-id="" tvg-name="DEP SD:  FOX SPORTS 2 (ARG)" tvg-logo="https://elcomercio.pe/resizer/yLO4T708aaZcC3WUPpP_6eW7KvY=/787x442/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/YYMGVXVEWZAFJNGBVQULIWBRCY.jpg" group-title=" TV | DEPORTES LATINOS (FHD)",DEP SD:  FOX SPORTS 2 (ARG)
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/156587
+#EXTINF:-1 tvg-id="" tvg-name="DEP SD: ESPN 1 (ARG)" tvg-logo="https://elcomercio.pe/resizer/yLO4T708aaZcC3WUPpP_6eW7KvY=/787x442/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/YYMGVXVEWZAFJNGBVQULIWBRCY.jpg" group-title=" TV | DEPORTES LATINOS (FHD)",DEP SD: ESPN 1 (ARG)
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/156595
+#EXTINF:-1 tvg-id="" tvg-name="DEP SD: FOX SPORTS 1 (ARG)" tvg-logo="https://elcomercio.pe/resizer/yLO4T708aaZcC3WUPpP_6eW7KvY=/787x442/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/YYMGVXVEWZAFJNGBVQULIWBRCY.jpg" group-title=" TV | DEPORTES LATINOS (FHD)",DEP SD: FOX SPORTS 1 (ARG)
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/156606
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 Latin" tvg-logo="https://elcomercio.pe/resizer/yLO4T708aaZcC3WUPpP_6eW7KvY=/787x442/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/YYMGVXVEWZAFJNGBVQULIWBRCY.jpg" group-title=" TV | DEPORTES LATINOS (FHD)",ESPN 2 Latin
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/163394
+#EXTINF:-1 tvg-id="" tvg-name="ESPN COL" tvg-logo="https://elcomercio.pe/resizer/yLO4T708aaZcC3WUPpP_6eW7KvY=/787x442/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/YYMGVXVEWZAFJNGBVQULIWBRCY.jpg" group-title="TV | DEPORTES COLOMBIA",ESPN COL
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/183901
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 1 COL" tvg-logo="https://elcomercio.pe/resizer/yLO4T708aaZcC3WUPpP_6eW7KvY=/787x442/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/YYMGVXVEWZAFJNGBVQULIWBRCY.jpg" group-title=" TV | DEPORTES LATINOS (FHD)",ESPN 1 COL
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/183902
+#EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="https://www.monotype.com/sites/default/files/2019-10/premierleague-hero-new.png" group-title=" TV | DEPORTES LATINOS (FHD)",ESPN
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/163392
+#EXTINF:-1 tvg-id="" tvg-name="COL| CANAL UNO FHD" tvg-logo="http://iptvglobal.site:25461/images/095812584d52e3ba46379cf8ebd81c81.png" group-title="TV | COLOMBIA",COL| CANAL UNO FHD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/86321
+#EXTINF:-1 tvg-id="" tvg-name="COL| CARACOL HD H2 " tvg-logo="https://www.chatytvgratishd.me/wp-content/uploads/2020/05/caracol-hd2-en-vivo-1.png" group-title="TV | COLOMBIA",COL| CARACOL HD H2 
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/86323
+#EXTINF:-1 tvg-id="" tvg-name="COL| CARACOL 1080P *" tvg-logo="http://playhispano.org:8080/images/9fab0c93ebb9dfed6d726cb69f3ee0e2.png" group-title="TV | COLOMBIA",COL| CARACOL 1080P *
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/86324
+#EXTINF:-1 tvg-id="" tvg-name="COL| CARACOL INTERNACIONAL HD**" tvg-logo="http://playhispano.org:8080/images/b94628718c981731018331a3374aa8b6.png" group-title="TV | COLOMBIA",COL| CARACOL INTERNACIONAL HD**
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/86328
+#EXTINF:-1 tvg-id="" tvg-name="COL| CARACOL COLOMBIA HD*" tvg-logo="http://playhispano.org:8080/images/9fab0c93ebb9dfed6d726cb69f3ee0e2.png" group-title="TV | COLOMBIA",COL| CARACOL COLOMBIA HD*
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/86330
+#EXTINF:-1 tvg-id="" tvg-name="COL| RCN FHD" tvg-logo="http://playhispano.org:8080/images/8abaac40562eeee5d7f9d1a9b41f0e5b.png" group-title="TV | COLOMBIA",COL| RCN FHD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/86331
+#EXTINF:-1 tvg-id="" tvg-name="COL| FOX SPORTS 1 FHD" tvg-logo="http://playhispano.org:8080/images/21821372ecbd5fd8a34934376b694d9b.png" group-title="TV | DEPORTES COLOMBIA",COL| FOX SPORTS 1 FHD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/86352
+#EXTINF:-1 tvg-id="" tvg-name="COL| FOX SPORTS 2 FHD" tvg-logo="http://playhispano.org:8080/images/cf7ac9458c61ba7c803e22e820315fee.png" group-title="TV | DEPORTES COLOMBIA",COL| FOX SPORTS 2 FHD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/86353
+#EXTINF:-1 tvg-id="" tvg-name="COL| FOX SPORTS 3 FHD" tvg-logo="https://i.picasion.com/pic92/750f7e24fe0d3482e6c5b32048f66d6b.gif" group-title="TV | DEPORTES COLOMBIA",COL| FOX SPORTS 3 FHD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/86354
+#EXTINF:-1 tvg-id="" tvg-name="COL| ESPN 1 FHD" tvg-logo="https://www.freepnglogos.com/uploads/espn-png-logo/espn-logo-espn-symbol-meaning-png-logo-0.png" group-title="TV | DEPORTES COLOMBIA",COL| ESPN 1 FHD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/86355
+#EXTINF:-1 tvg-id="" tvg-name="COL| ESPN 2 FHD" tvg-logo="http://iptvglobal.site:25461/images/e74c6678c8ecca415983bcc59fed497f.png" group-title="TV | DEPORTES COLOMBIA",COL| ESPN 2 FHD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/86356
+#EXTINF:-1 tvg-id="" tvg-name="COL| ESPN 3 FHD" tvg-logo="http://iptvglobal.site:25461/images/6db6ffc04eb02e7cfdf49291aced4303.png" group-title="TV | DEPORTES COLOMBIA",COL| ESPN 3 FHD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/86357
+#EXTINF:-1 tvg-id="" tvg-name="COL| TELEMEDELLIN" tvg-logo="http://iptvglobal.site:25461/images/b0a01c4b6f5f72ac32dd837733404756.png" group-title="TV | COLOMBIA",COL| TELEMEDELLIN
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/86358
+#EXTINF:-1 tvg-id="" tvg-name="COL| TELECARIBE HD" tvg-logo="http://iptvglobal.site:25461/images/e5c4156e858e48d0bd50ee6d9e3ff4c6.png" group-title="TV | COLOMBIA",COL| TELECARIBE HD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/86359
+#EXTINF:-1 tvg-id="" tvg-name="COL| TELEANTIOQUIA HD**" tvg-logo="http://iptvglobal.site:25461/images/689cb60887f9e7348c1fc93d834ad7c0.png" group-title="TV | COLOMBIA",COL| TELEANTIOQUIA HD**
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/86360
+#EXTINF:-1 tvg-id="" tvg-name="COL| CANAL CAPITAL" tvg-logo="http://iptvglobal.site:25461/images/adaa72c054741f2369e1659741332e46.png" group-title="TV | COLOMBIA",COL| CANAL CAPITAL
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/86361
+#EXTINF:-1 tvg-id="" tvg-name="COL| CALI TV" tvg-logo="http://iptvglobal.site:25461/images/8c057b53bd4b551881ce798aa350609b.png" group-title="TV | COLOMBIA",COL| CALI TV
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/86363
+#EXTINF:-1 tvg-id="" tvg-name="COL| TV AGRO HD" tvg-logo="http://iptvglobal.site:25461/images/c836985e570602cfd04f3318351a9372.png" group-title="TV | COLOMBIA",COL| TV AGRO HD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/86367
+#EXTINF:-1 tvg-id="" tvg-name="COL| TELEPACIFICO HD" tvg-logo="http://iptvglobal.site:25461/images/dc424517e4eca332b7fc100932ac5386.png" group-title="TV | COLOMBIA",COL| TELEPACIFICO HD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/86369
+#EXTINF:-1 tvg-id="" tvg-name="COL| HOLA TV HD" tvg-logo="http://iptvglobal.site:25461/images/35fe8b9d90d9e7a5bbe1d4faf70586b3.png" group-title="TV | COLOMBIA",COL| HOLA TV HD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/86375
+#EXTINF:-1 tvg-id="elgourmet.mx" tvg-name="COL| EL GOURMET HD" tvg-logo="http://iptvglobal.site:25461/images/e925d423cd19996c711520e5d47fd725.png" group-title="TV | COLOMBIA",COL| EL GOURMET HD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/86377
+#EXTINF:-1 tvg-id="" tvg-name="COL| CITY TV  FHD**" tvg-logo="http://miarea.vip:8080/images/6edbd94d99e17ccfb294a78dd017eea9.png" group-title="TV | COLOMBIA",COL| CITY TV  FHD**
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/119641
+#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA | CARACOL (A)" tvg-logo="http://playhispano.org:8080/images/ee34471380aae91998018938819e7c07.png" group-title="TV | COLOMBIA",COLOMBIA | CARACOL (A)
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/125761
+#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA | CABLE NOTICIAS (A)" tvg-logo="http://iptvglobal.site:25461/images/b80e4fd68eab9b347bdf563967a6c02d.png" group-title="TV | COLOMBIA",COLOMBIA | CABLE NOTICIAS (A)
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/125765
+#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA | CANAL UNO (p)" tvg-logo="http://iptvglobal.site:25461/images/0200abb799a26158456f814660ab30eb.png" group-title="TV | COLOMBIA",COLOMBIA | CANAL UNO (p)
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/125766
+#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA | TELEPACIFICO (L)" tvg-logo="http://iptvglobal.site:25461/images/c7871a2a5eb0095e3e39ecfb0ad26151.png" group-title="TV | COLOMBIA",COLOMBIA | TELEPACIFICO (L)
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/125767
+#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA |TELEMEDELLIN(GR)" tvg-logo="http://iptvglobal.site:25461/images/f85a5a4473f4bc2331563b12feb1ddce.png" group-title="TV | COLOMBIA",COLOMBIA |TELEMEDELLIN(GR)
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/125769
+#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA |TELE ISLAS (GR)" tvg-logo="http://iptvglobal.site:25461/images/9e8eade8c1e014229704cfbc37ec82ff.png" group-title="TV | COLOMBIA",COLOMBIA |TELE ISLAS (GR)
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/125770
+#EXTINF:-1 tvg-id="" tvg-name="CARACOL HD" tvg-logo="http://playhispano.org:8080/images/ecd54db8aa6a460bd3ec58e66d8295fb.png" group-title="TV | COLOMBIA",CARACOL HD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/125773
+#EXTINF:-1 tvg-id="" tvg-name="RCN FHD OPC 2" tvg-logo="https://colombia.mom-rsf.org/typo3temp/_processed_/b/3/csm_511-941_import_12632a7631.png" group-title="TV | COLOMBIA",RCN FHD OPC 2
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/125776
+#EXTINF:-1 tvg-id="" tvg-name="CARACOL INTERNACIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/2012_CARACOL_TV_Internacional_logo.svg/1024px-2012_CARACOL_TV_Internacional_logo.svg.png" group-title="TV | COLOMBIA",CARACOL INTERNACIONAL
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/125777
+#EXTINF:-1 tvg-id="" tvg-name="Directv Sports HD (Col)" tvg-logo="http://iptvglobal.site:25461/images/251ef8acedafb7c6a185a76541f46c8d.png" group-title="TV | DEPORTES COLOMBIA",Directv Sports HD (Col)
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/125780
+#EXTINF:-1 tvg-id="" tvg-name="CO | ESPN 2" tvg-logo="http://www.skytvpluzz.online:8000/images/89ea7d99b140be73ea67ee2ab20c42da.png" group-title="TV | DEPORTES COLOMBIA",CO | ESPN 2
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/141400
+#EXTINF:-1 tvg-id="" tvg-name="COL SD: PASIONES" tvg-logo="http://iptvglobal.site:25461/images/d5269f7c7e03fc8dcb8eaf8347ad9e9b.png" group-title="TV | COLOMBIA",COL SD: PASIONES
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/142264
+#EXTINF:-1 tvg-id="" tvg-name="LA KALLE COLOMBIA" tvg-logo="https://cdn.colombia.com/canales/la-kalle-3023-v1.jpg" group-title="TV | COLOMBIA",LA KALLE COLOMBIA
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/172276
+#EXTINF:-1 tvg-id="" tvg-name="CHILE| MEGA HD" tvg-logo="http://iptvglobal.site:25461/images/20155386273859d678db1b890e315738.png" group-title="TV | CHILE",CHILE| MEGA HD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/86572
+#EXTINF:-1 tvg-id="" tvg-name="CHILE| CHILEVISION HD" tvg-logo="http://iptvglobal.site:25461/images/0b0af825a851e7c6cbfb8354ece16dc6.png" group-title="TV | CHILE",CHILE| CHILEVISION HD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/86573
+#EXTINF:-1 tvg-id="" tvg-name="CHILE| CANAL 13 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/Canal_13_2018.png" group-title="TV | CHILE",CHILE| CANAL 13 HD
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/86575
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS + COLOMBIA" tvg-logo="http://playhispano.org:8080/images/af1d6711df893218ecd0ea1fbe02515f.png" group-title="TV | DEPORTES COLOMBIA",DIRECTV SPORTS + COLOMBIA
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/245471
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS 2 COLOMBIA" tvg-logo="http://playhispano.org:8080/images/35c875f9e6aa79e3282e187153f4dd37.png" group-title="TV | DEPORTES COLOMBIA",DIRECTV SPORTS 2 COLOMBIA
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/245472
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS COLOMBIA" tvg-logo="http://playhispano.org:8080/images/88f2fdcfc09ac4a0fadb2a35b6e05b8e.png" group-title="TV | DEPORTES COLOMBIA",DIRECTV SPORTS COLOMBIA
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/245473
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 4 COLOMBIA" tvg-logo="http://playhispano.org:8080/images/d9ca888cdb42c15a31c13043969303fa.png" group-title="TV | DEPORTES COLOMBIA",ESPN 4 COLOMBIA
+http://playhispano.org:8080/JorgeDiaz/RZp8upEniN/245474
