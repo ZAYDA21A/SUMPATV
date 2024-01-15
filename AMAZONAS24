@@ -1,0 +1,556 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AdrSport" tvg-name="D| Adrenalina Sports" tvg-logo="http://ceoapps.org/logos/adrenalinasports2.png" group-title="TV | Deportes",D| Adrenalina Sports
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/10960
+#EXTINF:-1 tvg-id="AdrSport" tvg-name="D| Adrenalina Sports HD" tvg-logo="http://ceoapps.org/logos/adrenalinasports2.png" group-title="TV | Deportes",D| Adrenalina Sports HD
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/197768
+#EXTINF:-1 tvg-id="afizzionados.mx" tvg-name="D| Afizzionados " tvg-logo="http://ceoapps.org/logos/afizzionados2.png" group-title="TV | Deportes",D| Afizzionados 
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/10914
+#EXTINF:-1 tvg-id="afizzionados.mx" tvg-name="D| Afizzionados HD" tvg-logo="http://ceoapps.org/logos/afizzionados2.png" group-title="TV | Deportes",D| Afizzionados HD
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/202591
+#EXTINF:-1 tvg-id="aymsports.mx" tvg-name="D| AyM Sports" tvg-logo="http://ceoapps.org/logos/aym.png" group-title="TV | Deportes",D| AyM Sports
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/155249
+#EXTINF:-1 tvg-id="aymsports.mx" tvg-name="D| AyM Sports HD" tvg-logo="http://ceoapps.org/logos/aym.png" group-title="TV | Deportes",D| AyM Sports HD
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/155625
+#EXTINF:-1 tvg-id="barcatv.es" tvg-name="D| Barca TV | " tvg-logo="http://ceoapps.org/logos/barcatv.png" group-title="TV | Deportes",D| Barca TV | 
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/10930
+#EXTINF:-1 tvg-id="" tvg-name="D| BEIN SPORTS" tvg-logo="http://ceoapps.org/logos/bnsports.png" group-title="TV | Bein Sports Channels",D| BEIN SPORTS
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/2144810
+#EXTINF:-1 tvg-id="" tvg-name="D| BEIN SPORTS 4" tvg-logo="http://ceoapps.org/logos/bnsports.png" group-title="TV | Bein Sports Channels",D| BEIN SPORTS 4
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/2144811
+#EXTINF:-1 tvg-id="Bein Españ" tvg-name="D| beIN Sports en Español " tvg-logo="http://ceoapps.org/logos/beinsports3.png" group-title="TV | Deportes",D| beIN Sports en Español 
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/157370
+#EXTINF:-1 tvg-id="beinsportespanol.us" tvg-name="D| beIN Sports en Español  HD" tvg-logo="http://ceoapps.org/logos/bnsports.png" group-title="TV  | Beins Sports",D| beIN Sports en Español  HD
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/167174
+#EXTINF:-1 tvg-id="beinsportespanol.us" tvg-name="D| beIN Sports en Español FHD" tvg-logo="http://ceoapps.org/logos/bnsports.png" group-title="TV  | Beins Sports",D| beIN Sports en Español FHD
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/10929
+#EXTINF:-1 tvg-id="beinsports.us" tvg-name="D| beIN Sports USA" tvg-logo="http://ceoapps.org/logos/bnsports.png" group-title="TV  | Beins Sports",D| beIN Sports USA
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/10956
+#EXTINF:-1 tvg-id="cazapesca.es" tvg-name="D| Caza y pesca " tvg-logo="http://ceoapps.org/logos/cazaypesca.png" group-title="TV | Deportes",D| Caza y pesca 
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/158478
+#EXTINF:-1 tvg-id="" tvg-name="D| CDO Basico" tvg-logo="http://ceoapps.org/logos/cdo.png" group-title="TV | Deportes",D| CDO Basico
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/10932
+#EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="D| Claro Sports Latinoamerica" tvg-logo="http://ceoapps.org/logos/clarosports2.png" group-title="TV | Deportes",D| Claro Sports Latinoamerica
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/10924
+#EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="D| Claro Sports Latinoamerica HD" tvg-logo="http://ceoapps.org/logos/clarosports2.png" group-title="TV | Deportes",D| Claro Sports Latinoamerica HD
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/202070
+#EXTINF:-1 tvg-id="" tvg-name="D| DAZN  2 SD" tvg-logo="http://ceoapps.org/logos/dazn.png" group-title="TV | Dazn Sport Channels",D| DAZN  2 SD
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/2144857
+#EXTINF:-1 tvg-id="" tvg-name="D| DAZN 1" tvg-logo="http://ceoapps.org/logos/dazn.png" group-title="TV | Deportes",D| DAZN 1
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/223949
+#EXTINF:-1 tvg-id="" tvg-name="D| DAZN 1 HD" tvg-logo="http://ceoapps.org/logos/dazn.png" group-title="TV | Dazn Sport Channels",D| DAZN 1 HD
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/2144853
+#EXTINF:-1 tvg-id="" tvg-name="D| DAZN 1 SD" tvg-logo="http://ceoapps.org/logos/dazn.png" group-title="TV | Dazn Sport Channels",D| DAZN 1 SD
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/2144854
+#EXTINF:-1 tvg-id="" tvg-name="D| DAZN 2" tvg-logo="http://ceoapps.org/logos/dazn2.png" group-title="TV | Deportes",D| DAZN 2
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/223950
+#EXTINF:-1 tvg-id="" tvg-name="D| DAZN 2 HD" tvg-logo="http://ceoapps.org/logos/dazn.png" group-title="TV | Dazn Sport Channels",D| DAZN 2 HD
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/2144856
+#EXTINF:-1 tvg-id="" tvg-name="D| DAZN 3" tvg-logo="http://ceoapps.org/logos/dazn3.png" group-title="TV | Deportes",D| DAZN 3
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/223951
+#EXTINF:-1 tvg-id="" tvg-name="D| DAZN 3 HD" tvg-logo="http://ceoapps.org/logos/dazn.png" group-title="TV | Dazn Sport Channels",D| DAZN 3 HD
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/2144859
+#EXTINF:-1 tvg-id="" tvg-name="D| DAZN 3 SD" tvg-logo="http://ceoapps.org/logos/dazn.png" group-title="TV | Dazn Sport Channels",D| DAZN 3 SD
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/2144860
+#EXTINF:-1 tvg-id="" tvg-name="D| DAZN 4 HD" tvg-logo="http://ceoapps.org/logos/dazn.png" group-title="TV | Dazn Sport Channels",D| DAZN 4 HD
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/2144862
+#EXTINF:-1 tvg-id="" tvg-name="D|  LaLiga SmartBank HD" tvg-logo="http://ceoapps.org/logos/ligasmartbank2.png" group-title="TV | Deportes",D|  LaLiga SmartBank HD
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/2144863
+#EXTINF:-1 tvg-id="formula1.mx" tvg-name="D| DAZN F1" tvg-logo="http://ceoapps.org/logos/daznf1.png" group-title="TV | Deportes",D| DAZN F1
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/223952
+#EXTINF:-1 tvg-id="" tvg-name="D| DAZN F1 HD" tvg-logo="http://ceoapps.org/logos/dazn.png" group-title="TV | Dazn Sport Channels",D| DAZN F1 HD
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/2144850
+#EXTINF:-1 tvg-id="" tvg-name="D| DAZN F1 SD" tvg-logo="http://ceoapps.org/logos/dazn.png" group-title="TV | Dazn Sport Channels",D| DAZN F1 SD
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/2144851
+#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="D| DIRECTV SPORTS" tvg-logo="http://ceoapps.org/logos/directvsports1.png" group-title="TV | Deportes",D| DIRECTV SPORTS
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/202157
+#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="D| DIRECTV SPORTS +" tvg-logo="http://ceoapps.org/logos/directvsportsplus2.png" group-title="TV | Deportes",D| DIRECTV SPORTS +
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/203186
+#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="D| DIRECTV SPORTS 2" tvg-logo="http://ceoapps.org/logos/directvsports22.png" group-title="TV | Deportes",D| DIRECTV SPORTS 2
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/203187
+#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="D| Espn 2 | ARG" tvg-logo="http://ceoapps.org/logos/espn2arg.png" group-title="TV | Deportes",D| Espn 2 | ARG
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/181346
+#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="D| Espn 2 | ARG HD" tvg-logo="http://ceoapps.org/logos/espn2arg.png" group-title="TV | Deportes",D| Espn 2 | ARG HD
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/181332
+#EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="D| Espn 2 | COL" tvg-logo="http://ceoapps.org/logos/espn2col.png" group-title="TV | Deportes",D| Espn 2 | COL
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/181350
+#EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="D| Espn 2 | COL HD" tvg-logo="http://ceoapps.org/logos/espn2col.png" group-title="TV | Deportes",D| Espn 2 | COL HD
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/202084
+#EXTINF:-1 tvg-id="espn2.mx" tvg-name="D| Espn 2 | MX" tvg-logo="http://ceoapps.org/logos/espn2mx.png" group-title="TV | Deportes",D| Espn 2 | MX
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/10939
+#EXTINF:-1 tvg-id="espn2.mx" tvg-name="D| Espn 2 | MX HD" tvg-logo="http://ceoapps.org/logos/espn2mx.png" group-title="TV | Deportes",D| Espn 2 | MX HD
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/155473
+#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="D| Espn 3 | ARG" tvg-logo="http://ceoapps.org/logos/espn3arg.png" group-title="TV | Deportes",D| Espn 3 | ARG
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/181348
+#EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="D| Espn 3 | COL" tvg-logo="http://ceoapps.org/logos/espn3col.png" group-title="TV | Deportes",D| Espn 3 | COL
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/181352
+#EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="D| Espn 3 | COL HD" tvg-logo="http://ceoapps.org/logos/espn3col.png" group-title="TV | Deportes",D| Espn 3 | COL HD
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/202088
+#EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="D| Espn 3 | MX" tvg-logo="http://ceoapps.org/logos/espn3mx.png" group-title="TV | Deportes",D| Espn 3 | MX
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/10941
+#EXTINF:-1 tvg-id="espn3.mx" tvg-name="D| Espn 3 | MX HD" tvg-logo="http://ceoapps.org/logos/espn3mx.png" group-title="TV | Deportes",D| Espn 3 | MX HD
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/155474
+#EXTINF:-1 tvg-id="" tvg-name="D| ESPN 4 ARG" tvg-logo="http://ceoapps.org/logos/espn4arg.png" group-title="TV | Deportes",D| ESPN 4 ARG
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/2121660
+#EXTINF:-1 tvg-id="" tvg-name="D| ESPN 4 CL" tvg-logo="http://ceoapps.org/logos/espn4cl.png" group-title="TV | Deportes",D| ESPN 4 CL
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/2121680
+#EXTINF:-1 tvg-id="espnlatin.mx" tvg-name="D| Espn Deportes" tvg-logo="http://ceoapps.org/logos/espndeportes.png" group-title="TV | Deportes",D| Espn Deportes
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/202473
+#EXTINF:-1 tvg-id="espnlatin.mx" tvg-name="D| Espn Deportes | HD" tvg-logo="http://ceoapps.org/logos/espndeportes.png" group-title="TV | Deportes",D| Espn Deportes | HD
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/158472
+#EXTINF:-1 tvg-id="espnplus.mx" tvg-name="D| Espn EXTRA" tvg-logo="http://ceoapps.org/logos/espnextra.png" group-title="TV | Deportes",D| Espn EXTRA
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/181370
+#EXTINF:-1 tvg-id="" tvg-name="D| Espn Plus Sur CO" tvg-logo="http://ceoapps.org/logos/espnpluscol.png" group-title="TV | Deportes",D| Espn Plus Sur CO
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/2121734
+#EXTINF:-1 tvg-id="espnplus.mx" tvg-name="D| Espn Plus | MX HD" tvg-logo="http://ceoapps.org/logos/espnplusmxpng.png" group-title="TV | Deportes",D| Espn Plus | MX HD
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/10942
+#EXTINF:-1 tvg-id="" tvg-name="D| ESPN Premium ARG" tvg-logo="http://ceoapps.org/logos/espnpremiumarg.png" group-title="TV | Deportes",D| ESPN Premium ARG
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/2121662
+#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="D| Espn | ARG" tvg-logo="http://ceoapps.org/logos/espnarg1.png" group-title="TV | Deportes",D| Espn | ARG
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/181047
+#EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="D| Espn | COL" tvg-logo="http://ceoapps.org/logos/espncol.png" group-title="TV | Deportes",D| Espn | COL
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/181016
+#EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="D| Espn | COL HD" tvg-logo="http://ceoapps.org/logos/espncol.png" group-title="TV | Deportes",D| Espn | COL HD
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/181347
+#EXTINF:-1 tvg-id="espn.mx" tvg-name="D| Espn | MX" tvg-logo="http://ceoapps.org/logos/espnmx.png" group-title="TV | Deportes",D| Espn | MX
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/10940
+#EXTINF:-1 tvg-id="espn.mx" tvg-name="D| Espn | MX HD" tvg-logo="http://ceoapps.org/logos/espnmx.png" group-title="TV | Deportes",D| Espn | MX HD
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/155472
+#EXTINF:-1 tvg-id="EuroSp1" tvg-name="D| Eurosport" tvg-logo="http://ceoapps.org/logos/eurosport.png" group-title="TV | Deportes",D| Eurosport
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/158480
+#EXTINF:-1 tvg-id="EuroSp2" tvg-name="D| Eurosport 2" tvg-logo="http://ceoapps.org/logos/eurosports2.png" group-title="TV | Deportes",D| Eurosport 2
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/158481
+#EXTINF:-1 tvg-id="EuroSp1" tvg-name="D| Eurosports HD" tvg-logo="http://ceoapps.org/logos/eurosport.png" group-title="TV | Deportes",D| Eurosports HD
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/215598
+#EXTINF:-1 tvg-id="foxdeportes.us" tvg-name="D| FOX Deportes | USA" tvg-logo="http://ceoapps.org/logos/foxdeportes1.png" group-title="TV | Deportes",D| FOX Deportes | USA
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/200284
+#EXTINF:-1 tvg-id="foxdeportes.us" tvg-name="D| FOX Deportes | USA HD" tvg-logo="http://ceoapps.org/logos/foxdeportes1.png" group-title="TV | Deportes",D| FOX Deportes | USA HD
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/10928
+#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="D| Fox Sports 2 | ARG" tvg-logo="http://ceoapps.org/logos/foxsports2arg.png" group-title="TV | Deportes",D| Fox Sports 2 | ARG
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/183215
+#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="D| Fox Sports 2 | ARG HD" tvg-logo="http://ceoapps.org/logos/foxsports2arg.png" group-title="TV | Deportes",D| Fox Sports 2 | ARG HD
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/10957
+#EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="D| Fox Sports 2 | CL HD" tvg-logo="http://ceoapps.org/logos/foxsports2cl.png" group-title="TV | Deportes",D| Fox Sports 2 | CL HD
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/183332
+#EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="D| Fox Sports 2 | COL HD" tvg-logo="http://ceoapps.org/logos/foxsports2col.png" group-title="TV | Deportes",D| Fox Sports 2 | COL HD
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/202097
+#EXTINF:-1 tvg-id="foxsports2.mx" tvg-name="D| Fox Sports 2 | MX" tvg-logo="http://ceoapps.org/logos/foxsports2mx.png" group-title="TV | Deportes",D| Fox Sports 2 | MX
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/10949
+#EXTINF:-1 tvg-id="foxsports2.mx" tvg-name="D| Fox Sports 2 | MX HD" tvg-logo="http://ceoapps.org/logos/foxsports2mx.png" group-title="TV | Deportes",D| Fox Sports 2 | MX HD
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/10952
+#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="D| Fox Sports 3 | ARG" tvg-logo="http://ceoapps.org/logos/foxsports3arg1.png" group-title="TV | Deportes",D| Fox Sports 3 | ARG
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/10958
+#EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="D| Fox Sports 3 | CL" tvg-logo="http://ceoapps.org/logos/foxsports3cl2.png" group-title="TV | Deportes",D| Fox Sports 3 | CL
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/183334
+#EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="D| Fox Sports 3 | COL HD" tvg-logo="http://ceoapps.org/logos/foxsports3col2.png" group-title="TV | Deportes",D| Fox Sports 3 | COL HD
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/202100
+#EXTINF:-1 tvg-id="foxsports3.mx" tvg-name="D| Fox Sports 3 | MX" tvg-logo="http://ceoapps.org/logos/foxsports3mx3.png" group-title="TV | Deportes",D| Fox Sports 3 | MX
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/10945
+#EXTINF:-1 tvg-id="foxsports3.mx" tvg-name="D| Fox Sports 3 | MX HD" tvg-logo="http://ceoapps.org/logos/foxsports3mx3.png" group-title="TV | Deportes",D| Fox Sports 3 | MX HD
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/10951
+#EXTINF:-1 tvg-id="foxsports.mx" tvg-name="D| FOX Sports Premium Arg" tvg-logo="http://ceoapps.org/logos/foxsportspremium.png" group-title="TV | Deportes",D| FOX Sports Premium Arg
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/195839
+#EXTINF:-1 tvg-id="foxsports.mx" tvg-name="D| FOX Sports Premium Arg HD" tvg-logo="http://ceoapps.org/logos/foxsportspremium.png" group-title="TV | Deportes",D| FOX Sports Premium Arg HD
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/10915
+#EXTINF:-1 tvg-id="" tvg-name="D| Fox Sports | ARG" tvg-logo="http://ceoapps.org/logos/foxsportsarg1.png" group-title="TV | Deportes",D| Fox Sports | ARG
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/2090080
+#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="D| Fox Sports | ARG HD" tvg-logo="http://ceoapps.org/logos/foxsportsarg1.png" group-title="TV | Deportes",D| Fox Sports | ARG HD
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/14651
+#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="D| Fox Sports | CL" tvg-logo="http://ceoapps.org/logos/foxsportscl1.png" group-title="TV | Deportes",D| Fox Sports | CL
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/183331
+#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="D| Fox Sports | CL HD" tvg-logo="http://ceoapps.org/logos/foxsportscl1.png" group-title="TV | Deportes",D| Fox Sports | CL HD
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/183330
+#EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="D| Fox Sports | COL" tvg-logo="http://ceoapps.org/logos/foxsportscl1.png" group-title="TV | Deportes",D| Fox Sports | COL
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/183212
+#EXTINF:-1 tvg-id="foxsports.mx" tvg-name="D| Fox Sports | MX" tvg-logo="http://ceoapps.org/logos/foxsportsmx1.png" group-title="TV | Deportes",D| Fox Sports | MX
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/10950
+#EXTINF:-1 tvg-id="foxsports.mx" tvg-name="D| Fox Sports | MX HD" tvg-logo="http://ceoapps.org/logos/foxsportsmx1.png" group-title="TV | Deportes",D| Fox Sports | MX HD
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/155648
+#EXTINF:-1 tvg-id="" tvg-name="D | Fox Sports Premium | MX" tvg-logo="http://ceoapps.org/logos/foxsportspremium.png" group-title="TV | Deportes",D | Fox Sports Premium | MX
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/2106730
+#EXTINF:-1 tvg-id="futv" tvg-name="D| FUTV CR" tvg-logo="http://ceoapps.org/logos/futv.png" group-title="TV | Deportes",D| FUTV CR
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/155246
+#EXTINF:-1 tvg-id="" tvg-name="D | Fuel TV HD" tvg-logo="http://ceoapps.org/logos/fueltv.png" group-title="TV | Deportes",D | Fuel TV HD
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/2145670
+#EXTINF:-1 tvg-id="Telerama.Ec" tvg-name="D| Gol TV" tvg-logo="http://ceoapps.org/logos/goltv2.png" group-title="TV | Deportes",D| Gol TV
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/158474
+#EXTINF:-1 tvg-id="" tvg-name="D| Golf Channel AR" tvg-logo="http://ceoapps.org/logos/golfchannel2.png" group-title="TV | Deportes",D| Golf Channel AR
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/2145544
+#EXTINF:-1 tvg-id="mlaliga.es" tvg-name="D| DAZN LaLigaTV HD" tvg-logo="http://ceoapps.org/logos/daznl.png" group-title="TV | Deportes",D| DAZN LaLigaTV HD
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/197233
+#EXTINF:-1 tvg-id="mligadecampeones.es" tvg-name="D| La Liga " tvg-logo="http://ceoapps.org/logos/ligadecampeones.png" group-title="TV | Deportes",D| La Liga 
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/157371
+#EXTINF:-1 tvg-id="mligadecampeones.es" tvg-name="D| La Liga HD" tvg-logo="http://ceoapps.org/logos/ligadecampeones.png" group-title="TV | Deportes",D| La Liga HD
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/157372
+#EXTINF:-1 tvg-id="mlbnetwork.us" tvg-name="D| MLB Network HD" tvg-logo="http://ceoapps.org/logos/mlbnetwork.png" group-title="TV | Deportes",D| MLB Network HD
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/210252
+#EXTINF:-1 tvg-id="" tvg-name="D | MUTV" tvg-logo="http://ceoapps.org/logos/mutv2.png" group-title="TV | Deportes",D | MUTV
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/2122397
+#EXTINF:-1 tvg-id="" tvg-name="D | MOVISTAR GOLF" tvg-logo="http://ceoapps.org/logos/mgolf.png" group-title="TV | Deportes",D | MOVISTAR GOLF
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/2100018
+#EXTINF:-1 tvg-id="" tvg-name="D | MOVISTAR MOTO GP" tvg-logo="http://ceoapps.org/logos/movistarmotogp.png" group-title="TV | Deportes",D | MOVISTAR MOTO GP
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/2091493
+#EXTINF:-1 tvg-id="formula1.mx" tvg-name="D| Movistar F1" tvg-logo="http://ceoapps.org/logos/movistarf1.png" group-title="TV | Deportes",D| Movistar F1
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/158473
+#EXTINF:-1 tvg-id="movistarformula1.es" tvg-name="D| Movistar F1 HD" tvg-logo="http://ceoapps.org/logos/movistarf1.png" group-title="TV | Deportes",D| Movistar F1 HD
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/170225
+#EXTINF:-1 tvg-id="mlaliga.es" tvg-name="D| Movistar La Liga" tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.png" group-title="TV | La Liga Movistar",D| Movistar La Liga
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/157373
+#EXTINF:-1 tvg-id="mlaliga.es" tvg-name="D| Movistar La Liga FHD" tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.png" group-title="TV | La Liga Movistar",D| Movistar La Liga FHD
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/10918
+#EXTINF:-1 tvg-id="golfchannel.us" tvg-name="D| NBC Golf" tvg-logo="http://ceoapps.org/logos/golfchannel2.png" group-title="TV | Deportes",D| NBC Golf
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/10948
+#EXTINF:-1 tvg-id="" tvg-name="D| PX Sports HD" tvg-logo="http://ceoapps.org/logos/pxsports.png" group-title="TV | Deportes",D| PX Sports HD
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/2121811
+#EXTINF:-1 tvg-id="realmadridtv.es" tvg-name="D| Real Madrid TV" tvg-logo="http://ceoapps.org/logos/realmadridtv.png" group-title="TV | Deportes",D| Real Madrid TV
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/222746
+#EXTINF:-1 tvg-id="Sky.Mx" tvg-name="D| SKY Sports Arena" tvg-logo="http://ceoapps.org/logos/skysports.png" group-title="TV | Deportes",D| SKY Sports Arena
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/115045
+#EXTINF:-1 tvg-id="SkySp16.Mx" tvg-name="D| SKY Sports HD 16" tvg-logo="http://ceoapps.org/logos/skysports.png" group-title="TV | Deportes",D| SKY Sports HD 16
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/222745
+#EXTINF:-1 tvg-id="Sky.Mx" tvg-name="D| SKY Sports HD 21" tvg-logo="http://ceoapps.org/logos/skysports.png" group-title="TV | Deportes",D| SKY Sports HD 21
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/222744
+#EXTINF:-1 tvg-id="" tvg-name="D | SKY Sports F1" tvg-logo="http://ceoapps.org/logos/skysportsf1.png" group-title="TV | Deportes",D | SKY Sports F1
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/2107602
+#EXTINF:-1 tvg-id="" tvg-name="D| Sportv" tvg-logo="" group-title="TV | Deportes",D| Sportv
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/185497
+#EXTINF:-1 tvg-id="" tvg-name="D| Sportv 2 " tvg-logo="http://ceoapps.org/logos/sportv2.png" group-title="TV | Deportes",D| Sportv 2 
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/185499
+#EXTINF:-1 tvg-id="" tvg-name="D| Sportv 2 HD" tvg-logo="http://ceoapps.org/logos/sportv2.png" group-title="TV | Deportes",D| Sportv 2 HD
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/185498
+#EXTINF:-1 tvg-id="" tvg-name="D| Sportv 3" tvg-logo="http://ceoapps.org/logos/sportv3.png" group-title="TV | Deportes",D| Sportv 3
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/185501
+#EXTINF:-1 tvg-id="" tvg-name="D| Sportv 3 HD" tvg-logo="http://ceoapps.org/logos/sportv3.png" group-title="TV | Deportes",D| Sportv 3 HD
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/185500
+#EXTINF:-1 tvg-id="" tvg-name="D| Sportv HD" tvg-logo="http://ceoapps.org/logos/sportv.png" group-title="TV | Deportes",D| Sportv HD
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/185496
+#EXTINF:-1 tvg-id="" tvg-name="D| Tigo Honduras (solo eventos)" tvg-logo="http://ceoapps.org/logos/tigosportshonduras22.png" group-title="TV | Deportes",D| Tigo Honduras (solo eventos)
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/12510
+#EXTINF:-1 tvg-id="" tvg-name="D| Tigo Sports 2 BO" tvg-logo="http://ceoapps.org/logos/tigosportsbolivia222.png" group-title="TV | Deportes",D| Tigo Sports 2 BO
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/155635
+#EXTINF:-1 tvg-id="" tvg-name="D| Tigo Sports 2 BO HD" tvg-logo="http://ceoapps.org/logos/tigosportsbolivia222.png" group-title="TV | Deportes",D| Tigo Sports 2 BO HD
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/155629
+#EXTINF:-1 tvg-id="" tvg-name="D| Tigo Sports 3 BO" tvg-logo="http://ceoapps.org/logos/tigosportsbolivia3.png" group-title="TV | Deportes",D| Tigo Sports 3 BO
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/155636
+#EXTINF:-1 tvg-id="" tvg-name="D| Tigo Sports 3 BO HD" tvg-logo="http://ceoapps.org/logos/tigosportsbolivia3.png" group-title="TV | Deportes",D| Tigo Sports 3 BO HD
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/155630
+#EXTINF:-1 tvg-id="" tvg-name="D| Tigo Sports BO" tvg-logo="http://ceoapps.org/logos/tigosportsbolivia22.png" group-title="TV | Deportes",D| Tigo Sports BO
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/155633
+#EXTINF:-1 tvg-id="" tvg-name="D| Tigo Sports BO HD" tvg-logo="http://ceoapps.org/logos/tigosportsbolivia22.png" group-title="TV | Deportes",D| Tigo Sports BO HD
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/155634
+#EXTINF:-1 tvg-id="TigoSp.CR" tvg-name="D| Tigo Sports CR" tvg-logo="http://ceoapps.org/logos/tigosportscostarica22.png" group-title="TV | Deportes",D| Tigo Sports CR
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/155627
+#EXTINF:-1 tvg-id="Tigo Sp" tvg-name="D| Tigo Sports HN HD" tvg-logo="http://ceoapps.org/logos/tigosportshonduras22.png" group-title="TV | Deportes",D| Tigo Sports HN HD
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/155641
+#EXTINF:-1 tvg-id="Tigo Sp" tvg-name="D| Tigo Sports Paraguay HD" tvg-logo="http://ceoapps.org/logos/tigosportsparaguay22.png" group-title="TV | Deportes",D| Tigo Sports Paraguay HD
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/155631
+#EXTINF:-1 tvg-id="Tigo Sp" tvg-name="D| Tigo Sports Plus Paraguay HD" tvg-logo="http://ceoapps.org/logos/tigosportsplus.png" group-title="TV | Deportes",D| Tigo Sports Plus Paraguay HD
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/155632
+#EXTINF:-1 tvg-id="TigoSp.ELS" tvg-name="D| Tigo Sports Salvador" tvg-logo="http://ceoapps.org/logos/tigosportssalvador22.png" group-title="TV | Deportes",D| Tigo Sports Salvador
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/155626
+#EXTINF:-1 tvg-id="TigoSp.ELS" tvg-name="D| Tigo Sports Salvador HD" tvg-logo="http://ceoapps.org/logos/tigosportssalvador22.png" group-title="TV | Deportes",D| Tigo Sports Salvador HD
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/202259
+#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="D| TNT Sports" tvg-logo="http://ceoapps.org/logos/tntsports.png" group-title="TV | Deportes",D| TNT Sports
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/155677
+#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="D| TNT Sports HD" tvg-logo="http://ceoapps.org/logos/tntsports.png" group-title="TV | Deportes",D| TNT Sports HD
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/155247
+#EXTINF:-1 tvg-id="toros.es" tvg-name="D| Mundo Toros" tvg-logo="http://ceoapps.org/logos/mundotoro.png" group-title="TV | Deportes",D| Mundo Toros
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/126152
+#EXTINF:-1 tvg-id="toros.es" tvg-name="D| Mundo Toros HD" tvg-logo="http://ceoapps.org/logos/mundotoro.png" group-title="TV | Deportes",D| Mundo Toros HD
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/126151
+#EXTINF:-1 tvg-id="tudn.mx" tvg-name="D| TUDN" tvg-logo="http://ceoapps.org/logos/tudnmx.png" group-title="TV | Deportes",D| TUDN
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/191356
+#EXTINF:-1 tvg-id="tudn.mx" tvg-name="D| TUDN HD" tvg-logo="http://ceoapps.org/logos/tudnmx.png" group-title="TV | Deportes",D| TUDN HD
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/155675
+#EXTINF:-1 tvg-id="tudn.mx" tvg-name="D| TUDN US" tvg-logo="http://ceoapps.org/logos/tudnus.png" group-title="TV | Deportes",D| TUDN US
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/194924
+#EXTINF:-1 tvg-id="tudn.mx" tvg-name="D| TUDN US HD" tvg-logo="http://ceoapps.org/logos/tudnus.png" group-title="TV | Deportes",D| TUDN US HD
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/169243
+#EXTINF:-1 tvg-id="" tvg-name="D | Zona TUDN MX" tvg-logo="http://ceoapps.org/logos/zonatudn2.png" group-title="TV | Deportes",D | Zona TUDN MX
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/2130323
+#EXTINF:-1 tvg-id="tvcdeportes.mx" tvg-name="D| TVC Deportes" tvg-logo="http://ceoapps.org/logos/tvcdeportes.png" group-title="TV | Deportes",D| TVC Deportes
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/10944
+#EXTINF:-1 tvg-id="tvcdeportes.mx" tvg-name="D| TVC Deportes HD" tvg-logo="http://ceoapps.org/logos/tvcdeportes.png" group-title="TV | Deportes",D| TVC Deportes HD
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/2145706
+#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="D| TYC Sports" tvg-logo="http://ceoapps.org/logos/tycsports.png" group-title="TV | Deportes",D| TYC Sports
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/25279
+#EXTINF:-1 tvg-id="TyC Sp" tvg-name="D| TYC Sports HD" tvg-logo="http://ceoapps.org/logos/tycsports.png" group-title="TV | Deportes",D| TYC Sports HD
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/199511
+#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="D| TyC Sports Internacional" tvg-logo="http://ceoapps.org/logos/tycsportsinternacional.png" group-title="TV | Deportes",D| TyC Sports Internacional
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/10920
+#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="D| TyC Sports Internacional HD" tvg-logo="http://ceoapps.org/logos/tycsportsinternacional.png" group-title="TV | Deportes",D| TyC Sports Internacional HD
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/155679
+#EXTINF:-1 tvg-id="" tvg-name="EC | DirecTV Sports ECU" tvg-logo="http://ceoapps.org/logos/directvsports1.png" group-title="TV | Deportes Sudamerica Premium",EC | DirecTV Sports ECU
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/2154022
+#EXTINF:-1 tvg-id="" tvg-name="AR | TYC Sports ARGENTINA" tvg-logo="http://ceoapps.org/logos/tycsports.png" group-title="TV | Deportes Sudamerica Premium",AR | TYC Sports ARGENTINA
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/2154023
+#EXTINF:-1 tvg-id="" tvg-name="BR | GLOBO TV BRASIL" tvg-logo="http://ceoapps.org/logos/globotvbr.png" group-title="TV | Deportes Sudamerica Premium",BR | GLOBO TV BRASIL
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/2154024
+#EXTINF:-1 tvg-id="" tvg-name="PE | DirecTV Sports PERU" tvg-logo="http://ceoapps.org/logos/directvsports1.png" group-title="TV | Deportes Sudamerica Premium",PE | DirecTV Sports PERU
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/2154025
+#EXTINF:-1 tvg-id="" tvg-name="PE | Latina PERU" tvg-logo="http://ceoapps.org/logos/latinape.png" group-title="TV | Deportes Sudamerica Premium",PE | Latina PERU
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/2154026
+#EXTINF:-1 tvg-id="" tvg-name="BO | Tigo Sports BOLIVIA" tvg-logo="http://ceoapps.org/logos/tigosportsbolivia22.png" group-title="TV | Deportes Sudamerica Premium",BO | Tigo Sports BOLIVIA
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/2154027
+#EXTINF:-1 tvg-id="" tvg-name="CO | Caracol COLOMBIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Logotipo_de_Caracol_Televisi%C3%B3n_%282012-2015%29.png" group-title="TV | Deportes Sudamerica Premium",CO | Caracol COLOMBIA
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/2154028
+#EXTINF:-1 tvg-id="" tvg-name="CL | Canal 13 CHILE" tvg-logo="http://ceoapps.org/logos/canal13cl.png" group-title="TV | Deportes Sudamerica Premium",CL | Canal 13 CHILE
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/2154029
+#EXTINF:-1 tvg-id="" tvg-name="VE | TELEVEN VENEZUELA" tvg-logo="https://pbs.twimg.com/media/B3nOd8xIgAAY3_0.png" group-title="TV | Deportes Sudamerica Premium",VE | TELEVEN VENEZUELA
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/2154030
+#EXTINF:-1 tvg-id="" tvg-name="D | BEIN LA LIGA" tvg-logo="http://ceoapps.org/logos/bnsports.png" group-title="TV | Bein Sports Channels",D | BEIN LA LIGA
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/2144812
+#EXTINF:-1 tvg-id="" tvg-name="D | BEIN SPORTS 5" tvg-logo="http://ceoapps.org/logos/bnsports.png" group-title="TV | Bein Sports Channels",D | BEIN SPORTS 5
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/2144813
+#EXTINF:-1 tvg-id="" tvg-name="D | BEIN SPORTS 6" tvg-logo="http://ceoapps.org/logos/bnsports.png" group-title="TV | Bein Sports Channels",D | BEIN SPORTS 6
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/2144814
+#EXTINF:-1 tvg-id="" tvg-name="D | BEIN SPORTS 7" tvg-logo="http://ceoapps.org/logos/bnsports.png" group-title="TV | Bein Sports Channels",D | BEIN SPORTS 7
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/2144815
+#EXTINF:-1 tvg-id="" tvg-name="D | BEIN SPORTS 8" tvg-logo="http://ceoapps.org/logos/bnsports.png" group-title="TV | Bein Sports Channels",D | BEIN SPORTS 8
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/2144816
+#EXTINF:-1 tvg-id="" tvg-name="D | BEIN SPORTS CANADA" tvg-logo="http://ceoapps.org/logos/bnsports.png" group-title="TV | Bein Sports Channels",D | BEIN SPORTS CANADA
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/2144817
+#EXTINF:-1 tvg-id="" tvg-name="D | BEIN SPORTS EN ESPAÑOL" tvg-logo="http://ceoapps.org/logos/bnsports.png" group-title="TV | Bein Sports Channels",D | BEIN SPORTS EN ESPAÑOL
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/2144818
+#EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="EC | Telerama" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/telerama-2-logo-png-transparent.png" group-title="TV | Ecuador",EC | Telerama
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/219710
+#EXTINF:-1 tvg-id="" tvg-name="EC|  Gama TV" tvg-logo="http://ceoapps.org/logos/gamatv.png" group-title="TV | Ecuador",EC|  Gama TV
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/2130522
+#EXTINF:-1 tvg-id="" tvg-name="EC| Canela TV" tvg-logo="https://comunicate.ec/wp-content/uploads/2022/04/canelatv.png" group-title="TV | Ecuador",EC| Canela TV
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/176954
+#EXTINF:-1 tvg-id="canaluno.ec" tvg-name="EC| Canela TV HQ" tvg-logo="https://comunicate.ec/wp-content/uploads/2022/04/canelatv.png" group-title="TV | Ecuador",EC| Canela TV HQ
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/147950
+#EXTINF:-1 tvg-id="" tvg-name="EC| Directv Sports" tvg-logo="http://ceoapps.org/logos/directvsports1.png" group-title="TV | Ecuador (Deportes)",EC| Directv Sports
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/11047
+#EXTINF:-1 tvg-id="" tvg-name="EC| Directv Sports 2 HD" tvg-logo="http://ceoapps.org/logos/directvsports2.png" group-title="TV | Ecuador (Deportes)",EC| Directv Sports 2 HD
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/11025
+#EXTINF:-1 tvg-id="" tvg-name="EC| Directv Sports HD" tvg-logo="http://ceoapps.org/logos/directvsports1.png" group-title="TV | Ecuador (Deportes)",EC| Directv Sports HD
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/11024
+#EXTINF:-1 tvg-id="" tvg-name="EC| Directv Sports Plus HD" tvg-logo="http://ceoapps.org/logos/directvsportsplus2.png" group-title="TV | Ecuador (Deportes)",EC| Directv Sports Plus HD
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/11026
+#EXTINF:-1 tvg-id="" tvg-name="EC| Ecotel" tvg-logo="http://ceoapps.org/logos/ecotel.png" group-title="TV | Ecuador",EC| Ecotel
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/2130489
+#EXTINF:-1 tvg-id="Ec7.Ec" tvg-name="EC| Ecuador TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/EcuadorTV_logo.png" group-title="TV | Ecuador",EC| Ecuador TV
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/11029
+#EXTINF:-1 tvg-id="Ec7.Ec" tvg-name="EC| Ecuador TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/EcuadorTV_logo.png" group-title="TV | Ecuador",EC| Ecuador TV HD
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/11030
+#EXTINF:-1 tvg-id="Ec2.Ec" tvg-name="EC| Ecuavisa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Logo_Ecuavisa.svg/640px-Logo_Ecuavisa.svg.png" group-title="TV | Ecuador",EC| Ecuavisa
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/11031
+#EXTINF:-1 tvg-id="Ec2.Ec" tvg-name="EC| Ecuavisa HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Logo_Ecuavisa.svg/640px-Logo_Ecuavisa.svg.png" group-title="TV | Ecuador",EC| Ecuavisa HD
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/11032
+#EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="EC| Ecuavisa Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Logo_Ecuavisa.svg/640px-Logo_Ecuavisa.svg.png" group-title="TV | Ecuador",EC| Ecuavisa Internacional
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/11033
+#EXTINF:-1 tvg-id="Ec2Int" tvg-name="EC| Ecuavisa Internacional HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Logo_Ecuavisa.svg/640px-Logo_Ecuavisa.svg.png" group-title="TV | Ecuador",EC| Ecuavisa Internacional HD
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/147959
+#EXTINF:-1 tvg-id="" tvg-name="EC| Ecuavisa Guayaquil HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Logo_Ecuavisa.svg/640px-Logo_Ecuavisa.svg.png" group-title="TV | Ecuador",EC| Ecuavisa Guayaquil HD
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/2138876
+#EXTINF:-1 tvg-id="" tvg-name="EC| Ecuavisa Quito HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Logo_Ecuavisa.svg/640px-Logo_Ecuavisa.svg.png" group-title="TV | Ecuador",EC| Ecuavisa Quito HD
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/2138875
+#EXTINF:-1 tvg-id="Ec2.Ec" tvg-name="EC| Ecuavisa Sierra" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Logo_Ecuavisa.svg/640px-Logo_Ecuavisa.svg.png" group-title="TV | Ecuador",EC| Ecuavisa Sierra
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/176963
+#EXTINF:-1 tvg-id="" tvg-name="EC| El Canal del Futbol FHD" tvg-logo="http://l3d.us:25461/images/5b53a9aaf5778c6259e3faecd5e46ef1.png" group-title="TV | Ecuador (Deportes)",EC| El Canal del Futbol FHD
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/10394
+#EXTINF:-1 tvg-id="" tvg-name="EC| EL CANAL DEL FUTBOL FHD   ( SOLO EVENTOS)" tvg-logo="http://l3d.us:25461/images/5b53a9aaf5778c6259e3faecd5e46ef1.png" group-title="TV | Ecuador (Deportes)",EC| EL CANAL DEL FUTBOL FHD   ( SOLO EVENTOS)
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/176964
+#EXTINF:-1 tvg-id="" tvg-name="EC| El Canal del Futbol HD" tvg-logo="http://l3d.us:25461/images/5b53a9aaf5778c6259e3faecd5e46ef1.png" group-title="TV | Ecuador (Deportes)",EC| El Canal del Futbol HD
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/10395
+#EXTINF:-1 tvg-id="" tvg-name="EC| EL CANAL DEL FUTBOL HD ( SOLO EVENTOS)" tvg-logo="http://l3d.us:25461/images/5b53a9aaf5778c6259e3faecd5e46ef1.png" group-title="TV | Ecuador (Deportes)",EC| EL CANAL DEL FUTBOL HD ( SOLO EVENTOS)
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/176965
+#EXTINF:-1 tvg-id="" tvg-name="EC| El Canal del Futbol SD" tvg-logo="http://l3d.us:25461/images/5b53a9aaf5778c6259e3faecd5e46ef1.png" group-title="TV | Ecuador (Deportes)",EC| El Canal del Futbol SD
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/10396
+#EXTINF:-1 tvg-id="" tvg-name="EC| EL CANAL DEL FUTBOL SD ( SOLO EVENTOS)" tvg-logo="http://l3d.us:25461/images/5b53a9aaf5778c6259e3faecd5e46ef1.png" group-title="TV | Ecuador (Deportes)",EC| EL CANAL DEL FUTBOL SD ( SOLO EVENTOS)
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/176966
+#EXTINF:-1 tvg-id="Ec8.Ec" tvg-name="EC| Gamavision" tvg-logo="https://seeklogo.com/images/G/gamavision-actual-fondo-blanco-logo-75BB031664-seeklogo.com.png" group-title="TV | Ecuador",EC| Gamavision
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/11034
+#EXTINF:-1 tvg-id="Ec8.Ec" tvg-name="EC| Gamavision HD" tvg-logo="https://seeklogo.com/images/G/gamavision-actual-fondo-blanco-logo-75BB031664-seeklogo.com.png" group-title="TV | Ecuador",EC| Gamavision HD
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/147955
+#EXTINF:-1 tvg-id="" tvg-name="EC| Gol TV (MOVIL)" tvg-logo="http://ceoapps.org/logos/goltv.png" group-title="TV | Ecuador (Deportes)",EC| Gol TV (MOVIL)
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/180467
+#EXTINF:-1 tvg-id="" tvg-name="EC| GOL TV FHD" tvg-logo="http://ceoapps.org/logos/goltv.png" group-title="TV | Ecuador (Deportes)",EC| GOL TV FHD
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/180460
+#EXTINF:-1 tvg-id="" tvg-name="EC| GOL TV HD (OPC 1)" tvg-logo="http://ceoapps.org/logos/goltv.png" group-title="TV | Ecuador (Deportes)",EC| GOL TV HD (OPC 1)
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/180461
+#EXTINF:-1 tvg-id="" tvg-name="EC| Gol TV HD (OPCION 2)" tvg-logo="http://ceoapps.org/logos/goltv.png" group-title="TV | Ecuador (Deportes)",EC| Gol TV HD (OPCION 2)
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/180469
+#EXTINF:-1 tvg-id="" tvg-name="EC| Gol TV | Ecuador" tvg-logo="http://ceoapps.org/logos/goltv.png" group-title="TV | Ecuador (Deportes)",EC| Gol TV | Ecuador
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/180453
+#EXTINF:-1 tvg-id="" tvg-name="EC| GOLTV ECUADOR HD" tvg-logo="http://l3d.us:8080/images/6de09427c8f65f71ce84d69e3414fbb8.png" group-title="TV | Ecuador (Deportes)",EC| GOLTV ECUADOR HD
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/180475
+#EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="EC| Oromar Television" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Oromar_logo.png" group-title="TV | Ecuador",EC| Oromar Television
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/147956
+#EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="EC| Oromar Television HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Oromar_logo.png" group-title="TV | Ecuador",EC| Oromar Television HD
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/11035
+#EXTINF:-1 tvg-id="Ec4HD.Ec" tvg-name="EC| RTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Rts_logo.png" group-title="TV | Ecuador",EC| RTS
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/11037
+#EXTINF:-1 tvg-id="Ec4HD.Ec" tvg-name="EC| RTS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Rts_logo.png" group-title="TV | Ecuador",EC| RTS HD
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/11036
+#EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="EC| RTU" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/04/Canal-RTU-Ecuador-en-vivo-Online.png" group-title="TV | Ecuador",EC| RTU
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/153890
+#EXTINF:-1 tvg-id="Ec10.Ec" tvg-name="EC| TC Television" tvg-logo="http://ceoapps.org/logos/tc2.png" group-title="TV | Ecuador",EC| TC Television
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/11038
+#EXTINF:-1 tvg-id="Ec10HD.Ec" tvg-name="EC| TC Television HD" tvg-logo="http://ceoapps.org/logos/tc2.png" group-title="TV | Ecuador",EC| TC Television HD
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/11039
+#EXTINF:-1 tvg-id="Ec5.Ec" tvg-name="EC| Teleamazonas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/1200px-Teleamazonas_Logo.png" group-title="TV | Ecuador",EC| Teleamazonas
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/11040
+#EXTINF:-1 tvg-id="" tvg-name="EC| Teleamazonas Guayaquil HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/1200px-Teleamazonas_Logo.png" group-title="TV | Ecuador",EC| Teleamazonas Guayaquil HD
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/2145107
+#EXTINF:-1 tvg-id="Ec5HD.Ec" tvg-name="EC| Teleamazonas HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/1200px-Teleamazonas_Logo.png" group-title="TV | Ecuador",EC| Teleamazonas HD
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/11043
+#EXTINF:-1 tvg-id="Ec5.Ec" tvg-name="EC| Teleamazonas Quito" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/1200px-Teleamazonas_Logo.png" group-title="TV | Ecuador",EC| Teleamazonas Quito
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/147954
+#EXTINF:-1 tvg-id="Ec5HD.Ec" tvg-name="EC| Teleamazonas Quito HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/1200px-Teleamazonas_Logo.png" group-title="TV | Ecuador",EC| Teleamazonas Quito HD
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/11042
+#EXTINF:-1 tvg-id="Ec5HD.Ec" tvg-name="EC| Teleamazonas Sierra" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/1200px-Teleamazonas_Logo.png" group-title="TV | Ecuador",EC| Teleamazonas Sierra
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/176976
+#EXTINF:-1 tvg-id="ecuadortv.ec" tvg-name="EC| TVC" tvg-logo="https://seeklogo.com/images/T/tvc-ecuador-logo-DE265485AA-seeklogo.com.png" group-title="TV | Ecuador",EC| TVC
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/11044
+#EXTINF:-1 tvg-id="ecuadortv.ec" tvg-name="EC| TVC HQ" tvg-logo="https://seeklogo.com/images/T/tvc-ecuador-logo-DE265485AA-seeklogo.com.png" group-title="TV | Ecuador",EC| TVC HQ
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/147952
+#EXTINF:-1 tvg-id="" tvg-name="EC|: Hechos Ecuador" tvg-logo="http://ceoapps.org/logos/hechosecuador.png" group-title="TV | Ecuador",EC|: Hechos Ecuador
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/2130559
+#EXTINF:-1 tvg-id="" tvg-name="EC|: Sono Onda" tvg-logo="https://sonoonda.com/wp-content/uploads/2022/01/cropped-cropped-cropped-cropped-215853981_1495774530757901_6841612693650402946_n.png" group-title="TV | Ecuador",EC|: Sono Onda
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/2130709
+#EXTINF:-1 tvg-id="" tvg-name="EC|: Televicentro" tvg-logo="https://seeklogo.com/images/T/tvc-ecuador-logo-DE265485AA-seeklogo.com.png" group-title="TV | Ecuador",EC|: Televicentro
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/2130710
+#EXTINF:-1 tvg-id="cinemexicano.mx" tvg-name="P | A3cine HD" tvg-logo="http://ceoapps.org/logos/a3cine2.png" group-title="TV | Peliculas",P | A3cine HD
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/197239
+#EXTINF:-1 tvg-id="AzCinema.mx" tvg-name="P | Azteca Cinema" tvg-logo="https://mplay.es/images/2020/canales-azcinema.png" group-title="TV | Peliculas",P | Azteca Cinema
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/10841
+#EXTINF:-1 tvg-id="azcinema.mx" tvg-name="P | Azteca Cinema HD" tvg-logo="https://mplay.es/images/2020/canales-azcinema.png" group-title="TV | Peliculas",P | Azteca Cinema HD
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/197413
+#EXTINF:-1 tvg-id="cinelatino.mx" tvg-name="P | Cine Latino" tvg-logo="http://ceoapps.org/logos/cinelatino.png" group-title="TV | Peliculas",P | Cine Latino
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/10843
+#EXTINF:-1 tvg-id="cinelatino.mx" tvg-name="P | Cine Latino HQ" tvg-logo="http://ceoapps.org/logos/cinelatino.png" group-title="TV | Peliculas",P | Cine Latino HQ
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/155849
+#EXTINF:-1 tvg-id="cinesony.mx" tvg-name="P | Cine Sony HD" tvg-logo="http://ceoapps.org/logos/cinesony.png" group-title="TV | Peliculas",P | Cine Sony HD
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/197327
+#EXTINF:-1 tvg-id="cinecanal.mx" tvg-name="P | Cinecanal" tvg-logo="http://ceoapps.org/logos/cinecanal.png" group-title="TV | Peliculas",P | Cinecanal
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/10844
+#EXTINF:-1 tvg-id="cinecanal.mx" tvg-name="P | Cinecanal HD" tvg-logo="http://ceoapps.org/logos/cinecanal.png" group-title="TV | Peliculas",P | Cinecanal HD
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/10845
+#EXTINF:-1 tvg-id="canalcinemadinamita.mx" tvg-name="P | Cinema Dinamita" tvg-logo="http://ceoapps.org/logos/cinemadinamita.png" group-title="TV | Peliculas",P | Cinema Dinamita
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/75724
+#EXTINF:-1 tvg-id="canalcinemadinamita.mx" tvg-name="P | Cinema Dinamita HD" tvg-logo="http://ceoapps.org/logos/cinemadinamita.png" group-title="TV | Peliculas",P | Cinema Dinamita HD
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/197237
+#EXTINF:-1 tvg-id="cinemax.mx" tvg-name="P | Cinemax" tvg-logo="http://ceoapps.org/logos/cinemax.png" group-title="TV | Peliculas",P | Cinemax
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/10846
+#EXTINF:-1 tvg-id="cinemax.mx" tvg-name="P | Cinemax HD" tvg-logo="http://ceoapps.org/logos/cinemax.png" group-title="TV | Peliculas",P | Cinemax HD
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/10847
+#EXTINF:-1 tvg-id="" tvg-name="P | Claro Cinema" tvg-logo="http://ceoapps.org/logos/clarocinemax.png" group-title="TV | Peliculas",P | Claro Cinema
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/2091457
+#EXTINF:-1 tvg-id="depelicula.mx" tvg-name="P | De Pelicula" tvg-logo="https://static.epg.best/mx/DePelicula.mx.png" group-title="TV | Peliculas",P | De Pelicula
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/10856
+#EXTINF:-1 tvg-id="depeliculaclasico.mx" tvg-name="P | De Pelicula Clásico" tvg-logo="http://ceoapps.org/logos/dpclasico1.png" group-title="TV | Peliculas",P | De Pelicula Clásico
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/201864
+#EXTINF:-1 tvg-id="depelicula.mx" tvg-name="P | De Pelicula HQ" tvg-logo="https://static.epg.best/mx/DePelicula.mx.png" group-title="TV | Peliculas",P | De Pelicula HQ
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/154098
+#EXTINF:-1 tvg-id="peliculamultiplex.mx" tvg-name="P | De Pelicula Plus" tvg-logo="https://forounivers.com/uploads/monthly_2021_08/small.DePeliculaPlus_logoFull-ver.png.80ad9c76bb20932c67d9f7b3b4166228.png" group-title="TV | Peliculas",P | De Pelicula Plus
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/10855
+#EXTINF:-1 tvg-id="peliculamultiplex.mx" tvg-name="P | De Pelicula Plus HD" tvg-logo="https://forounivers.com/uploads/monthly_2021_08/small.DePeliculaPlus_logoFull-ver.png.80ad9c76bb20932c67d9f7b3b4166228.png" group-title="TV | Peliculas",P | De Pelicula Plus HD
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/10857
+#EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="P | DHE" tvg-logo="http://ceoapps.org/logos/dhe.png" group-title="TV | Peliculas",P | DHE
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/154097
+#EXTINF:-1 tvg-id="filmandarts.mx" tvg-name="P | Film & Arts" tvg-logo="https://static.epg.best/mx/FilmAndArts.mx.png" group-title="TV | Peliculas",P | Film & Arts
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/10876
+#EXTINF:-1 tvg-id="" tvg-name="P | Film & Arts HD" tvg-logo="https://static.epg.best/mx/FilmAndArts.mx.png" group-title="TV | Peliculas",P | Film & Arts HD
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/2145709
+#EXTINF:-1 tvg-id="goldenedge.mx" tvg-name="P | Golden Edge" tvg-logo="https://static.epg.best/mx/GoldenEdge.mx.png" group-title="TV | Peliculas",P | Golden Edge
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/10859
+#EXTINF:-1 tvg-id="goldenedge.mx" tvg-name="P | Golden Edge HD" tvg-logo="https://static.epg.best/mx/GoldenEdge.mx.png" group-title="TV | Peliculas",P | Golden Edge HD
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/154111
+#EXTINF:-1 tvg-id="goldenplus.mx" tvg-name="P | Golden Plus" tvg-logo="http://fanc.tmsimg.com/assets/s68317_ll_h3_ab.png" group-title="TV | Peliculas",P | Golden Plus
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/10860
+#EXTINF:-1 tvg-id="goldenplus.mx" tvg-name="P | Golden Plus HD" tvg-logo="http://fanc.tmsimg.com/assets/s68317_ll_h3_ab.png" group-title="TV | Peliculas",P | Golden Plus HD
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/10862
+#EXTINF:-1 tvg-id="goldenpremier.mx" tvg-name="P | Golden Premier" tvg-logo="http://fanc.tmsimg.com/assets/s80596_ll_h3_ab.png" group-title="TV | Peliculas",P | Golden Premier
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/200948
+#EXTINF:-1 tvg-id="goldenpremier.mx" tvg-name="P | Golden Premier HD" tvg-logo="http://fanc.tmsimg.com/assets/s80596_ll_h3_ab.png" group-title="TV | Peliculas",P | Golden Premier HD
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/200947
+#EXTINF:-1 tvg-id="golden.mx" tvg-name="P | Golden." tvg-logo="http://xtream.host/imagenes/canales/golden.png " group-title="TV | Peliculas",P | Golden.
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/10861
+#EXTINF:-1 tvg-id="golden.mx" tvg-name="P | Golden HD" tvg-logo="http://xtream.host/imagenes/canales/golden.png " group-title="TV | Peliculas",P | Golden HD
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/154110
+#EXTINF:-1 tvg-id="hbo.mx" tvg-name="P | HBO" tvg-logo="http://ceoapps.org/logos/hbo.png" group-title="TV | Peliculas",P | HBO
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/10886
+#EXTINF:-1 tvg-id="hbo.mx" tvg-name="P | HBO HD" tvg-logo="http://ceoapps.org/logos/hbo.png" group-title="TV | Peliculas",P | HBO HD
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/10885
+#EXTINF:-1 tvg-id="hboplus.mx" tvg-name="P | HBO +" tvg-logo="https://static.epg.best/mx/HBOPlus.mx.png" group-title="TV | Peliculas",P | HBO +
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/10879
+#EXTINF:-1 tvg-id="hboplus.mx" tvg-name="P | HBO + HD" tvg-logo="https://static.epg.best/mx/HBOPlus.mx.png" group-title="TV | Peliculas",P | HBO + HD
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/10880
+#EXTINF:-1 tvg-id="hbo2.mx" tvg-name="P | HBO 2" tvg-logo="http://ceoapps.org/logos/hbo2.png" group-title="TV | Peliculas",P | HBO 2
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/10884
+#EXTINF:-1 tvg-id="hbo2.mx" tvg-name="P | HBO 2 HD" tvg-logo="http://ceoapps.org/logos/hbo2.png" group-title="TV | Peliculas",P | HBO 2 HD
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/10883
+#EXTINF:-1 tvg-id="hbofamily.mx" tvg-name="P | HBO Family" tvg-logo="https://static.epg.best/mx/HBOFamily.mx.png" group-title="TV | Peliculas",P | HBO Family
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/10877
+#EXTINF:-1 tvg-id="hbofamily.mx" tvg-name="P | HBO Family HD" tvg-logo="https://static.epg.best/mx/HBOFamily.mx.png" group-title="TV | Peliculas",P | HBO Family HD
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/10878
+#EXTINF:-1 tvg-id="hbomundi.mx" tvg-name="P | HBO Mundi" tvg-logo="https://cdn.mitvstatic.com/channels/ar_max_m.png" group-title="TV | Peliculas",P | HBO Mundi
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/10863
+#EXTINF:-1 tvg-id="hbomundi.mx" tvg-name="P | HBO Mundi HQ" tvg-logo="https://cdn.mitvstatic.com/channels/ar_max_m.png" group-title="TV | Peliculas",P | HBO Mundi HQ
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/155167
+#EXTINF:-1 tvg-id="hbopo.mx" tvg-name="P | HBO POP" tvg-logo="https://www.vhv.rs/dpng/d/438-4382659_hbo-pop-png-transparent-png.png" group-title="TV | Peliculas",P | HBO POP
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/41421
+#EXTINF:-1 tvg-id="hbopo.mx" tvg-name="P | HBO POP HD" tvg-logo="https://www.vhv.rs/dpng/d/438-4382659_hbo-pop-png-transparent-png.png" group-title="TV | Peliculas",P | HBO POP HD
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/41420
+#EXTINF:-1 tvg-id="hbosignature.mx" tvg-name="P | HBO Signature" tvg-logo="https://static.epg.best/pa/HBOSignatureLatinAmerica.pa.png" group-title="TV | Peliculas",P | HBO Signature
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/10881
+#EXTINF:-1 tvg-id="hbosignature.mx" tvg-name="P | HBO Signature HD" tvg-logo="https://static.epg.best/pa/HBOSignatureLatinAmerica.pa.png" group-title="TV | Peliculas",P | HBO Signature HD
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/10882
+#EXTINF:-1 tvg-id="hboxtreme.mx" tvg-name="P | HBO Xtreme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="TV | Peliculas",P | HBO Xtreme
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/197618
+#EXTINF:-1 tvg-id="hboxtreme.mx" tvg-name="P | HBO Xtreme HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="TV | Peliculas",P | HBO Xtreme HD
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/157156
+#EXTINF:-1 tvg-id="multipremier.mx" tvg-name="P | Multipremier" tvg-logo="http://ceoapps.org/logos/multipremier.png" group-title="TV | Peliculas",P | Multipremier
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/201151
+#EXTINF:-1 tvg-id="panico.mx" tvg-name="P | Panico" tvg-logo="http://ceoapps.org/logos/panico.png" group-title="TV | Peliculas",P | Panico
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/25726
+#EXTINF:-1 tvg-id="panico.mx" tvg-name="P | Panico HD" tvg-logo="http://ceoapps.org/logos/panico.png" group-title="TV | Peliculas",P | Panico HD
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/155171
+#EXTINF:-1 tvg-id="paramountchannel.mx" tvg-name="P | Paramount Channel" tvg-logo="http://fanc.tmsimg.com/assets/s91029_ll_h3_ab.png" group-title="TV | Peliculas",P | Paramount Channel
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/10866
+#EXTINF:-1 tvg-id="paramountchannel.mx" tvg-name="P | Paramount Channel HD" tvg-logo="http://fanc.tmsimg.com/assets/s91029_ll_h3_ab.png" group-title="TV | Peliculas",P | Paramount Channel HD
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/10867
+#EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="P | Space |  CO " tvg-logo="http://ceoapps.org/logos/space.png" group-title="TV | Peliculas",P | Space |  CO 
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/193852
+#EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="P | Space |  CO | HD" tvg-logo="http://ceoapps.org/logos/space.png" group-title="TV | Peliculas",P | Space |  CO | HD
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/193851
+#EXTINF:-1 tvg-id="space.mx" tvg-name="P | Space | MX" tvg-logo="http://ceoapps.org/logos/space.png" group-title="TV | Peliculas",P | Space | MX
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/10870
+#EXTINF:-1 tvg-id="space.mx" tvg-name="P | Space | MX | HD" tvg-logo="http://ceoapps.org/logos/space.png" group-title="TV | Peliculas",P | Space | MX | HD
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/10871
+#EXTINF:-1 tvg-id="starzencore.us" tvg-name="P | Starz Encore HD" tvg-logo="http://ceoapps.org/logos/starzencore.png" group-title="TV | Peliculas",P | Starz Encore HD
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/36818
+#EXTINF:-1 tvg-id="studiouniversal.mx" tvg-name="P | Studio Universal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/2560px-Logo_Studio_Universal.svg.png" group-title="TV | Peliculas",P | Studio Universal
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/10872
+#EXTM3U
+#EXTINF:-1 tvg-id="studiouniversal.mx" tvg-name="P | Studio Universal HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/2560px-Logo_Studio_Universal.svg.png" group-title="TV | Peliculas",P | Studio Universal HD
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/10873
+#EXTINF:-1 tvg-id="syfy.mx" tvg-name="P | SYFY" tvg-logo="http://ceoapps.org/logos/syfy.png" group-title="TV | Peliculas",P | SYFY
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/10868
+#EXTINF:-1 tvg-id="syfy.mx" tvg-name="P | SYFY HD" tvg-logo="http://ceoapps.org/logos/syfy.png" group-title="TV | Peliculas",P | SYFY HD
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/10869
+#EXTINF:-1 tvg-id="tcm.mx" tvg-name="P | TCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png" group-title="TV | Peliculas",P | TCM
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/10874
+#EXTINF:-1 tvg-id="tcm.mx" tvg-name="P | TCM HQ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png" group-title="TV | Peliculas",P | TCM HQ
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/187786
+#EXTINF:-1 tvg-id="tnt.mx" tvg-name="P | TNT" tvg-logo="http://ceoapps.org/logos/tnt.png" group-title="TV | Peliculas",P | TNT
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/10875
+#EXTINF:-1 tvg-id="tnt.mx" tvg-name="P | TNT HD" tvg-logo="http://ceoapps.org/logos/tnt.png" group-title="TV | Peliculas",P | TNT HD
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/155176
+#EXTINF:-1 tvg-id="" tvg-name="P | Universal Cinema" tvg-logo="http://ceoapps.org/logos/universalcinema.png" group-title="TV | Peliculas",P | Universal Cinema
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/2081448
+#EXTINF:-1 tvg-id="" tvg-name="P | Universal Comedy" tvg-logo="https://forounivers.com/uploads/monthly_2021_10/large.UNIVERSAL_COMEDY.png.533fc9f53f261cd502372e7eb4c23d09.png" group-title="TV | Peliculas",P | Universal Comedy
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/2081444
+#EXTINF:-1 tvg-id="" tvg-name="P | Universal Crime Este" tvg-logo="http://ceoapps.org/logos/universalcrime.png" group-title="TV | Peliculas",P | Universal Crime Este
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/2081445
+#EXTINF:-1 tvg-id="" tvg-name="P | Universal Crime Oeste" tvg-logo="http://ceoapps.org/logos/universalcrime.png" group-title="TV | Peliculas",P | Universal Crime Oeste
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/2081449
+#EXTINF:-1 tvg-id="" tvg-name="P | Universal Premier Este" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Universal_Premiere_2021.png" group-title="TV | Peliculas",P | Universal Premier Este
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/2081446
+#EXTINF:-1 tvg-id="" tvg-name="P | Universal Premier Oeste" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Universal_Premiere_2021.png" group-title="TV | Peliculas",P | Universal Premier Oeste
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/2081450
+#EXTINF:-1 tvg-id="" tvg-name="P | Universal Reality" tvg-logo="http://ceoapps.org/logos/universalreality.png" group-title="TV | Peliculas",P | Universal Reality
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/2081447
+#EXTINF:-1 tvg-id="studiouniversal.mx" tvg-name="P | Universal TV HD" tvg-logo="https://static.epg.best/ar/UniversalChannel.ar.png" group-title="TV | Entretenimiento",P | Universal TV HD
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/75651
